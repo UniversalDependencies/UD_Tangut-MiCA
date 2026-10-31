@@ -92,7 +92,7 @@
 23	𗉛	𗉛	NOUN	_	_	24	obj	_	Gloss=vexed, worried|LTranslit=źih¹|SpaceAfter=No
 24	𗨙	𗨙	VERB	_	_	25	acl	_	Gloss=bear, suffer; to receive|LTranslit=lheh²|SpaceAfter=No
 25	𘅍	𘅍	NOUN	_	_	34	obl	_	Gloss=time, times|LTranslit=zeh¹|SpaceAfter=No
-26	𗋕	𗋕	DET	_	PronType=Ind	30	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+26	𗋕	𗋕	DET	_	_	30	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 27	𗯨	𗯨	PROPN	_	_	30	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 28	𗙏	𗙏	PROPN	_	_	27	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 29	𘝯	𘝯	PROPN	_	_	27	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
@@ -113,7 +113,7 @@
 44	𘝯	𘝯	PROPN	_	_	42	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
 45	𘋢	𘋢	NOUN	_	_	49	nsubj	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
 46	𗥤	𗥤	VERB	_	_	45	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
-47	𗋕	𗋕	DET	_	PronType=Ind	48	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+47	𗋕	𗋕	DET	_	_	48	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 48	𗙏	𗙏	NOUN	_	_	49	obj	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 49	𘝯	𘝯	VERB	_	_	53	advcl	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
 50	𗖵	𗖵	SCONJ	_	_	49	mark	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
@@ -139,7 +139,7 @@
 10	𗧯	𗧯	VERB	_	_	27	advcl	_	Gloss=hold|LTranslit=nye¹|SpaceAfter=No
 11	𗩱	𗩱	AUX	_	_	10	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
 12	𗌭	𗌭	ADV	_	_	25	advmod	_	Gloss=so; conditional conjunction|LTranslit=qu̱¹|SpaceAfter=No
-13	𗋕	𗋕	DET	_	PronType=Ind	14	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+13	𗋕	𗋕	DET	_	_	14	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 14	𘋢	𘋢	NOUN	_	_	19	nmod	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
 15	𗥤	𗥤	VERB	_	_	14	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
 16	𗗙	𗗙	ADP	_	_	14	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
@@ -169,7 +169,7 @@
 5	𗛧	𗛧	VERB	_	_	7	acl	_	Gloss=float, drift, flow|LTranslit=lluh¹|SpaceAfter=No
 6	𗋭	𗋭	VERB	_	_	5	conj	_	Gloss=sink|LTranslit=dih¹|SpaceAfter=No
 7	𘅍	𘅍	NOUN	_	_	10	obl	_	Gloss=time, times|LTranslit=zeh¹|SpaceAfter=No
-8	𗋕	𗋕	DET	_	PronType=Ind	9	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+8	𗋕	𗋕	DET	_	_	9	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 9	𗦻	𗦻	NOUN	_	_	10	obj	_	Gloss=name; reputation|LTranslit=mme²|SpaceAfter=No
 10	𘆖	𘆖	VERB	_	_	15	advcl	_	Gloss=ranks, read aloud, chant|LTranslit=ntshə¹|SpaceAfter=No
 11	𗌭	𗌭	ADV	_	_	15	advmod	_	Gloss=so; conditional conjunction|LTranslit=qu̱¹|SpaceAfter=No
@@ -206,7 +206,7 @@
 20	𗿠	𗿠	NOUN	_	_	9	conj	_	Gloss=amber|LTranslit=tświw²|SpaceAfter=No
 21	𗊏	𗊏	NOUN	_	_	22	compound	_	Gloss=pearl|LTranslit=nwih²|SpaceAfter=No
 22	𗒘	𗒘	NOUN	_	_	9	conj	_	Gloss=true, real, authentic|LTranslit=ġhae̱¹|SpaceAfter=No
-23	𘆄	𘆄	PRON	_	PronType=Ind	9	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+23	𘆄	𘆄	PRON	_	_	9	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 24	𘏨	𘏨	NOUN	_	_	25	obj	_	Gloss=treasure|LTranslit=llaə̱h¹|SpaceAfter=No
 25	𗴿	𗴿	VERB	_	_	30	advcl	_	Gloss=pray|LTranslit=kuh¹|SpaceAfter=No
 26	𘔼	𘔼	SCONJ	_	_	25	mark	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
@@ -249,10 +249,10 @@
 14	𗦻	𗦻	NOUN	_	_	15	obj	_	Gloss=name; reputation|LTranslit=mme²|SpaceAfter=No
 15	𘆖	𘆖	VERB	_	_	26	advcl	_	Gloss=ranks, read aloud, chant|LTranslit=ntshə¹|SpaceAfter=No
 16	𗌭	𗌭	ADV	_	_	26	advmod	_	Gloss=so; conditional conjunction|LTranslit=qu̱¹|SpaceAfter=No
-17	𗋕	𗋕	DET	_	PronType=Ind	19	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+17	𗋕	𗋕	DET	_	_	19	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 18	𗱕	𗱕	DET	_	PronType=Tot	19	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 19	𘓐	𘓐	NOUN	_	_	26	nsubj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
-20	𘆄	𘆄	PRON	_	PronType=Ind	19	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+20	𘆄	𘆄	PRON	_	_	19	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 21	𗓽𗽇	𗓽𗽇	NOUN	_	_	22	compound	_	Gloss=Rakshasa|LTranslit=lo̱¹-tṣhaa̱¹|OrigLang=sa|SpaceAfter=No
 22	𗢛	𗢛	NOUN	_	_	23	nmod	_	Gloss=ghost, spirit|LTranslit=yu¹|SpaceAfter=No
 23	𗧹	𗧹	NOUN	_	_	26	obl	_	Gloss=disaster, calamity|LTranslit=rgir¹|SpaceAfter=No
@@ -280,14 +280,14 @@
 2	𗓱	𗓱	ADV	_	_	1	advmod	_	Gloss=if, perhaps|LTranslit=te¹|SpaceAfter=No
 3	𘓐	𘓐	NOUN	_	_	20	nsubj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 4	𗖌	𗖌	NUM	_	_	3	nummod	_	Gloss=one; indefinite article|LTranslit=gə²|SpaceAfter=No
-5	𘉑	𘉑	PRON	_	PronType=Ind	9	nsubj	_	Gloss=he, it|LTranslit=mə¹|SpaceAfter=No
+5	𘉑	𘉑	PRON	_	_	9	nsubj	_	Gloss=he, it|LTranslit=mə¹|SpaceAfter=No
 6	𘝦	𘝦	NOUN	_	_	7	compound	_	Gloss=skill, art; ergative marker|LTranslit=dźə?|SpaceAfter=No
 7	𘃡	𘃡	VERB	_	_	5	acl	_	Gloss=do, make; ergative marker|LTranslit=vi¹|SpaceAfter=No
 8	𗜍	𗜍	VERB	_	_	9	compound	_	Gloss=kill, slaughter|LTranslit=sa¹|SpaceAfter=No
 9	𗈙	𗈙	VERB	_	_	11	acl	_	Gloss=evil, envy|LTranslit=ntśu¹|SpaceAfter=No
 10	𗗟	𗗟	AUX	_	_	9	aux	_	Gloss=will, shall; future tense marker|LTranslit=ye¹|SpaceAfter=No
 11	𘅍	𘅍	NOUN	_	_	20	obl	_	Gloss=time, times|LTranslit=zeh¹|SpaceAfter=No
-12	𗋕	𗋕	DET	_	PronType=Ind	16	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+12	𗋕	𗋕	DET	_	_	16	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 13	𗯨	𗯨	PROPN	_	_	16	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 14	𗙏	𗙏	PROPN	_	_	13	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 15	𘝯	𘝯	PROPN	_	_	13	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
@@ -348,8 +348,8 @@
 31	𗱕	𗱕	DET	_	PronType=Tot	32	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 32	𗢛	𗢛	NOUN	_	_	39	nsubj	_	Gloss=ghost, spirit|LTranslit=yu¹|SpaceAfter=No
 33	𘊄	𘊄	ADJ	_	_	32	amod	_	Gloss=evil, vice|LTranslit=ṇoṃ²|SpaceAfter=No
-34	𘆄	𘆄	PRON	_	PronType=Ind	32	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
-35	𗋕	𗋕	DET	_	PronType=Ind	36	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+34	𘆄	𘆄	PRON	_	_	32	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+35	𗋕	𗋕	DET	_	_	36	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 36	𘓐	𘓐	NOUN	_	_	37	nmod	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 37	𗏣	𗏣	NOUN	_	_	39	obl	_	Gloss=in the direction of, towards; side|LTranslit=rer²|SpaceAfter=No
 38	𗑉	𗑉	NOUN	_	_	39	obj	_	Gloss=eye|LTranslit=me̱¹|SpaceAfter=No
@@ -395,7 +395,7 @@
 26	𗦻	𗦻	NOUN	_	_	27	obj	_	Gloss=name; reputation|LTranslit=mme²|SpaceAfter=No
 27	𘆖	𘆖	VERB	_	_	40	advcl	_	Gloss=ranks, read aloud, chant|LTranslit=ntshə¹|SpaceAfter=No
 28	𗌭	𗌭	ADV	_	_	40	advmod	_	Gloss=so; conditional conjunction|LTranslit=qu̱¹|SpaceAfter=No
-29	𗋕	𗋕	PRON	_	PronType=Ind	31	nsubj	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+29	𗋕	𗋕	PRON	_	_	31	nsubj	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 30	𗡶	𗡶	ADV	_	_	31	advmod	_	Gloss=along, along the surface|LTranslit=śe¹|SpaceAfter=No
 31	𘝪	𘝪	VERB	_	_	40	advcl	_	Gloss=separate|LTranslit=dźoṃ¹|SpaceAfter=No
 32	𗈜	𗈜	VERB	_	_	31	conj	_	Gloss=sever|LTranslit=qa̱²|SpaceAfter=No
@@ -465,7 +465,7 @@
 15	𗃬	𗃬	VERB	_	_	8	parataxis	_	Gloss=fear, dread|LTranslit=lli̱²|SpaceAfter=No
 16	𗐱	𗐱	AUX	_	Number=Plur|Person=2	15	aux	_	Gloss=collective plural indicator|LTranslit=ni²|SpaceAfter=No
 17	𗍳	𗍳	PRON	_	PronType=Prs	29	nsubj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
-18	𘆄	𘆄	PRON	_	PronType=Ind	17	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+18	𘆄	𘆄	PRON	_	_	17	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 19	𗤶	𗤶	NOUN	_	_	29	obl	_	Gloss=heart, mind|LTranslit=nne¹|SpaceAfter=No
 20	𗨳	𗨳	ADJ	_	_	19	amod	_	Gloss=return|LTranslit=tih¹|SpaceAfter=No
 21	𗳒	𗳒	ADP	_	_	19	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu̱²|SpaceAfter=No
@@ -478,7 +478,7 @@
 28	𗦻	𗦻	NOUN	_	_	29	obj	_	Gloss=name; reputation|LTranslit=mme²|SpaceAfter=No
 29	𘆖	𘆖	VERB	_	_	15	parataxis	_	Gloss=ranks, read aloud, chant|LTranslit=ntshə¹|SpaceAfter=No
 30	𗦇	𗦇	AUX	_	_	29	aux	_	Gloss=must|LTranslit=lli̱w²|SpaceAfter=No
-31	𗋕	𗋕	DET	_	PronType=Ind	32	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+31	𗋕	𗋕	DET	_	_	32	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 32	𘋢	𘋢	NOUN	_	_	40	nsubj	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
 33	𗥤	𗥤	VERB	_	_	32	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
 34	𗫂	𗫂	ADP	_	_	32	case	_	Gloss=topic marker 者; as for ...; concerning ...|LTranslit=ta¹|SpaceAfter=No
@@ -490,7 +490,7 @@
 40	𘈈	𘈈	VERB	_	_	29	parataxis	_	Gloss=grant, bestow|LTranslit=mmi¹|SpaceAfter=No
 41	𗩱	𗩱	AUX	_	_	40	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
 42	𗍳	𗍳	PRON	_	PronType=Prs	49	nsubj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
-43	𘆄	𘆄	PRON	_	PronType=Ind	42	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+43	𘆄	𘆄	PRON	_	_	42	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 44	𘎤	𘎤	ADV	_	_	45	compound	_	Gloss=if, supposing; one|LTranslit=tə¹|SpaceAfter=No
 45	𗓱	𗓱	ADV	_	_	49	advmod	_	Gloss=if, perhaps|LTranslit=te¹|SpaceAfter=No
 46	𗳱	𗳱	PRON	_	PronType=Prs	48	nmod	_	Gloss=it, he (third person pronoun)|LTranslit=tha²|SpaceAfter=No
@@ -519,8 +519,8 @@
 1	𗱕	𗱕	DET	_	PronType=Tot	3	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 2	𗗥	𗗥	NOUN	_	_	3	nmod	_	Gloss=market, sell, marry|LTranslit=źi²|SpaceAfter=No
 3	𗇋	𗇋	NOUN	_	_	12	nsubj	_	Gloss=S/A nominalizer, usually human; -er; the one/those who ...; s/he who ...|LTranslit=rmer²|SpaceAfter=No
-4	𘆄	𘆄	PRON	_	PronType=Ind	3	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
-5	𗋕	𗋕	PRON	_	PronType=Ind	6	nmod	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+4	𘆄	𘆄	PRON	_	_	3	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+5	𗋕	𗋕	PRON	_	_	6	nmod	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 6	𘒣	𘒣	NOUN	_	_	7	obj	_	Gloss=speech, word|LTranslit=da̱h²|SpaceAfter=No
 7	𗓁	𗓁	VERB	_	_	12	advcl	_	Gloss=listen, hear|LTranslit=mi¹|SpaceAfter=No
 8	𗅉	𗅉	SCONJ	_	_	7	mark	_	Gloss=conjunction; behind|LTranslit=nuo¹|SpaceAfter=No
@@ -535,7 +535,7 @@
 17	𘋢	𘋢	NOUN	_	_	13	obj	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
 18	𗥤	𗥤	VERB	_	_	17	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
 19	𘘣	𘘣	VERB	_	_	12	conj	_	Gloss=say; to call|LTranslit=yə²|SpaceAfter=No
-20	𗋕	𗋕	PRON	_	PronType=Ind	21	nmod	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+20	𗋕	𗋕	PRON	_	_	21	nmod	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 21	𗦻	𗦻	NOUN	_	_	22	obj	_	Gloss=name; reputation|LTranslit=mme²|SpaceAfter=No
 22	𘆖	𘆖	VERB	_	_	26	advcl	_	Gloss=ranks, read aloud, chant|LTranslit=ntshə¹|SpaceAfter=No
 23	𗖵	𗖵	SCONJ	_	_	22	mark	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
@@ -673,7 +673,7 @@
 1	𗉣	𗉣	PROPN	_	_	22	vocative	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
 2	𗅋	𗅋	PROPN	_	_	1	flat	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 3	𗋃	𗋃	PROPN	_	_	1	flat	_	Gloss=limit, end|LTranslit=si¹|SpaceAfter=No
-4	𗋕	𗋕	DET	_	PronType=Ind	8	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+4	𗋕	𗋕	DET	_	_	8	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 5	𗯨	𗯨	PROPN	_	_	8	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 6	𗙏	𗙏	PROPN	_	_	5	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 7	𘝯	𘝯	PROPN	_	_	5	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
@@ -681,7 +681,7 @@
 9	𗥤	𗥤	VERB	_	_	8	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
 10	𘌽	𘌽	PRON	_	PronType=Dem	16	nmod	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
 11	𗍊	𗍊	ADP	_	_	10	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
-12	𘆄	𘆄	PRON	_	PronType=Ind	10	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+12	𘆄	𘆄	PRON	_	_	10	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 13	𘜶	𘜶	ADJ	_	_	16	amod	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No
 14	𘉡	𘉡	ADJ	_	_	16	amod	_	Gloss=power, might|LTranslit=puh¹|SpaceAfter=No
 15	𗾈	𗾈	ADJ	_	_	16	amod	_	Gloss=worthy, virtue|LTranslit=mmi̱²|SpaceAfter=No
@@ -716,7 +716,7 @@
 6	𗴿	𗴿	VERB	_	_	8	acl	_	Gloss=pray|LTranslit=kuh¹|SpaceAfter=No
 7	𗧠	𗧠	AUX	_	_	6	aux	_	Gloss=desire, wish, lust, to want|LTranslit=qae̱h²|SpaceAfter=No
 8	𘅍	𘅍	NOUN	_	_	17	obl	_	Gloss=time, times|LTranslit=zeh¹|SpaceAfter=No
-9	𗋕	𗋕	DET	_	PronType=Ind	13	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+9	𗋕	𗋕	DET	_	_	13	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 10	𗯨	𗯨	PROPN	_	_	13	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 11	𗙏	𗙏	PROPN	_	_	10	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 12	𘝯	𘝯	PROPN	_	_	10	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
@@ -760,7 +760,7 @@
 16	𗰜	𗰜	NOUN	_	_	17	obj	_	Gloss=basic, cardinal|LTranslit=rmə̱r²|SpaceAfter=No
 17	𗽈	𗽈	VERB	_	_	21	advcl	_	Gloss=till, cultivate|LTranslit=llih¹|SpaceAfter=No
 18	𗖵	𗖵	SCONJ	_	_	17	mark	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
-19	𗿷	𗿷	DET	_	PronType=Ind	20	det	_	Gloss=have, possess|LTranslit=dźe²|SpaceAfter=No
+19	𗿷	𗿷	DET	_	_	20	det	_	Gloss=have, possess|LTranslit=dźe²|SpaceAfter=No
 20	𘓐	𘓐	NOUN	_	_	21	nsubj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 21	𘟠	𘟠	VERB	_	_	12	acl	_	Gloss=love, like|LTranslit=dzu̱¹|SpaceAfter=No
 22	𗼋	𗼋	VERB	_	_	21	conj	_	Gloss=respectful, reverent|LTranslit=dzwəh¹|SpaceAfter=No
@@ -774,7 +774,7 @@
 1	𗉣	𗉣	PROPN	_	_	12	vocative	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
 2	𗅋	𗅋	PROPN	_	_	1	flat	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 3	𗋃	𗋃	PROPN	_	_	1	flat	_	Gloss=limit, end|LTranslit=si¹|SpaceAfter=No
-4	𗋕	𗋕	DET	_	PronType=Ind	8	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+4	𗋕	𗋕	DET	_	_	8	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 5	𗯨	𗯨	PROPN	_	_	8	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 6	𗙏	𗙏	PROPN	_	_	5	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 7	𘝯	𘝯	PROPN	_	_	5	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
@@ -864,8 +864,8 @@
 27	𗳒	𗳒	ADP	_	_	20	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu̱²|SpaceAfter=No
 28	𗈪	𗈪	ADJ	_	_	29	amod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
 29	𘗽	𘗽	NOUN	_	_	35	obl	_	Gloss=longevity; life|LTranslit=zoh²|SpaceAfter=No
-30	𗋕	𗋕	PRON	_	PronType=Ind	29	nmod	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
-31	𘆄	𘆄	PRON	_	PronType=Ind	30	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+30	𗋕	𗋕	PRON	_	_	29	nmod	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+31	𘆄	𘆄	PRON	_	_	30	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 32	𗗙	𗗙	ADP	_	_	30	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 33	𗏺	𗏺	VERB	_	_	17	conj	_	Gloss=auxiliary verb; verb prefix optative marker - direction not found|LTranslit=rer²|SpaceAfter=No
 34	𗴿	𗴿	VERB	_	_	35	compound	_	Gloss=pray|LTranslit=kuh¹|SpaceAfter=No
@@ -878,7 +878,7 @@
 41	𘕿	𘕿	ADP	_	_	40	case	_	Gloss=locative particle in (the sky, the heart); on, around|LTranslit=ġha̱²|SpaceAfter=No
 42	𘝶	𘝶	NOUN	_	ExtPos=NOUN	57	parataxis	_	Gloss=why|LTranslit=the²|SpaceAfter=No
 43	𗦜	𗦜	PART	_	_	42	fixed	_	Gloss=say|LTranslit=so²|SpaceAfter=No
-44	𗋕	𗋕	DET	_	PronType=Ind	47	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+44	𗋕	𗋕	DET	_	_	47	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 45	𗩴	𗩴	ADJ	_	_	47	amod	_	Gloss=good, mercy|LTranslit=nni̱w²|SpaceAfter=No
 46	𗾖	𗾖	NOUN	_	_	47	nmod	_	Gloss=man, male|LTranslit=rgor¹|SpaceAfter=No
 47	𘈷	𘈷	NOUN	_	_	53	nmod	_	Gloss=son, child|LTranslit=gi²|SpaceAfter=No
@@ -919,7 +919,7 @@
 4	𗓱	𗓱	ADV	_	_	15	advmod	_	Gloss=if, perhaps|LTranslit=te¹|SpaceAfter=No
 5	𘓐	𘓐	NOUN	_	_	15	nsubj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 6	𗖌	𗖌	NUM	_	_	5	nummod	_	Gloss=one; indefinite article|LTranslit=gə²|SpaceAfter=No
-7	𗋕	𗋕	DET	_	PronType=Ind	11	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+7	𗋕	𗋕	DET	_	_	11	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 8	𗯨	𗯨	PROPN	_	_	11	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 9	𗙏	𗙏	PROPN	_	_	8	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 10	𘝯	𘝯	PROPN	_	_	8	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
@@ -969,7 +969,7 @@
 1	𗉣	𗉣	PROPN	_	_	25	vocative	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
 2	𗅋	𗅋	PROPN	_	_	1	flat	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 3	𗋃	𗋃	PROPN	_	_	1	flat	_	Gloss=limit, end|LTranslit=si¹|SpaceAfter=No
-4	𗋕	𗋕	DET	_	PronType=Ind	8	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+4	𗋕	𗋕	DET	_	_	8	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 5	𗯨	𗯨	PROPN	_	_	8	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 6	𗙏	𗙏	PROPN	_	_	5	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 7	𘝯	𘝯	PROPN	_	_	5	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
@@ -1009,7 +1009,7 @@
 9	𘘥	𘘥	VERB	_	_	0	root	_	Gloss=say, call|LTranslit=yə¹|SpaceAfter=No
 10	𗯨	𗯨	NOUN	_	_	11	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 11	𗖻	𗖻	NOUN	_	_	26	vocative	_	Gloss=respect|LTranslit=puh¹|SpaceAfter=No
-12	𗋕	𗋕	DET	_	PronType=Ind	16	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+12	𗋕	𗋕	DET	_	_	16	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 13	𗯨	𗯨	PROPN	_	_	16	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 14	𗙏	𗙏	PROPN	_	_	13	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 15	𘝯	𘝯	PROPN	_	_	13	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
@@ -1539,14 +1539,14 @@
 10	𘓐	𘓐	NOUN	_	_	2	conj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 11	𗅋	𗅋	DET	_	PronType=Neg	12	det	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 12	𘓐	𘓐	NOUN	_	_	2	conj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
-13	𘆄	𘆄	PRON	_	PronType=Ind	2	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+13	𘆄	𘆄	PRON	_	_	2	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 14	𘛽	𘛽	NOUN	_	_	17	obl	_	Gloss=body|LTranslit=lluh²|SpaceAfter=No
 15	𗳒	𗳒	ADP	_	_	14	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu̱²|SpaceAfter=No
 16	𗌗	𗌗	VERB	_	_	17	compound	_	Gloss=corss?, ferry|LTranslit=gu¹|SpaceAfter=No
 17	𗰛	𗰛	VERB	_	_	30	advcl	_	Gloss=to cross, to pass, to exceed; more|LTranslit=dzeh¹|SpaceAfter=No
 18	𗟭	𗟭	AUX	_	_	17	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=vwo̱²|SpaceAfter=No
 19	𗌭	𗌭	ADV	_	_	30	advmod	_	Gloss=so; conditional conjunction|LTranslit=qu̱¹|SpaceAfter=No
-20	𗋕	𗋕	PRON	_	PronType=Ind	22	nmod	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+20	𗋕	𗋕	PRON	_	_	22	nmod	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 21	𘜔	𘜔	ADJ	_	_	22	amod	_	Gloss=number, numeral, plural indicator; several|LTranslit=rŋi̱wr²|SpaceAfter=No
 22	𘛽	𘛽	NOUN	_	_	23	obj	_	Gloss=body|LTranslit=lluh²|SpaceAfter=No
 23	𗜓	𗜓	VERB	_	_	30	advcl	_	Gloss=appear, show|LTranslit=śa²|SpaceAfter=No
@@ -1596,7 +1596,7 @@
 1	𗉣	𗉣	PROPN	_	_	47	vocative	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
 2	𗅋	𗅋	PROPN	_	_	1	flat	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 3	𗋃	𗋃	PROPN	_	_	1	flat	_	Gloss=limit, end|LTranslit=si¹|SpaceAfter=No
-4	𗋕	𗋕	DET	_	PronType=Ind	8	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+4	𗋕	𗋕	DET	_	_	8	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 5	𗯨	𗯨	PROPN	_	_	8	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 6	𗙏	𗙏	PROPN	_	_	5	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 7	𘝯	𘝯	PROPN	_	_	5	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
@@ -1627,11 +1627,11 @@
 32	𘌽	𘌽	PRON	_	PronType=Dem	47	obl	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
 33	𘔼	𘔼	ADP	_	_	32	case	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
 34	𗍳	𗍳	PRON	_	PronType=Prs	47	nsubj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
-35	𘆄	𘆄	PRON	_	PronType=Ind	34	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+35	𘆄	𘆄	PRON	_	_	34	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 36	𗤶	𗤶	NOUN	_	_	47	obl	_	Gloss=heart, mind|LTranslit=nne¹|SpaceAfter=No
 37	𗨳	𗨳	ADJ	_	_	36	amod	_	Gloss=return|LTranslit=tih¹|SpaceAfter=No
 38	𗳒	𗳒	ADP	_	_	36	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu̱²|SpaceAfter=No
-39	𗋕	𗋕	DET	_	PronType=Ind	43	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+39	𗋕	𗋕	DET	_	_	43	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 40	𗯨	𗯨	PROPN	_	_	43	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 41	𗙏	𗙏	PROPN	_	_	40	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 42	𘝯	𘝯	PROPN	_	_	40	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
@@ -1647,7 +1647,7 @@
 # text_lzh = 是觀世音菩薩摩訶薩。於怖畏急難之中能施無畏。是故此娑婆世界。皆號之為施無畏者。
 # text_en = This World-Voice-Perceiver Bodhisattva-mahāsattva gives fearlessness [to those who are] in fearful emergencies. Therefore, he is called the ‘Giver of Fearlessness’ in this Sahā-World.”
 # text = 𗋕𗯨𗙏𘝯𘏞𗢈𗓚𘄽𗢈𗫂𗴒𗃬𗤺𗧹𘂤𗃬𗤋𘈈𗩱𗌭𘘦𘌽𗦗𗣧𗯨𗐯𗅁𗑷𗄊𗳱𗗙𗃬𗤋𘈈𗇋𘟂𘘥𘃞。
-1	𗋕	𗋕	DET	_	PronType=Ind	6	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+1	𗋕	𗋕	DET	_	_	6	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 2	𗯨	𗯨	PROPN	_	_	5	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 3	𗙏	𗙏	PROPN	_	_	2	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 4	𘝯	𘝯	PROPN	_	_	2	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
@@ -1787,7 +1787,7 @@
 13	𘜶	𘜶	ADJ	_	_	14	amod	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No
 14	𗇋	𗇋	NOUN	_	_	25	vocative	_	Gloss=S/A nominalizer, usually human; -er; the one/those who ...; s/he who ...|LTranslit=rmer²|SpaceAfter=No
 15	𗧓	𗧓	PRON	_	PronType=Prs	19	obj	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
-16	𘆄	𘆄	PRON	_	PronType=Ind	15	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+16	𘆄	𘆄	PRON	_	_	15	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 17	𗗙	𗗙	ADP	_	_	15	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 18	𗕿	𗕿	VERB	_	_	19	compound	_	Gloss=loving|LTranslit=ne²|SpaceAfter=No
 19	𘖛	𘖛	VERB	_	_	25	advcl	_	Gloss=kind, benevolence|LTranslit=śoṃ¹|SpaceAfter=No
@@ -1836,7 +1836,7 @@
 29	𘓐	𘓐	NOUN	_	_	15	conj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 30	𗅋	𗅋	DET	_	PronType=Neg	31	det	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 31	𘓐	𘓐	NOUN	_	_	15	conj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
-32	𘆄	𘆄	PRON	_	PronType=Ind	15	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+32	𘆄	𘆄	PRON	_	_	15	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 33	𗗙	𗗙	ADP	_	_	15	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 34	𗕿	𗕿	VERB	_	_	35	compound	_	Gloss=loving|LTranslit=ne²|SpaceAfter=No
 35	𘖛	𘖛	VERB	_	_	40	advcl	_	Gloss=kind, benevolence|LTranslit=śoṃ¹|SpaceAfter=No
@@ -1869,12 +1869,12 @@
 14	𘓐	𘓐	NOUN	_	_	9	conj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 15	𗅋	𗅋	DET	_	PronType=Neg	16	det	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 16	𘓐	𘓐	NOUN	_	_	9	conj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
-17	𘆄	𘆄	PRON	_	PronType=Ind	9	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+17	𘆄	𘆄	PRON	_	_	9	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 18	𗗙	𗗙	ADP	_	_	9	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 19	𗕿	𗕿	VERB	_	_	20	compound	_	Gloss=loving|LTranslit=ne²|SpaceAfter=No
 20	𘖛	𘖛	VERB	_	_	26	advcl	_	Gloss=kind, benevolence|LTranslit=śoṃ¹|SpaceAfter=No
 21	𗖵	𗖵	SCONJ	_	_	20	mark	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
-22	𗋕	𗋕	DET	_	PronType=Ind	24	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+22	𗋕	𗋕	DET	_	_	24	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 23	𗡦	𗡦	NOUN	_	_	24	compound	_	Gloss=a string of beads|LTranslit=ryər²|SpaceAfter=No
 24	𗙲	𗙲	NOUN	_	_	26	obj	_	Gloss=trap|LTranslit=ri̱r²|SpaceAfter=No
 25	𗋚	𗋚	ADV	_	_	26	advmod	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=və²|SpaceAfter=No
@@ -1964,7 +1964,7 @@
 10	𗅉	𗅉	ADV	_	_	11	advmod	_	Gloss=conjunction; behind|LTranslit=nuo¹|SpaceAfter=No
 11	𗤄	𗤄	VERB	_	_	0	root	_	Gloss=ask, inquire|LTranslit=ryər¹|SpaceAfter=No
 12	。	。	PUNCT	_	_	11	punct	_	Orig=_|SpaceAfter=No
-13	𗋕	𗋕	DET	_	PronType=Ind	15	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+13	𗋕	𗋕	DET	_	_	15	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 14	𗢳	𗢳	NOUN	_	_	15	nmod	_	Gloss=Buddha|LTranslit=tha̱¹|SpaceAfter=No
 15	𘈷	𘈷	NOUN	_	_	23	nsubj	_	Gloss=son, child|LTranslit=gi²|SpaceAfter=No
 16	𗙏	𗙏	PROPN	_	_	15	appos	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
@@ -2028,7 +2028,7 @@
 10	𘎪	𘎪	VERB	_	_	9	conj	_	Gloss=speak, talk, say|LTranslit=ntshe¹|SpaceAfter=No
 11	𗤋	𗤋	PART	_	Polarity=Neg	9	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 12	。	。	PUNCT	_	_	11	punct	_	Orig=_|SpaceAfter=No
-13	𗮅	𗮅	DET	_	PronType=Ind	16	det	_	Gloss=many, much, more|LTranslit=re̱r²|SpaceAfter=No
+13	𗮅	𗮅	DET	_	_	16	det	_	Gloss=many, much, more|LTranslit=re̱r²|SpaceAfter=No
 14	𗡞	𗡞	NUM	_	_	16	nummod	_	Gloss=thousand|LTranslit=tu̱h¹|SpaceAfter=No
 15	𗦲	𗦲	NUM	_	_	16	nummod	_	Gloss=a hundred million|LTranslit=rir²|SpaceAfter=No
 16	𗢳	𗢳	NOUN	_	_	17	obj	_	Gloss=Buddha|LTranslit=tha̱¹|SpaceAfter=No
@@ -2057,8 +2057,8 @@
 10	𘟀	𘟀	VERB	_	_	8	conj	_	Gloss=see|LTranslit=le²|SpaceAfter=No
 11	𗆫	𗆫	VERB	_	_	10	advcl	_	Gloss=think, think of; thought|LTranslit=rlər²|SpaceAfter=No
 12	。	。	PUNCT	_	_	11	punct	_	Orig=_|SpaceAfter=No
-13	𘃜	𘃜	PRON	_	ExtPos=PRON|PronType=Ind	17	nsubj	_	Gloss=permit; whatever is done|LTranslit=rar¹|SpaceAfter=No
-14	𘃜	𘃜	PRON	_	PronType=Ind	13	fixed	_	Gloss=permit; whatever is done|LTranslit=rar¹|SpaceAfter=No
+13	𘃜	𘃜	PRON	_	ExtPos=PRON	17	nsubj	_	Gloss=permit; whatever is done|LTranslit=rar¹|SpaceAfter=No
+14	𘃜	𘃜	PRON	_	_	13	fixed	_	Gloss=permit; whatever is done|LTranslit=rar¹|SpaceAfter=No
 15	𗄊	𗄊	DET	_	PronType=Tot	16	det	_	Gloss=all|LTranslit=zi²|SpaceAfter=No
 16	𗵺	𗵺	NOUN	_	_	17	obj	_	Gloss=benefit, advantage|LTranslit=vwa̱h¹|SpaceAfter=No
 17	𘟣	𘟣	VERB	_	_	5	parataxis	_	Gloss=have, possess|LTranslit=du¹|SpaceAfter=No
@@ -2137,7 +2137,7 @@
 3	𗀔	𗀔	ADP	_	_	2	case	_	Gloss=upper; locative particle on|LTranslit=tśhaw¹|SpaceAfter=No
 4	𗫻	𗫻	VERB	_	_	22	advcl	_	Gloss=live, stay, exist, to be found|LTranslit=ndźe¹|SpaceAfter=No
 5	，	，	PUNCT	_	_	4	punct	_	Orig=_|SpaceAfter=No
-6	𘉑	𘉑	PRON	_	PronType=Ind	9	obl	_	Gloss=he, it|LTranslit=mə¹|SpaceAfter=No
+6	𘉑	𘉑	PRON	_	_	9	obl	_	Gloss=he, it|LTranslit=mə¹|SpaceAfter=No
 7	𘝦	𘝦	ADP	_	ExtPos=ADP	6	case	_	Gloss=skill, art; ergative marker|LTranslit=dźə?|SpaceAfter=No
 8	𘃡	𘃡	ADP	_	_	7	fixed	_	Gloss=do, make; ergative marker|LTranslit=vi¹|SpaceAfter=No
 9	𘑄	𘑄	VERB	_	_	10	acl	_	Gloss=ban, prohibit, resist|LTranslit=du̱¹|SpaceAfter=No
@@ -2312,7 +2312,7 @@
 5	，	，	PUNCT	_	_	4	punct	_	Orig=_|SpaceAfter=No
 6	𗱕	𗱕	DET	_	PronType=Tot	7	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 7	𗢛	𗢛	NOUN	_	_	2	conj	_	Gloss=ghost, spirit|LTranslit=yu¹|SpaceAfter=No
-8	𘆄	𘆄	PRON	_	PronType=Ind	2	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+8	𘆄	𘆄	PRON	_	_	2	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 9	𗑠	𗑠	ADV	_	_	10	advmod	_	Gloss=same, and; comitative particle with|LTranslit=rir²|SpaceAfter=No
 10	𗄛	𗄛	VERB	_	_	20	advcl	_	Gloss=meet|LTranslit=rbi̱r²|SpaceAfter=No
 11	。	。	PUNCT	_	_	10	punct	_	Orig=_|SpaceAfter=No
@@ -2352,7 +2352,7 @@
 17	𗖵	𗖵	ADP	_	_	16	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 18	，	，	PUNCT	_	_	17	punct	_	Orig=_|SpaceAfter=No
 19	𘝵	𘝵	ADV	_	_	23	advmod	_	Gloss=self, oneself (reflexive pronoun)|LTranslit=ye¹|SpaceAfter=No
-20	𗯩	𗯩	ADV	_	PronType=Ind	23	advmod	_	Gloss=each, place; nominaliser|LTranslit=twu̱h¹|SpaceAfter=No
+20	𗯩	𗯩	ADV	_	_	23	advmod	_	Gloss=each, place; nominaliser|LTranslit=twu̱h¹|SpaceAfter=No
 21	𗈲	𗈲	ADV	_	_	23	advmod	_	Gloss=far, distant|LTranslit=qhwa̱¹|SpaceAfter=No
 22	𗈲	𗈲	ADV	_	_	23	advmod	_	Gloss=far, distant|LTranslit=qhwa̱¹|SpaceAfter=No
 23	𗶲	𗶲	VERB	_	_	0	root	_	Gloss=flee, run away|LTranslit=ta̱¹|SpaceAfter=No
@@ -2642,7 +2642,7 @@
 17	𗙏	𗙏	NOUN	_	_	16	obl	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 18	，	，	PUNCT	_	_	17	punct	_	Orig=_|SpaceAfter=No
 19	𗏹	𗏹	ADV	_	_	22	advmod	_	Gloss=frequently, often; continually|LTranslit=yu²|SpaceAfter=No
-20	𗋕	𗋕	PRON	_	PronType=Ind	22	obj	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+20	𗋕	𗋕	PRON	_	_	22	obj	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 21	𗖵	𗖵	ADP	_	_	20	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 22	𗆫	𗆫	VERB	_	_	0	root	_	Gloss=think, think of; thought|LTranslit=rlər²|SpaceAfter=No
 23	𗦇	𗦇	AUX	_	_	22	aux	_	Gloss=must|LTranslit=lli̱w²|SpaceAfter=No
@@ -2754,7 +2754,7 @@
 42	𗪺	𗪺	NOUN	_	_	31	conj	_	Gloss=power, strength|LTranslit=ġhai̱¹|SpaceAfter=No
 43	𗓁	𗓁	VERB	_	_	52	advcl	_	Gloss=listen, hear|LTranslit=mi¹|SpaceAfter=No
 44	𗌭	𗌭	ADV	_	_	52	advmod	_	Gloss=so; conditional conjunction|LTranslit=qu̱¹|SpaceAfter=No
-45	𗋕	𗋕	DET	_	PronType=Ind	46	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+45	𗋕	𗋕	DET	_	_	46	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 46	𘓐	𘓐	NOUN	_	_	50	nmod	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 47	𘙌	𘙌	ADP	_	_	46	case	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kə¹|SpaceAfter=No
 48	𗅆	𗅆	ADJ	_	_	50	amod	_	Gloss=calm|LTranslit=deṃ²|SpaceAfter=No
@@ -2877,7 +2877,7 @@
 26	𗍫	𗍫	NUM	_	_	21	nummod	_	Gloss=two|LTranslit=nnə¹|SpaceAfter=No
 27	𗗙	𗗙	ADP	_	_	21	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 28	𘟀	𘟀	VERB	_	_	46	advcl	_	Gloss=see|LTranslit=le²|SpaceAfter=No
-29	𗋕	𗋕	DET	_	PronType=Ind	31	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+29	𗋕	𗋕	DET	_	_	31	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 30	𗍫	𗍫	NUM	_	_	31	nummod	_	Gloss=two|LTranslit=nnə¹|SpaceAfter=No
 31	𗺌	𗺌	NOUN	_	_	34	obj	_	Gloss=foot|LTranslit=ri̱wr²|SpaceAfter=No
 32	𗗙	𗗙	ADP	_	_	31	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
@@ -2975,7 +2975,7 @@
 2	𗾖	𗾖	NOUN	_	_	3	nmod	_	Gloss=man, male|LTranslit=rgor¹|SpaceAfter=No
 3	𘈷	𘈷	NOUN	_	_	14	vocative	_	Gloss=son, child|LTranslit=gi²|SpaceAfter=No
 4	𗧓	𗧓	PRON	_	PronType=Prs	14	nsubj	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
-5	𘆄	𘆄	PRON	_	PronType=Ind	4	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+5	𘆄	𘆄	PRON	_	_	4	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 6	𘋢	𘋢	NOUN	_	_	12	nmod	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
 7	𗥤	𗥤	VERB	_	_	6	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
 8	𗗙	𗗙	ADP	_	_	6	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
@@ -3047,7 +3047,7 @@
 9	𗤋	𗤋	DET	_	PronType=Neg	8	det	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 10	𘟣	𘟣	NOUN	_	_	8	conj	_	Gloss=have, possess|LTranslit=du¹|SpaceAfter=No
 11	𘟠	𘟠	NOUN	_	_	8	conj	_	Gloss=love, like|LTranslit=dzu̱¹|SpaceAfter=No
-12	𘆄	𘆄	PRON	_	PronType=Ind	8	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+12	𘆄	𘆄	PRON	_	_	8	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 13	𘐡	𘐡	NOUN	_	_	17	obl	_	Gloss=order, sequence|LTranslit=ntśə¹|SpaceAfter=No
 14	𗖵	𗖵	ADP	_	_	13	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 15	𗖵	𗖵	ADP	_	_	13	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
@@ -3068,7 +3068,7 @@
 6	𗫻	𗫻	VERB	_	_	0	root	_	Gloss=live, stay, exist, to be found|LTranslit=ndźe¹|SpaceAfter=No
 7	𗧓	𗧓	PRON	_	PronType=Prs	8	nmod	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
 8	𘟀	𘟀	NOUN	_	_	13	nmod	_	Gloss=see|LTranslit=le²|SpaceAfter=No
-9	𘆄	𘆄	PRON	_	PronType=Ind	8	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+9	𘆄	𘆄	PRON	_	_	8	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 10	𘋠	𘋠	ADJ	_	_	11	compound	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
 11	𘋠	𘋠	ADJ	_	_	13	amod	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
 12	𘂫	𘂫	ADJ	_	_	13	amod	_	Gloss=change, become|LTranslit=vəh¹|SpaceAfter=No
@@ -3091,7 +3091,7 @@
 7	𗫻	𗫻	VERB	_	_	0	root	_	Gloss=live, stay, exist, to be found|LTranslit=ndźe¹|SpaceAfter=No
 8	𗧓	𗧓	PRON	_	PronType=Prs	9	nmod	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
 9	𘟀	𘟀	NOUN	_	_	13	nmod	_	Gloss=see|LTranslit=le²|SpaceAfter=No
-10	𘆄	𘆄	PRON	_	PronType=Ind	9	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+10	𘆄	𘆄	PRON	_	_	9	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 11	𘝅	𘝅	NOUN	_	_	13	nmod	_	Gloss=reversal|LTranslit=ntśhə²|SpaceAfter=No
 12	𗉷	𗉷	ADJ	_	_	11	amod	_	Gloss=inverted, reverse|LTranslit=ntśhu²|SpaceAfter=No
 13	𘄡	𘄡	NOUN	_	_	15	obl	_	Gloss=wisdom|LTranslit=seh²|SpaceAfter=No
@@ -3260,7 +3260,7 @@
 2	𗾖	𗾖	NOUN	_	_	3	nmod	_	Gloss=man, male|LTranslit=rgor¹|SpaceAfter=No
 3	𘈷	𘈷	NOUN	_	_	14	vocative	_	Gloss=son, child|LTranslit=gi²|SpaceAfter=No
 4	𗧓	𗧓	PRON	_	PronType=Prs	7	nmod	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
-5	𘆄	𘆄	PRON	_	PronType=Ind	4	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+5	𘆄	𘆄	PRON	_	_	4	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 6	𗍫	𗍫	NUM	_	_	7	nummod	_	Gloss=two|LTranslit=nnə¹|SpaceAfter=No
 7	𘓐	𘓐	NOUN	_	_	14	nsubj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 8	𗧀	𗧀	ADV	_	_	14	advmod	_	Gloss=only, see|LTranslit=li̱w¹|SpaceAfter=No
@@ -3277,7 +3277,7 @@
 # text_lzh = 如諸菩薩摩訶薩善入無邊諸事幻網，彼功德行，我等云何能知能說？
 # text_en = As for the bodhisattva-mahāsattvas who skillfully enter into the boundless web of all phenomena’s illusory existence, how could we know of or be able to speak about their meritorious qualities and practices?
 # text = 𘈒𗱕𘏞𗢈𗓚𘄽𗢈𗎘𗤋𗱕𘅣𘂫𗙲𗅁𘃽𗩱𗧓𘆄𗳱𗗙𗣼𘉐𘝦𗄻𘎪𗰓𗩱𘙌。
-1	𘈒	𘈒	DET	_	PronType=Ind	4	det	_	Gloss=other|LTranslit=dze²|SpaceAfter=No
+1	𘈒	𘈒	DET	_	_	4	det	_	Gloss=other|LTranslit=dze²|SpaceAfter=No
 2	𗱕	𗱕	DET	_	PronType=Tot	4	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 3	𘏞𗢈	𘏞𗢈	NOUN	_	_	4	compound	_	Gloss=Bodhisattva|LTranslit=po̱¹-tsa̱¹|OrigLang=sa|SpaceAfter=No
 4	𗓚𘄽𗢈	𗓚𘄽𗢈	NOUN	_	_	12	nsubj	_	Gloss=mahāsattva|LTranslit=ma̱²-ŋa̱h²-tsa̱¹|OrigLang=sa|SpaceAfter=No
@@ -3291,7 +3291,7 @@
 12	𘃽	𘃽	VERB	_	_	21	advcl	_	Gloss=enter|LTranslit=wo̱²|SpaceAfter=No
 13	𗩱	𗩱	AUX	_	_	12	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
 14	𗧓	𗧓	PRON	_	PronType=Prs	21	nsubj	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
-15	𘆄	𘆄	PRON	_	PronType=Ind	14	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+15	𘆄	𘆄	PRON	_	_	14	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 16	𗳱	𗳱	PRON	_	PronType=Prs	20	nmod	_	Gloss=it, he (third person pronoun)|LTranslit=tha²|SpaceAfter=No
 17	𗗙	𗗙	ADP	_	_	16	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 18	𗣼	𗣼	NOUN	_	_	19	compound	_	Gloss=morals, virtue|LTranslit=tśha²|SpaceAfter=No
@@ -3394,7 +3394,7 @@
 # text_en = that has been produced from the karmic fruition of the bodhisattva’s roots of goodness, that has been produced from the bodhisattva’s power of mindfulness, power of vows, powers of sovereign mastery, and powers of the spiritual
 # text = 𘌽𘆄𗄊𘋢𗥤𗩴𗺉𗫴𗱱𗖵𗈪𗄈𗭪𘋢𗥤𗆫𗪺𘓞𗪺𘝵𗦳𗪺𗾈𗿣𗪺𗖵𗈪𗄈𗭪𘋢𗥤𗩴𗺉𗼄𘕤𗖵𗈪𗄈𗭪𘋢𗥤𗗙𗣼𗼕𘄡𘟛𗖵𗈪𗄈𗭪。
 1	𘌽	𘌽	PRON	_	PronType=Dem	12	nsubj	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
-2	𘆄	𘆄	PRON	_	PronType=Ind	1	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+2	𘆄	𘆄	PRON	_	_	1	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 3	𗄊	𗄊	ADV	_	_	12	advmod	_	Gloss=all|LTranslit=zi²|SpaceAfter=No
 4	𘋢	𘋢	NOUN	_	_	7	nmod	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
 5	𗥤	𗥤	VERB	_	_	4	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
@@ -3515,7 +3515,7 @@
 # text_en = Also because he wished to enable the solid establishment in the Great Vehicle of those beings with whom he has previously been born together and together with whom he has previously cultivated;
 # text = 𗅉𗋕𗯮𘎳𗨙𗯮𗹢𗭍𗯮𗫔𘎳𗗙𗄊𘜶𗒛𘂤𗬢𗸁𘜘𗟻𗧠𘔼。
 1	𗅉	𗅉	ADV	_	_	19	advmod	_	Gloss=conjunction; behind|LTranslit=nuo¹|SpaceAfter=No
-2	𗋕	𗋕	DET	_	PronType=Ind	11	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+2	𗋕	𗋕	DET	_	_	11	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 3	𗯮	𗯮	ADV	_	_	5	advmod	_	Gloss=same, alike (Chinese loanword)|LTranslit=nthwu̱¹|SpaceAfter=No
 4	𘎳	𘎳	VERB	_	_	5	compound	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
 5	𗨙	𗨙	VERB	_	_	11	acl	_	Gloss=bear, suffer; to receive|LTranslit=lheh²|SpaceAfter=No
@@ -3543,7 +3543,7 @@
 # text_en = Also because he wished to enable all beings to succeed in accordance with the grounds on which they dwelt and in accordance with the roots of goodness they possess;
 # text = 𗅉𗋕𗫔𘎳𗄑𗄑𗫻𘏚𗼻𗖵𗩴𗺉𗖵𗄊𗵆𗨄𗟻𗧠𘔼。
 1	𗅉	𗅉	ADV	_	_	16	advmod	_	Gloss=conjunction; behind|LTranslit=nuo¹|SpaceAfter=No
-2	𗋕	𗋕	DET	_	PronType=Ind	4	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+2	𗋕	𗋕	DET	_	_	4	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 3	𗫔	𗫔	ADJ	_	_	4	amod	_	Gloss=many, numerous|LTranslit=yi¹|SpaceAfter=No
 4	𘎳	𘎳	NOUN	_	_	16	obj	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
 5	𗄑	𗄑	DET	_	ExtPos=DET|PronType=Tot	4	det	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
@@ -3694,7 +3694,7 @@
 # text_en = You should go there, pay your respects, and ask him with regard to the bodhisattva: How he should practice the bodhisattva practices; How he should cultivate the bodhisattva path; How he should train in the bodhisattva precepts; How he should purify the bodhisattva’s resolve; How he should make the bodhisattva vows; How he should accumulate the bodhisattva’s provisions for the path; How he should enter the grounds on which the bodhisattva dwells; How he should fulfill the bodhisattva’s pāramitās; How he should acquire the bodhisattva’s unproduced-dharmas patience; How he should perfect the dharmas of the bodhisattva’s meritorious qualities; and How he should serve the bodhisattva’s good spiritual guides.
 # text = 𗍳𗋕𘋩𘋢𗥤𘋢𗥤𗗙𘝦𗭍𗡶𘋢𗥤𗵘𗹢𗡶𘋢𗥤𗬩𗫦𗡶𘋢𗥤𗤶𗑗𗡶𘋢𗥤𘓞𗄈𗡶𘋢𗥤𗵘𘑨𗭪𘛇𗄭𗡶𘋢𗥤𗗙𗫻𘏚𗼻𘂤𘃽𗡶𘋢𗥤𗗙𘏞𗓽𗕥𘏋𗡶𘋢𗥤𗗙𘎳𗤋𘒮𘜘𗡶𘋢𗥤𗗙𗣼𘉐𗹙𘓳𗡶𘋢𗥤𗩴𗄻𗹬𗗙𘒇𗡶𗤄𗶷𗦇。
 1	𗍳	𗍳	PRON	_	PronType=Prs	79	nsubj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
-2	𗋕	𗋕	PRON	_	PronType=Ind	80	obl	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+2	𗋕	𗋕	PRON	_	_	80	obl	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 3	𘋩	𘋩	ADP	_	_	2	case	_	Gloss=allative particle to; in|LTranslit=do̱²|SpaceAfter=No
 4	𘋢	𘋢	NOUN	_	_	10	nsubj	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
 5	𗥤	𗥤	VERB	_	_	4	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
@@ -3792,7 +3792,7 @@
 1	𗩴	𗩴	ADJ	_	_	3	amod	_	Gloss=good, mercy|LTranslit=nni̱w²|SpaceAfter=No
 2	𗾖	𗾖	NOUN	_	_	3	nmod	_	Gloss=man, male|LTranslit=rgor¹|SpaceAfter=No
 3	𘈷	𘈷	NOUN	_	_	14	vocative	_	Gloss=son, child|LTranslit=gi²|SpaceAfter=No
-4	𗋕	𗋕	DET	_	PronType=Ind	6	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+4	𗋕	𗋕	DET	_	_	6	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 5	𘏞𗢈	𘏞𗢈	NOUN	_	_	6	compound	_	Gloss=Bodhisattva|LTranslit=po̱¹-tsa̱¹|OrigLang=sa|SpaceAfter=No
 6	𗓚𘄽𗢈	𗓚𘄽𗢈	NOUN	_	_	14	nsubj	_	Gloss=mahāsattva|LTranslit=ma̱²-ŋa̱h²-tsa̱¹|OrigLang=sa|SpaceAfter=No
 7	𘋢	𘋢	NOUN	_	_	12	nmod	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
@@ -3922,7 +3922,7 @@
 1	𗩴	𗩴	ADJ	_	_	3	amod	_	Gloss=good, mercy|LTranslit=nni̱w²|SpaceAfter=No
 2	𗾖	𗾖	NOUN	_	_	3	nmod	_	Gloss=man, male|LTranslit=rgor¹|SpaceAfter=No
 3	𘈷	𘈷	NOUN	_	_	14	vocative	_	Gloss=son, child|LTranslit=gi²|SpaceAfter=No
-4	𗋕	𗋕	DET	_	PronType=Ind	7	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+4	𗋕	𗋕	DET	_	_	7	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 5	𗩴	𗩴	ADJ	_	_	7	amod	_	Gloss=good, mercy|LTranslit=nni̱w²|SpaceAfter=No
 6	𗄻	𗄻	NOUN	_	_	7	compound	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
 7	𗹬	𗹬	NOUN	_	_	14	nsubj	_	Gloss=passion, know|LTranslit=se²|SpaceAfter=No
@@ -7820,7 +7820,7 @@
 39	𗅉	𗅉	CCONJ	_	_	40	cc	_	Gloss=conjunction; behind|LTranslit=nuo¹|SpaceAfter=No
 40	𗣼	𗣼	PROPN	_	_	37	conj	_	Gloss=morals, virtue|LTranslit=tśha²|SpaceAfter=No
 41	𗿷	𗿷	PROPN	_	_	40	flat	_	Gloss=have, possess|LTranslit=dźe²|SpaceAfter=No
-42	𘆄	𘆄	PRON	_	PronType=Ind	37	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+42	𘆄	𘆄	PRON	_	_	37	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 43	𗗙	𗗙	ADP	_	_	37	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 44	𗺌	𗺌	NOUN	_	_	45	obj	_	Gloss=foot|LTranslit=ri̱wr²|SpaceAfter=No
 45	𘐔	𘐔	VERB	_	_	14	conj	_	Gloss=salute, bow|LTranslit=tshwi̱w¹|SpaceAfter=No
@@ -8114,7 +8114,7 @@
 19	𗤶	𗤶	NOUN	_	_	20	obj	_	Gloss=heart, mind|LTranslit=nne¹|SpaceAfter=No
 20	𗄈	𗄈	VERB	_	_	0	root	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
 21	𘓞	𘓞	VERB	_	_	20	conj	_	Gloss=hope, wish|LTranslit=tih¹|SpaceAfter=No
-22	𗋕	𗋕	DET	_	PronType=Ind	23	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+22	𗋕	𗋕	DET	_	_	23	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 23	𘛽	𘛽	NOUN	_	_	29	obl	_	Gloss=body|LTranslit=lluh²|SpaceAfter=No
 24	𘂎	𘂎	ADP	_	_	23	case	_	Gloss=small, little, petty; indicator of materials and instruments|LTranslit=la̱¹|SpaceAfter=No
 25	𗫔	𗫔	ADJ	_	_	26	amod	_	Gloss=many, numerous|LTranslit=yi¹|SpaceAfter=No
@@ -8474,7 +8474,7 @@
 7	𗅁	𗅁	ADP	_	_	6	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
 8	𗄊	𗄊	ADV	_	_	9	advmod	_	Gloss=all|LTranslit=zi²|SpaceAfter=No
 9	𘃽	𘃽	VERB	_	_	0	root	_	Gloss=enter|LTranslit=wo̱²|SpaceAfter=No
-10	𗋕	𗋕	DET	_	PronType=Ind	11	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+10	𗋕	𗋕	DET	_	_	11	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 11	𘓞	𘓞	NOUN	_	_	18	nsubj	_	Gloss=hope, wish|LTranslit=tih¹|SpaceAfter=No
 12	𘉏	𘉏	ADJ	_	_	13	amod	_	Gloss=void, emptiness|LTranslit=tsho̱ṃh²|SpaceAfter=No
 13	𗲠	𗲠	NOUN	_	_	18	obl	_	Gloss=hollow, void; air|LTranslit=ŋa̱¹|SpaceAfter=No
@@ -9055,7 +9055,7 @@
 2	𗦳	𗦳	NOUN	_	_	3	nmod	_	Gloss=host|LTranslit=dzu²|SpaceAfter=No
 3	𘟀	𘟀	NOUN	_	_	4	obj	_	Gloss=see|LTranslit=le²|SpaceAfter=No
 4	𗈜	𗈜	VERB	_	_	0	root	_	Gloss=sever|LTranslit=qa̱²|SpaceAfter=No
-5	𘉑	𘉑	PRON	_	PronType=Ind	6	nmod	_	Gloss=he, it|LTranslit=mə¹|SpaceAfter=No
+5	𘉑	𘉑	PRON	_	_	6	nmod	_	Gloss=he, it|LTranslit=mə¹|SpaceAfter=No
 6	𘔼	𘔼	NOUN	_	_	8	ccomp	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
 7	𗅔	𗅔	AUX	_	Polarity=Neg	6	cop	_	Gloss=be not|LTranslit=naw²|SpaceAfter=No
 8	𗄻	𗄻	VERB	_	_	4	advcl	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
@@ -10083,7 +10083,7 @@
 27	𗫻	𗫻	VERB	_	_	28	acl	_	Gloss=live, stay, exist, to be found|LTranslit=ndźe¹|SpaceAfter=No
 28	𘏚	𘏚	NOUN	_	_	17	conj	_	Gloss=place; used in possible/impossible constructions|LTranslit=tih²|SpaceAfter=No
 29	𘟂	𘟂	AUX	_	_	28	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
-30	𗋕	𗋕	DET	_	PronType=Ind	32	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+30	𗋕	𗋕	DET	_	_	32	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 31	𗫔	𗫔	ADJ	_	_	32	amod	_	Gloss=many, numerous|LTranslit=yi¹|SpaceAfter=No
 32	𘎳	𘎳	NOUN	_	_	39	obl	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
 33	𗄑	𗄑	DET	_	ExtPos=DET|PronType=Tot	32	det	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
@@ -10168,7 +10168,7 @@
 6	𗈜	𗈜	VERB	_	_	16	advcl	_	Gloss=sever|LTranslit=qa̱²|SpaceAfter=No
 7	𘝵	𘝵	ADV	_	_	8	advmod	_	Gloss=self, oneself (reflexive pronoun)|LTranslit=ye¹|SpaceAfter=No
 8	𘛽	𘛽	NOUN	_	_	16	obj	_	Gloss=body|LTranslit=lluh²|SpaceAfter=No
-9	𗋕	𗋕	DET	_	PronType=Ind	11	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+9	𗋕	𗋕	DET	_	_	11	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 10	𗯨	𗯨	NOUN	_	_	11	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 11	𗐯	𗐯	NOUN	_	_	16	obl	_	Gloss=boundary|LTranslit=qae̱h²|SpaceAfter=No
 12	𗄑	𗄑	DET	_	ExtPos=DET|PronType=Tot	11	det	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
@@ -10620,7 +10620,7 @@
 38	𘙌	𘙌	ADV	_	_	40	advmod	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kə¹|SpaceAfter=No
 39	𗹢	𗹢	VERB	_	_	40	compound	_	Gloss=build|LTranslit=doh²|SpaceAfter=No
 40	𘞂	𘞂	VERB	_	_	48	advcl	_	Gloss=practise, exercise, review|LTranslit=ndzə²|SpaceAfter=No
-41	𘉑	𘉑	PRON	_	PronType=Ind	44	nmod	_	Gloss=he, it|LTranslit=mə¹|SpaceAfter=No
+41	𘉑	𘉑	PRON	_	_	44	nmod	_	Gloss=he, it|LTranslit=mə¹|SpaceAfter=No
 42	𗗙	𗗙	ADP	_	_	41	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 43	𘞙	𘞙	NOUN	_	_	44	compound	_	Gloss=profit, benefit|LTranslit=geh¹|SpaceAfter=No
 44	𗼜	𗼜	NOUN	_	_	45	nmod	_	Gloss=interests, benefit|LTranslit=ġhai̱²|SpaceAfter=No
@@ -10809,7 +10809,7 @@
 4	𗘲	𗘲	NOUN	_	_	18	nsubj	_	Gloss=a building of two or more storeys|LTranslit=reṃ²|SpaceAfter=No
 5	𘌽	𘌽	PRON	_	PronType=Dem	10	nmod	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
 6	𗍊	𗍊	ADP	_	_	5	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
-7	𘆄	𘆄	PRON	_	PronType=Ind	5	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+7	𘆄	𘆄	PRON	_	_	5	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 8	𗱕	𗱕	DET	_	PronType=Tot	10	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 9	𗣼	𗣼	NOUN	_	_	10	compound	_	Gloss=morals, virtue|LTranslit=tśha²|SpaceAfter=No
 10	𘉐	𘉐	NOUN	_	_	14	obl	_	Gloss=contribution|LTranslit=yuo¹|SpaceAfter=No
@@ -11248,7 +11248,7 @@
 1	𗱕	𗱕	DET	_	PronType=Tot	3	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 2	𗫔	𗫔	ADJ	_	_	3	amod	_	Gloss=many, numerous|LTranslit=yi¹|SpaceAfter=No
 3	𘎳	𘎳	NOUN	_	_	7	nsubj	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
-4	𘆄	𘆄	PRON	_	PronType=Ind	3	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+4	𘆄	𘆄	PRON	_	_	3	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 5	𗢞	𗢞	NOUN	_	_	6	nmod	_	Gloss=devil, demon|LTranslit=nlle²|SpaceAfter=No
 6	𗙲	𗙲	NOUN	_	_	7	obl	_	Gloss=trap|LTranslit=ri̱r²|SpaceAfter=No
 7	𘃽	𘃽	VERB	_	_	15	ccomp	_	Gloss=enter|LTranslit=wo̱²|SpaceAfter=No
@@ -11322,7 +11322,7 @@
 1	𗱕	𗱕	DET	_	PronType=Tot	3	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 2	𗥹	𗥹	NOUN	_	_	3	compound	_	Gloss=crowd, group|LTranslit=lo̱²|SpaceAfter=No
 3	𘎳	𘎳	NOUN	_	_	7	nsubj	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
-4	𘆄	𘆄	PRON	_	PronType=Ind	3	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+4	𘆄	𘆄	PRON	_	_	3	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 5	𘟣	𘟣	NOUN	_	_	6	nmod	_	Gloss=have, possess|LTranslit=du¹|SpaceAfter=No
 6	𗗚	𗗚	NOUN	_	_	7	obl	_	Gloss=sea|LTranslit=goṃ²|SpaceAfter=No
 7	𗪇	𗪇	VERB	_	_	15	ccomp	_	Gloss=sink, submerge|LTranslit=bu̱¹|SpaceAfter=No
@@ -12401,7 +12401,7 @@
 19	𗢳	𗢳	NOUN	_	_	20	nmod	_	Gloss=Buddha|LTranslit=tha̱¹|SpaceAfter=No
 20	𗦻	𗦻	NOUN	_	_	21	nmod	_	Gloss=name; reputation|LTranslit=mme²|SpaceAfter=No
 21	𘜔	𘜔	NOUN	_	_	9	conj	_	Gloss=number, numeral, plural indicator; several|LTranslit=rŋi̱wr²|SpaceAfter=No
-22	𗋕	𗋕	PRON	_	PronType=Ind	17	obl	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+22	𗋕	𗋕	PRON	_	_	17	obl	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 23	𗍊	𗍊	ADP	_	_	22	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
@@ -12508,8 +12508,8 @@
 10	𘌽	𘌽	PRON	_	PronType=Dem	17	obl	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
 11	𗍊	𗍊	ADP	_	_	10	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 12	。	。	PUNCT	_	_	11	punct	_	Orig=_|SpaceAfter=No
-13	𘋠	𘋠	PRON	_	PronType=Ind	14	compound	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
-14	𘋠	𘋠	PRON	_	PronType=Ind	17	obj	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
+13	𘋠	𘋠	PRON	_	_	14	compound	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
+14	𘋠	𘋠	PRON	_	_	17	obj	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
 15	𗄊	𗄊	ADV	_	_	17	advmod	_	Gloss=all|LTranslit=zi²|SpaceAfter=No
 16	𘓳	𘓳	VERB	_	_	17	compound	_	Gloss=whole, complete|LTranslit=rŋo̱ṃr²|SpaceAfter=No
 17	𗣷	𗣷	VERB	_	_	0	root	_	Gloss=full, packed, sufficient|LTranslit=lhə?|SpaceAfter=No
@@ -12641,7 +12641,7 @@
 # text_lzh = 彼諸大勇猛，所行無障礙。安住於此中，我合掌敬禮。
 # text_en = I press my palms together in respect and bow down in reverence to all those greatly courageous ones who, with their unimpeded spheres of action, dwell here in this place.
 # text = 𗋕𗱕𘜶𗹡𗷸，𘕂𗎘𗦁𗄿𗤋。𘌽𘂤𗄊𘗲𗫻，𘃎𘜼𗼋𗍽𗧓。
-1	𗋕	𗋕	DET	_	PronType=Ind	5	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+1	𗋕	𗋕	DET	_	_	5	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 2	𗱕	𗱕	DET	_	PronType=Tot	5	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 3	𘜶	𘜶	ADJ	_	_	5	amod	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No
 4	𗹡	𗹡	ADJ	_	_	5	amod	_	Gloss=brave, courageous|LTranslit=rkir¹|SpaceAfter=No
@@ -12707,7 +12707,7 @@
 6	𘞁	𘞁	NOUN	_	_	59	nsubj	_	Gloss=child, children|LTranslit=li²|SpaceAfter=No
 7	𘌽	𘌽	PRON	_	PronType=Dem	21	nmod	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
 8	𗍊	𗍊	ADP	_	_	7	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
-9	𘆄	𘆄	PRON	_	PronType=Ind	7	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+9	𘆄	𘆄	PRON	_	_	7	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 10	𘋢	𘋢	NOUN	_	_	21	nmod	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
 11	𗥤	𗥤	VERB	_	_	10	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
 12	𗄑	𗄑	DET	_	ExtPos=DET|PronType=Tot	10	det	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
@@ -12767,7 +12767,7 @@
 1	𗓁𗓁	𗓁𗓁	PROPN	_	_	2	compound	_	Gloss=Maitreya|LTranslit=mi¹-mi¹|OrigLang=sa|SpaceAfter=No
 2	𘏞𗢈	𘏞𗢈	NOUN	_	_	3	compound	_	Gloss=Bodhisattva|LTranslit=po̱¹-tsa̱¹|OrigLang=sa|SpaceAfter=No
 3	𗓚𘄽𗢈	𗓚𘄽𗢈	NOUN	_	_	7	nsubj	_	Gloss=mahāsattva|LTranslit=ma̱²-ŋa̱h²-tsa̱¹|OrigLang=sa|SpaceAfter=No
-4	𘈒	𘈒	DET	_	PronType=Ind	5	det	_	Gloss=other|LTranslit=dze²|SpaceAfter=No
+4	𘈒	𘈒	DET	_	_	5	det	_	Gloss=other|LTranslit=dze²|SpaceAfter=No
 5	𗏣	𗏣	NOUN	_	_	7	obl	_	Gloss=in the direction of, towards; side|LTranslit=rer²|SpaceAfter=No
 6	𘙇	𘙇	ADV	_	_	7	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rər²|SpaceAfter=No
 7	𗄼	𗄼	VERB	_	_	57	ccomp	_	Gloss=come|LTranslit=la¹|SpaceAfter=No
@@ -12798,7 +12798,7 @@
 32	𗣧𗓽𗐺	𗣧𗓽𗐺	NOUN	_	_	10	conj	_	Gloss=brahmans, Brahmā|LTranslit=pho̱¹-lo̱¹-mi̱ṃ¹|OrigLang=sa|SpaceAfter=No
 33	𗫔	𗫔	ADJ	_	_	32	amod	_	Gloss=many, numerous|LTranslit=yi¹|SpaceAfter=No
 34	𗅉	𗅉	CCONJ	_	_	41	cc	_	Gloss=conjunction; behind|LTranslit=nuo¹|SpaceAfter=No
-35	𘈒	𘈒	DET	_	PronType=Ind	41	det	_	Gloss=other|LTranslit=dze²|SpaceAfter=No
+35	𘈒	𘈒	DET	_	_	41	det	_	Gloss=other|LTranslit=dze²|SpaceAfter=No
 36	𘜔	𘜔	NOUN	_	_	41	nmod	_	Gloss=number, numeral, plural indicator; several|LTranslit=rŋi̱wr²|SpaceAfter=No
 37	𗤋	𗤋	DET	_	PronType=Neg	36	det	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 38	𘊝	𘊝	NUM	_	_	39	compound	_	Gloss=hundred|LTranslit=ryir²|SpaceAfter=No
@@ -12879,7 +12879,7 @@
 # text_en = You should all regard this Sudhana whose aspiration for wisdom is pure. It is to seek the bodhi practices that he comes here into my presence.
 # text = 𗍳𘆄𗩴𘔮𗗙，𘄡𘟛𗤶𗑗𘝯。𘏞𘛛𘝦𗴿𘔼，𗧓𘋩𘙇𗆐𘉞。
 1	𗍳	𗍳	PRON	_	PronType=Prs	11	nsubj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
-2	𘆄	𘆄	PRON	_	PronType=Ind	1	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+2	𘆄	𘆄	PRON	_	_	1	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 3	𗩴	𗩴	PROPN	_	_	9	nmod	_	Gloss=good, mercy|LTranslit=nni̱w²|SpaceAfter=No
 4	𘔮	𘔮	PROPN	_	_	3	flat	_	Gloss=wealth, property, thing|LTranslit=rġhwa̱r²|SpaceAfter=No
 5	𗗙	𗗙	ADP	_	_	3	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
@@ -13067,7 +13067,7 @@
 14	𗳌	𗳌	DET	_	PronType=Dem	15	det	_	Gloss=that, those|LTranslit=teh¹|SpaceAfter=No
 15	𘊋	𘊋	NOUN	_	_	13	conj	_	Gloss=slander|LTranslit=po¹|SpaceAfter=No
 16	𗡙	𗡙	NOUN	_	_	13	conj	_	Gloss=extol, highly praise|LTranslit=yoṃ²|SpaceAfter=No
-17	𘆄	𘆄	PRON	_	PronType=Ind	13	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+17	𘆄	𘆄	PRON	_	_	13	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 18	，	，	PUNCT	_	_	17	punct	_	Orig=_|SpaceAfter=No
 19	𗄑	𗄑	DET	_	ExtPos=DET|PronType=Tot	13	det	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
 20	𗄑	𗄑	DET	_	PronType=Tot	19	fixed	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
@@ -13170,7 +13170,7 @@
 1	𗟦𘞐	𗟦𘞐	PROPN	_	_	15	nsubj	_	Gloss=Mañjuśrī|LTranslit=ma̱ṃ¹-nśu¹|OrigLang=sa|SpaceAfter=No
 2	𗣼	𗣼	PROPN	_	_	1	conj	_	Gloss=morals, virtue|LTranslit=tśha²|SpaceAfter=No
 3	𗋑	𗋑	PROPN	_	_	2	flat	_	Gloss=cloud|LTranslit=deṃh²|SpaceAfter=No
-4	𘆄	𘆄	PRON	_	PronType=Ind	1	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+4	𘆄	𘆄	PRON	_	_	1	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 5	，	，	PUNCT	_	_	4	punct	_	Orig=_|SpaceAfter=No
 6	𗱕	𗱕	DET	_	PronType=Tot	8	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 7	𗢳	𗢳	NOUN	_	_	8	nmod	_	Gloss=Buddha|LTranslit=tha̱¹|SpaceAfter=No
@@ -13542,7 +13542,7 @@
 # text_en = You should all look at this person who has drawn near to the good spiritual guides and followed what they have cultivated and trained in. You should accord in practice with all that he has done.
 # text = 𗍳𘆄𘌽𘓐𘝯，𗩴𗄻𗹬𗦍𗶚。𗖀𗖵𗄊𗹢𗫦，𗄑𗄑𗖵𗡶𗭍。
 1	𗍳	𗍳	PRON	_	PronType=Prs	5	nsubj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
-2	𘆄	𘆄	PRON	_	PronType=Ind	1	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+2	𘆄	𘆄	PRON	_	_	1	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 3	𘌽	𘌽	DET	_	PronType=Dem	4	det	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
 4	𘓐	𘓐	NOUN	_	_	5	obj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 5	𘝯	𘝯	VERB	_	_	0	root	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
@@ -13705,7 +13705,7 @@
 16	𗴿	𗴿	VERB	_	_	23	advcl	_	Gloss=pray|LTranslit=kuh¹|SpaceAfter=No
 17	𘔼	𘔼	SCONJ	_	_	16	mark	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
 18	，	，	PUNCT	_	_	17	punct	_	Orig=_|SpaceAfter=No
-19	𗋕	𗋕	DET	_	PronType=Ind	21	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+19	𗋕	𗋕	DET	_	_	21	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 20	𗱕	𗱕	DET	_	PronType=Tot	21	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 21	𘍔	𘍔	NOUN	_	_	22	nmod	_	Gloss=bitter, hardship|LTranslit=tśih¹|SpaceAfter=No
 22	𘚢	𘚢	NOUN	_	_	23	obj	_	Gloss=wheel|LTranslit=dẓae̱²|SpaceAfter=No
@@ -15111,7 +15111,7 @@
 10	𗄛	𗄛	VERB	_	_	0	root	_	Gloss=meet|LTranslit=rbi̱r²|SpaceAfter=No
 11	𗣓	𗣓	ADV	_	_	10	advmod	_	Gloss=hard, difficult|LTranslit=ġai̱¹|SpaceAfter=No
 12	。	。	PUNCT	_	_	11	punct	_	Orig=_|SpaceAfter=No
-13	𗋕	𗋕	DET	_	PronType=Ind	17	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+13	𗋕	𗋕	DET	_	_	17	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 14	𘙇	𘙇	ADV	_	_	15	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rər²|SpaceAfter=No
 15	𗹢	𗹢	VERB	_	_	17	acl	_	Gloss=build|LTranslit=doh²|SpaceAfter=No
 16	𗱕	𗱕	DET	_	PronType=Tot	17	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
@@ -15141,7 +15141,7 @@
 11	𗟧	𗟧	VERB	_	_	5	conj	_	Gloss=get, gain|LTranslit=rir²|SpaceAfter=No
 12	。	。	PUNCT	_	_	11	punct	_	Orig=_|SpaceAfter=No
 13	𗟦𘞐	𗟦𘞐	PROPN	_	_	16	obj	_	Gloss=Mañjuśrī|LTranslit=ma̱ṃ¹-nśu¹|OrigLang=sa|SpaceAfter=No
-14	𘆄	𘆄	PRON	_	PronType=Ind	13	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+14	𘆄	𘆄	PRON	_	_	13	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 15	𗗙	𗗙	ADP	_	_	13	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 16	𘟀	𘟀	VERB	_	_	5	parataxis	_	Gloss=see|LTranslit=le²|SpaceAfter=No
 17	，	，	PUNCT	_	_	16	punct	_	Orig=_|SpaceAfter=No
@@ -15360,7 +15360,7 @@
 # text_en = You are one who is able to cultivate the bodhisattva practices throughout the three realms of existence. Therefore those sons of the Buddha revealed to you their gateways to liberation.
 # text = 𗍳𗋕𘕕𘟣𘂤，𘋢𗥤𘝦𗹢𗩱。𘌽𘔼𗱕𗢳𘈷，𗍳𗗙𗧐𗇘𗖢。
 1	𗍳	𗍳	PRON	_	PronType=Prs	10	nsubj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
-2	𗋕	𗋕	DET	_	PronType=Ind	4	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+2	𗋕	𗋕	DET	_	_	4	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 3	𘕕	𘕕	NUM	_	_	4	nummod	_	Gloss=three|LTranslit=so̱ṃh¹|SpaceAfter=No
 4	𘟣	𘟣	NOUN	_	_	10	obl	_	Gloss=have, possess|LTranslit=du¹|SpaceAfter=No
 5	𘂤	𘂤	ADP	_	_	4	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=qha̱¹|SpaceAfter=No
@@ -15406,7 +15406,7 @@
 16	𗀅	𗀅	VERB	_	_	23	advcl	_	Gloss=undergo|LTranslit=rza̱r²|SpaceAfter=No
 17	𘂆	𘂆	ADV	_	_	23	advmod	_	Gloss=small, little, too|LTranslit=tsə¹|SpaceAfter=No
 18	，	，	PUNCT	_	_	17	punct	_	Orig=_|SpaceAfter=No
-19	𗋕	𗋕	PRON	_	PronType=Ind	21	nmod	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+19	𗋕	𗋕	PRON	_	_	21	nmod	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 20	𘃺	𘃺	NOUN	_	_	21	compound	_	Gloss=realm; call|LTranslit=mmə²|SpaceAfter=No
 21	𗐯	𗐯	NOUN	_	_	23	obj	_	Gloss=boundary|LTranslit=qae̱h²|SpaceAfter=No
 22	𘖑	𘖑	PART	_	Polarity=Neg	23	advmod	_	Gloss=no, not; no need|LTranslit=mə¹|SpaceAfter=No
@@ -15609,7 +15609,7 @@
 16	𗋐	𗋐	VERB	_	_	17	acl	_	Gloss=life|LTranslit=tśhu¹|SpaceAfter=No
 17	𗇋	𗇋	NOUN	_	_	22	nsubj	_	Gloss=S/A nominalizer, usually human; -er; the one/those who ...; s/he who ...|LTranslit=rmer²|SpaceAfter=No
 18	，	，	PUNCT	_	_	17	punct	_	Orig=_|SpaceAfter=No
-19	𗋕	𗋕	DET	_	PronType=Ind	17	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+19	𗋕	𗋕	DET	_	_	17	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 20	𘂆	𘂆	ADV	_	_	22	advmod	_	Gloss=small, little, too|LTranslit=tsə¹|SpaceAfter=No
 21	𘌽	𘌽	ADV	_	PronType=Dem	22	advmod	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
 22	𗫦	𗫦	VERB	_	_	0	root	_	Gloss=study, learn|LTranslit=ġhai̱w¹|SpaceAfter=No
@@ -15682,7 +15682,7 @@
 2	𗩴	𗩴	ADJ	_	_	4	amod	_	Gloss=good, mercy|LTranslit=nni̱w²|SpaceAfter=No
 3	𗄻	𗄻	NOUN	_	_	4	compound	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
 4	𗹬	𗹬	NOUN	_	_	11	nsubj	_	Gloss=passion, know|LTranslit=se²|SpaceAfter=No
-5	𘆄	𘆄	PRON	_	PronType=Ind	4	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+5	𘆄	𘆄	PRON	_	_	4	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 6	，	，	PUNCT	_	_	5	punct	_	Orig=_|SpaceAfter=No
 7	𗍳	𗍳	PRON	_	PronType=Prs	11	iobj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
 8	𗫡	𗫡	PROPN	_	_	10	nmod	_	Gloss=arrive|LTranslit=nə²|SpaceAfter=No
@@ -15866,7 +15866,7 @@
 14	𗍊	𗍊	ADP	_	_	13	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 15	𗱕	𗱕	DET	_	PronType=Tot	16	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 16	𘓐	𘓐	NOUN	_	_	23	nsubj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
-17	𘆄	𘆄	PRON	_	PronType=Ind	16	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+17	𘆄	𘆄	PRON	_	_	16	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 18	，	，	PUNCT	_	_	17	punct	_	Orig=_|SpaceAfter=No
 19	𗾟	𗾟	ADV	_	_	20	compound	_	Gloss=vast, wide, extensive|LTranslit=vwa̱h²|SpaceAfter=No
 20	𘜶	𘜶	ADJ	_	_	21	amod	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No
@@ -16349,7 +16349,7 @@
 9	𗐵	𗐵	VERB	_	_	0	root	_	Gloss=see|LTranslit=li²|SpaceAfter=No
 10	𗧓	𗧓	AUX	_	Person=1	9	aux	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
 11	。	。	PUNCT	_	_	10	punct	_	Orig=_|SpaceAfter=No
-12	𗋕	𗋕	DET	_	PronType=Ind	15	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+12	𗋕	𗋕	DET	_	_	15	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 13	𘜶	𘜶	ADJ	_	_	14	amod	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No
 14	𗣼	𗣼	NOUN	_	_	15	nmod	_	Gloss=morals, virtue|LTranslit=tśha²|SpaceAfter=No
 15	𗖻	𗖻	NOUN	_	_	21	obj	_	Gloss=respect|LTranslit=puh¹|SpaceAfter=No
