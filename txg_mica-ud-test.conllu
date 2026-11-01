@@ -20,7 +20,7 @@
 
 # sent_id = lotus_sutra_0002
 # text_lzh = 爾時無盡意菩薩。即從座起。偏袒右肩合掌向佛而作是言。世尊。觀世音菩薩。以何因緣。名觀世音。
-# text_en = Thereupon Endless-Intent Bodhisattva rose from his seat, bared his right shoulder, joined his hands together towards the Buddha, and said, “World-Honored One! Why is World-Voice-Perceiver Bodhisattva called World-Voice-Perceiver?” 
+# text_en = Thereupon Endless-Intent Bodhisattva rose from his seat, bared his right shoulder, joined his hands together towards the Buddha, and said, World-Honored One! Why is World-Voice-Perceiver Bodhisattva called World-Voice-Perceiver? 
 # text = 𗉘𘝨𗉣𗅋𗋃𘋢𗥤𗶠𘏚𗈪𗢵𗂈𘏈𘊱𗔛𗢳𗏣𘃎𘜼𘌽𗍊𘒣𘘥𗯨𗖻𗯨𗙏𘝯𘋢𗥤𘕣𗦫𘔼𗖵𗯨𗙏𘝯𘘥𘃞。
 1	𗉘	𗉘	DET	_	PronType=Dem	2	det	_	Gloss=pronoun|LTranslit=tśhə¹|SpaceAfter=No
 2	𘝨	𘝨	NOUN	_	_	23	obl	_	Gloss=time|LTranslit=zoh²|SpaceAfter=No
@@ -65,7 +65,7 @@
 
 # sent_id = lotus_sutra_0003
 # text_lzh = 佛告無盡意菩薩。善男子。若有無量百千萬億眾生。受諸苦惱。聞是觀世音菩薩。一心稱名。觀世音菩薩。即時觀其音聲。皆得解脫。
-# text_en = The Buddha said to Endless-Intent Bodhisattva: “Good man! If many hundreds of thousands of billions of living beings hear [the name of] World-Voice-Perceiver Bodhisattva and call his name with all their hearts when they are under various sufferings, World-Voice-Perceiver Bodhisattva will immediately perceive their voices, and cause them to emancipate themselves [from the sufferings].
+# text_en = The Buddha said to Endless-Intent Bodhisattva: Good man! If many hundreds of thousands of billions of living beings hear [the name of] World-Voice-Perceiver Bodhisattva and call his name with all their hearts when they are under various sufferings, World-Voice-Perceiver Bodhisattva will immediately perceive their voices, and cause them to emancipate themselves [from the sufferings].
 # text = 𗢳𗉣𗅋𗋃𘋢𗥤𗗙𘘥𗩴𗾖𘈷𗓱𘖑𗆄𘊝𗡞𗕑𗦲𘋢𗋐𗱕𘍔𗉛𗨙𘅍𗋕𗯨𗙏𘝯𘋢𗥤𗗙𗦻𗓁𗤶𗨳𗳒𘆖𗌭𗉘𗿳𗯨𗙏𘝯𘋢𗥤𗋕𗙏𘝯𗖵𗄊𗧐𗇘𗟻。
 1	𗢳	𗢳	NOUN	_	_	8	nsubj	_	Gloss=Buddha|LTranslit=tha̱¹|SpaceAfter=No
 2	𗉣	𗉣	PROPN	_	_	5	compound	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
@@ -177,7 +177,7 @@
 13	𗼗	𗼗	ADJ	_	_	14	amod	_	Gloss=shallow|LTranslit=deṃ¹|SpaceAfter=No
 14	𗯩	𗯩	NOUN	_	_	15	obl	_	Gloss=each, place; nominaliser|LTranslit=twu̱h¹|SpaceAfter=No
 15	𗬁	𗬁	VERB	_	_	0	root	_	Gloss=stop, cease|LTranslit=deṃ²|SpaceAfter=No
-16	𘜘	𘜘	AUX	_	_	15	aux	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
+16	𘜘	𘜘	VERB	_	_	15	compound	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
 17	。	。	PUNCT	_	_	15	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0006
@@ -259,7 +259,7 @@
 24	𗄊	𗄊	ADV	_	_	26	advmod	_	Gloss=all|LTranslit=zi²|SpaceAfter=No
 25	𗧐	𗧐	VERB	_	_	26	compound	_	Gloss=untie|LTranslit=bai̱²|SpaceAfter=No
 26	𗇘	𗇘	VERB	_	_	0	root	_	Gloss=extricate|LTranslit=lhi̱w²|SpaceAfter=No
-27	𘜘	𘜘	AUX	_	_	26	aux	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
+27	𘜘	𘜘	VERB	_	_	26	compound	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
 28	𘌽	𘌽	DET	_	PronType=Dem	30	det	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
 29	𗦫	𗦫	NOUN	_	_	30	compound	_	Gloss=cause|LTranslit=yiw¹|SpaceAfter=No
 30	𘔼	𘔼	NOUN	_	_	36	obl	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
@@ -274,7 +274,7 @@
 
 # sent_id = lotus_sutra_0008
 # text_lzh = 若復有人。臨當被害。稱觀世音菩薩名者。彼所執刀杖。尋段段壞。而得解脫。
-# text_en = “If anyone calls the name of World-Voice-Perceiver Bodhisattva when he is about to be killed, the sword or stick raised against him will suddenly break asunder, and he will be saved.
+# text_en = If anyone calls the name of World-Voice-Perceiver Bodhisattva when he is about to be killed, the sword or stick raised against him will suddenly break asunder, and he will be saved.
 # text = 𘎤𗓱𘓐𗖌𘉑𘝦𘃡𗜍𗈙𗗟𘅍𗋕𗯨𗙏𘝯𘋢𗥤𗗙𗦻𘆖𗌭𗈙𗭪𘟞𘐬𗷷𗺴𗺴𗨻𗉮𘃛𗧐𗇘。
 1	𘎤	𘎤	ADV	_	_	20	advmod	_	Gloss=if, supposing; one|LTranslit=tə¹|SpaceAfter=No
 2	𗓱	𗓱	ADV	_	_	1	advmod	_	Gloss=if, perhaps|LTranslit=te¹|SpaceAfter=No
@@ -446,7 +446,7 @@
 
 # sent_id = lotus_sutra_0012
 # text_lzh = 其中一人作是唱言。諸善男子。勿得恐怖。汝等應當一心稱觀世音菩薩名號。是菩薩能以無畏。施於眾生。汝等若稱名者。於此怨賊當得解脫。
-# text_en = and suppose one of the members of the party says [to others], ‘Good men! Do not be afraid! Call the name of World-Voice-Perceiver Bodhisattva with all your hearts! This Bodhisattva gives fearlessness to all living beings. If you call his name, you will be saved from [the attacks of] these bandits.’
+# text_en = and suppose one of the members of the party says [to others], Good men! Do not be afraid! Call the name of World-Voice-Perceiver Bodhisattva with all your hearts! This Bodhisattva gives fearlessness to all living beings. If you call his name, you will be saved from [the attacks of] these bandits.
 # text = 𗳱𘂤𘓐𗖌𘌽𗍊𘒣𘘥𗱕𗩴𗾖𘈷𗞞𘅇𗃬𗐱𗍳𘆄𗤶𗨳𗳒𗯨𗙏𘝯𘋢𗥤𗗙𗦻𘆖𗦇𗋕𘋢𗥤𗫂𘋢𗋐𗗙𗃬𗤋𘈈𗩱𗍳𘆄𘎤𗓱𗳱𗗙𗦻𘆖𗩱𗌭𘌽𘂭𘝚𘂤𘙌𗅆𗧐𗇘𘜘𗐱𘘣。
 1	𗳱	𗳱	PRON	_	PronType=Prs	8	obl	_	Gloss=it, he (third person pronoun)|LTranslit=tha²|SpaceAfter=No
 2	𘂤	𘂤	ADP	_	_	1	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=qha̱¹|SpaceAfter=No
@@ -507,14 +507,14 @@
 57	𗅆	𗅆	ADV	_	_	59	advmod	_	Gloss=calm|LTranslit=deṃ²|SpaceAfter=No
 58	𗧐	𗧐	VERB	_	_	59	compound	_	Gloss=untie|LTranslit=bai̱²|SpaceAfter=No
 59	𗇘	𗇘	VERB	_	_	40	parataxis	_	Gloss=extricate|LTranslit=lhi̱w²|SpaceAfter=No
-60	𘜘	𘜘	AUX	_	_	59	aux	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
+60	𘜘	𘜘	VERB	_	_	59	compound	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
 61	𗐱	𗐱	AUX	_	Number=Plur|Person=2	59	aux	_	Gloss=collective plural indicator|LTranslit=ni²|SpaceAfter=No
 62	𘘣	𘘣	VERB	_	_	8	conj	_	Gloss=say; to call|LTranslit=yə²|SpaceAfter=No
 63	。	。	PUNCT	_	_	8	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0013
 # text_lzh = 眾商人聞。俱發聲言。南無觀世音菩薩。稱其名故。即得解脫。
-# text_en = If the other members of the party hear this and say simultaneously, ‘Namas to World-Voice-Perceiver Bodhisattva,’ all of them will be saved because of their calling of his name.
+# text_en = If the other members of the party hear this and say simultaneously, Namas to World-Voice-Perceiver Bodhisattva, all of them will be saved because of their calling of his name.
 # text = 𗱕𗗥𗇋𘆄𗋕𘒣𗓁𗅉𗳦𗳦𗙏𗧊𗢰𘓩𗯨𗙏𘝯𘋢𗥤𘘣𗋕𗦻𘆖𗖵𗄊𗧐𗇘𘜘。
 1	𗱕	𗱕	DET	_	PronType=Tot	3	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 2	𗗥	𗗥	NOUN	_	_	3	nmod	_	Gloss=market, sell, marry|LTranslit=źi²|SpaceAfter=No
@@ -542,7 +542,7 @@
 24	𗄊	𗄊	ADV	_	_	26	advmod	_	Gloss=all|LTranslit=zi²|SpaceAfter=No
 25	𗧐	𗧐	VERB	_	_	26	compound	_	Gloss=untie|LTranslit=bai̱²|SpaceAfter=No
 26	𗇘	𗇘	VERB	_	_	12	conj	_	Gloss=extricate|LTranslit=lhi̱w²|SpaceAfter=No
-27	𘜘	𘜘	AUX	_	_	26	aux	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
+27	𘜘	𘜘	VERB	_	_	26	compound	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
 28	。	。	PUNCT	_	_	12	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0014
@@ -576,7 +576,7 @@
 
 # sent_id = lotus_sutra_0015
 # text_lzh = 若有眾生。爱生贪欲时。常念恭敬觀世音菩薩。便得離欲。
-# text_en = “Those who have much lust will be saved from lust if they constantly think of World-Voice-Perceiver Bodhisattva and respect him.
+# text_en = Those who have much lust will be saved from lust if they constantly think of World-Voice-Perceiver Bodhisattva and respect him.
 # text = 𘎤𗓱𘋢𗋐𗅴𗧠𗄈𘟠𘅍𗏹𗯨𗙏𘝯𘋢𗥤𗗙𗦻𘆖𗅉𗼋𗧋𗌭𗉮𘃛𗧠𗈜。
 1	𘎤	𘎤	ADV	_	_	2	compound	_	Gloss=if, supposing; one|LTranslit=tə¹|SpaceAfter=No
 2	𗓱	𗓱	ADV	_	_	18	advmod	_	Gloss=if, perhaps|LTranslit=te¹|SpaceAfter=No
@@ -706,7 +706,7 @@
 
 # sent_id = lotus_sutra_0019
 # text_lzh = 若有女人。設欲求男。禮拜供養觀世音菩薩。便生福德智慧之男。
-# text_en = “A woman who, wishing to have a boy, bows and makes offerings to World-Voice-Perceiver Bodhisattva, will be able to give birth to a boy endowed with merits, virtues and wisdom.
+# text_en = A woman who, wishing to have a boy, bows and makes offerings to World-Voice-Perceiver Bodhisattva, will be able to give birth to a boy endowed with merits, virtues and wisdom.
 # text = 𘎤𗓱𗡸𘓐𘄄𗴿𗧠𘅍𗋕𗯨𗙏𘝯𘋢𗥤𗗙𗍺𘐔𗴿𗒀𗌭𗉮𘃛𗼕𗣼𘄡𘟛𘈷𘎳。
 1	𘎤	𘎤	ADV	_	_	2	compound	_	Gloss=if, supposing; one|LTranslit=tə¹|SpaceAfter=No
 2	𗓱	𗓱	ADV	_	_	17	advmod	_	Gloss=if, perhaps|LTranslit=te¹|SpaceAfter=No
@@ -833,7 +833,7 @@
 
 # sent_id = lotus_sutra_0024
 # text_lzh = 無盡意。若有人受持六十二億恆河沙菩薩名字。復盡形供養飲食衣服臥具醫藥。於汝意云何。是善男子善女人。功德多不。
-# text_en = “Endless-Intent! Suppose a good man or woman keeps the names of six thousand and two hundred million Bodhisattvas, that is, of as many Bodhisattvas as there are sands in the River Ganges, and offers drink, food, clothing, bedding and medicine to them throughout his or her life. What do you think of this? Are his or her merits many or not?”
+# text_en = Endless-Intent! Suppose a good man or woman keeps the names of six thousand and two hundred million Bodhisattvas, that is, of as many Bodhisattvas as there are sands in the River Ganges, and offers drink, food, clothing, bedding and medicine to them throughout his or her life. What do you think of this? Are his or her merits many or not?
 # text = 𗉣𗅋𗋃𗓱𘓐𗤁𗰗𗍫𗦲𗣋𘀺𘔏𘜔𘋢𗥤𗗙𗦻𗧯𗅉𗠇𗡄𗓈𘋳𗫠𗶤𗩜𗿧𗳒𗈪𘗽𗋕𘆄𗗙𗏺𗴿𗒀𗭪𘗐𘟂𗍳𗉣𘕿𘝶𗦜𗋕𗩴𗾖𘈷𗩴𗡸𘓐𗗙𗣼𘉐𗫂𗈪𗉘𗮅𘃞。
 1	𗉣	𗉣	PROPN	_	_	57	vocative	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
 2	𗅋	𗅋	PROPN	_	_	1	flat	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
@@ -867,16 +867,16 @@
 30	𗋕	𗋕	PRON	_	PronType=Ind	29	nmod	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 31	𘆄	𘆄	PRON	_	PronType=Ind	30	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 32	𗗙	𗗙	ADP	_	_	30	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
-33	𗏺	𗏺	VERB	_	_	17	conj	_	Gloss=auxiliary verb; verb prefix optative marker - direction not found|LTranslit=rer²|SpaceAfter=No
+33	𗏺	𗏺	AUX	_	_	35	aux	_	Gloss=auxiliary verb; verb prefix optative marker - direction not found|LTranslit=rer²|SpaceAfter=No
 34	𗴿	𗴿	VERB	_	_	35	compound	_	Gloss=pray|LTranslit=kuh¹|SpaceAfter=No
-35	𗒀	𗒀	VERB	_	_	33	xcomp	_	Gloss=make offerings to|LTranslit=tshwi̱w¹|SpaceAfter=No
+35	𗒀	𗒀	VERB	_	_	17	conj	_	Gloss=make offerings to|LTranslit=tshwi̱w¹|SpaceAfter=No
 36	𗭪	𗭪	AUX	_	_	35	aux	_	Gloss=auxiliary word; perfective marker|LTranslit=si²|SpaceAfter=No
 37	𘗐	𘗐	SCONJ	_	_	38	mark	_	Gloss=optative verb prefix: DA- and DƏ- series; durative imperative prefix|LTranslit=de²|SpaceAfter=No
 38	𘟂	𘟂	VERB	_	_	57	parataxis	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 39	𗍳	𗍳	PRON	_	PronType=Prs	40	nmod	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
 40	𗉣	𗉣	NOUN	_	_	42	obl	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
 41	𘕿	𘕿	ADP	_	_	40	case	_	Gloss=locative particle in (the sky, the heart); on, around|LTranslit=ġha̱²|SpaceAfter=No
-42	𘝶	𘝶	NOUN	_	_	57	parataxis	_	Gloss=why|LTranslit=the²|SpaceAfter=No
+42	𘝶	𘝶	NOUN	_	ExtPos=ADV	57	parataxis	_	Gloss=why|LTranslit=the²|SpaceAfter=No
 43	𗦜	𗦜	PART	_	_	42	fixed	_	Gloss=say|LTranslit=so²|SpaceAfter=No
 44	𗋕	𗋕	DET	_	PronType=Ind	47	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 45	𗩴	𗩴	ADJ	_	_	47	amod	_	Gloss=good, mercy|LTranslit=nni̱w²|SpaceAfter=No
@@ -890,14 +890,14 @@
 53	𘉐	𘉐	NOUN	_	_	57	nsubj	_	Gloss=contribution|LTranslit=yuo¹|SpaceAfter=No
 54	𗫂	𗫂	ADP	_	_	53	case	_	Gloss=topic marker 者; as for ...; concerning ...|LTranslit=ta¹|SpaceAfter=No
 55	𗈪	𗈪	PART	_	_	57	discourse	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
-56	𗉘	𗉘	AUX	_	Mood=Pot	57	aux	_	Gloss=pronoun|LTranslit=tśhə¹|SpaceAfter=No
+56	𗉘	𗉘	ADV	_	_	57	advmod	_	Gloss=pronoun|LTranslit=tśhə¹|SpaceAfter=No
 57	𗮅	𗮅	ADJ	_	_	0	root	_	Gloss=many, much, more|LTranslit=re̱r²|SpaceAfter=No
 58	𘃞	𘃞	PART	_	_	57	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 59	。	。	PUNCT	_	_	57	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0025
 # text_lzh = 無盡意言。甚多。世尊。
-# text_en = Endless-Intent said, “Very many. World-Honored One!”
+# text_en = Endless-Intent said, Very many. World-Honored One!
 # text = 𗉣𗅋𗋃𘒣𗮅𘃞𗯨𗖻。
 1	𗉣	𗉣	PROPN	_	_	4	nsubj	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
 2	𗅋	𗅋	PROPN	_	_	1	flat	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
@@ -911,7 +911,7 @@
 
 # sent_id = lotus_sutra_0026
 # text_lzh = 佛言。若復有人。受持觀世音菩薩名號。乃至一時禮拜供養。是二人福。正等無異。於百千萬億劫不可窮盡。
-# text_en = The Buddha said: “Anyone who keeps the name of World-Voice-Perceiver Bodhisattva and bows and makes offerings to him even for a moment, will be given as many merits as to be given to the good man or woman as previously stated. The merits will not be exhausted even after hundreds of thousands of billions of kalpas.
+# text_en = The Buddha said: Anyone who keeps the name of World-Voice-Perceiver Bodhisattva and bows and makes offerings to him even for a moment, will be given as many merits as to be given to the good man or woman as previously stated. The merits will not be exhausted even after hundreds of thousands of billions of kalpas.
 # text = 𗢳𘒣𘎤𗓱𘓐𗖌𗋕𗯨𗙏𘝯𘋢𗥤𗗙𗦻𗧯𘙇𗫡𗈪𗿳𗡪𘅍𗍺𘐔𗴿𗒀𗌭𘌽𘓐𗗙𗼕𗫂𗪘𗑠𗈪𗅲𘊝𗡞𗕑𗦲𗑱𗘯𗀅𘂆𗞞𗋃𗼕𗤋。
 1	𗢳	𗢳	NOUN	_	_	2	nsubj	_	Gloss=Buddha|LTranslit=tha̱¹|SpaceAfter=No
 2	𘒣	𘒣	VERB	_	_	0	root	_	Gloss=speech, word|LTranslit=da̱h²|SpaceAfter=No
@@ -964,7 +964,7 @@
 
 # sent_id = lotus_sutra_0027
 # text_lzh = 無盡意。受持觀世音菩薩名號。得如是無量無邊福德之利。
-# text_en = Endless-Intent! Anyone who keeps the name of World-Voice-Perceiver Bodhisattva will be given these benefits of innumerable merits and virtues.”
+# text_en = Endless-Intent! Anyone who keeps the name of World-Voice-Perceiver Bodhisattva will be given these benefits of innumerable merits and virtues.
 # text = 𗉣𗅋𗋃𗋕𗯨𗙏𘝯𘋢𗥤𗗙𗦻𗒐𗧋𗖵𘌽𗍊𘖑𗆄𗎘𗤋𗼕𗣼𘞙𗼜𘜘𘃞。
 1	𗉣	𗉣	PROPN	_	_	25	vocative	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
 2	𗅋	𗅋	PROPN	_	_	1	flat	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
@@ -996,7 +996,7 @@
 
 # sent_id = lotus_sutra_0028
 # text_lzh = 無盡意菩薩白佛言。世尊。觀世音菩薩。云何遊此娑婆世界。云何而為眾生說法。方便之力。其事云何。
-# text_en = Endless-Intent Bodhisattva said to the Buddha: “World-Honored One! How does World-Voice-Perceiver Bodhisattva go about this Sahā-World? How does he expound the Dharma to the living beings? What expedients does he employ?”
+# text_en = Endless-Intent Bodhisattva said to the Buddha: World-Honored One! How does World-Voice-Perceiver Bodhisattva go about this Sahā-World? How does he expound the Dharma to the living beings? What expedients does he employ?
 # text = 𗉣𗅋𗋃𘋢𗥤𗢳𗗙𘒣𘘥𗯨𗖻𗋕𗯨𗙏𘝯𘋢𗥤𘌽𗦗𗣧𗯨𗐯𗅁𘝶𗦜𘕧𘕂𗱕𘋢𗋐𗗙𘝶𗦜𗹙𘎪𗅉𗼄𘕤𗪺𗭍𗡶𘝶𗦜。
 1	𗉣	𗉣	PROPN	_	_	4	compound	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
 2	𗅋	𗅋	PROPN	_	_	1	flat	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
@@ -1038,13 +1038,13 @@
 38	𗪺	𗪺	NOUN	_	_	41	nsubj	_	Gloss=power, strength|LTranslit=ġhai̱¹|SpaceAfter=No
 39	𗭍	𗭍	NOUN	_	_	40	compound	_	Gloss=go, send|LTranslit=dźeh¹|SpaceAfter=No
 40	𗡶	𗡶	NOUN	_	_	38	conj	_	Gloss=along, along the surface|LTranslit=śe¹|SpaceAfter=No
-41	𘝶	𘝶	NOUN	_	_	26	parataxis	_	Gloss=why|LTranslit=the²|SpaceAfter=No
+41	𘝶	𘝶	NOUN	_	ExtPos=ADV	26	parataxis	_	Gloss=why|LTranslit=the²|SpaceAfter=No
 42	𗦜	𗦜	PART	_	_	41	fixed	_	Gloss=say|LTranslit=so²|SpaceAfter=No
 43	。	。	PUNCT	_	_	9	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0029
 # text_lzh = 佛告無盡意菩薩。善男子。若有國土眾生。應以佛身得度者。觀世音菩薩。即現佛身而為說法。
-# text_en = The Buddha said to Endless-Intent Bodhisattva: “Good man! In a certain world, World-Voice-Perceiver Bodhisattva takes the shape of a Buddha and expounds the Dharma to those who are to be saved by a Buddha.
+# text_en = The Buddha said to Endless-Intent Bodhisattva: Good man! In a certain world, World-Voice-Perceiver Bodhisattva takes the shape of a Buddha and expounds the Dharma to those who are to be saved by a Buddha.
 # text = 𗢳𗉣𗅋𗋃𘋢𗥤𗗙𘘥𗩴𗾖𘈷𗓱𗂧𘍞𗅁𘋢𗋐𗢳𘛽𗜓𗳒𗌗𗰛𗟭𗌭𗯨𗙏𘝯𘋢𗥤𗢳𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
 1	𗢳	𗢳	NOUN	_	_	8	nsubj	_	Gloss=Buddha|LTranslit=tha̱¹|SpaceAfter=No
 2	𗉣	𗉣	PROPN	_	_	5	compound	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
@@ -1591,7 +1591,7 @@
 
 # sent_id = lotus_sutra_0048
 # text_lzh = 無盡意。是觀世音菩薩。成就如是功德。以種種形。遊諸國土度脫眾生。是故汝等。應當一心供養觀世音菩薩。
-# text_en = “Endless-Intent! This World-Voice-Perceiver Bodhisattva does these meritorious deeds. He takes various shapes, walks about many worlds, and saves the living beings [of those worlds]. Make offerings to World-Voice-Perceiver Bodhisattva with all your hearts!
+# text_en = Endless-Intent! This World-Voice-Perceiver Bodhisattva does these meritorious deeds. He takes various shapes, walks about many worlds, and saves the living beings [of those worlds]. Make offerings to World-Voice-Perceiver Bodhisattva with all your hearts!
 # text = 𗉣𗅋𗋃𗋕𗯨𗙏𘝯𘋢𗥤𘌽𗍊𗣼𘉐𗵆𗨄𗖵𘋠𘋠𘛽𗳒𗱕𗂧𗧥𘕂𘋢𗋐𗗙𗌗𗰛𗩱𗌭𘌽𘔼𗍳𘆄𗤶𗨳𗳒𗋕𗯨𗙏𘝯𘋢𗥤𗗙𗴿𗒀𗦇。
 1	𗉣	𗉣	PROPN	_	_	47	vocative	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
 2	𗅋	𗅋	PROPN	_	_	1	flat	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
@@ -1645,7 +1645,7 @@
 
 # sent_id = lotus_sutra_0049
 # text_lzh = 是觀世音菩薩摩訶薩。於怖畏急難之中能施無畏。是故此娑婆世界。皆號之為施無畏者。
-# text_en = This World-Voice-Perceiver Bodhisattva-mahāsattva gives fearlessness [to those who are] in fearful emergencies. Therefore, he is called the ‘Giver of Fearlessness’ in this Sahā-World.”
+# text_en = This World-Voice-Perceiver Bodhisattva-mahāsattva gives fearlessness [to those who are] in fearful emergencies. Therefore, he is called the Giver of Fearlessness in this Sahā-World.
 # text = 𗋕𗯨𗙏𘝯𘏞𗢈𗓚𘄽𗢈𗫂𗴒𗃬𗤺𗧹𘂤𗃬𗤋𘈈𗩱𗌭𘘦𘌽𗦗𗣧𗯨𗐯𗅁𗑷𗄊𗳱𗗙𗃬𗤋𘈈𗇋𘟂𘘥𘃞。
 1	𗋕	𗋕	DET	_	PronType=Ind	6	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 2	𗯨	𗯨	PROPN	_	_	5	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
@@ -1685,7 +1685,7 @@
 
 # sent_id = lotus_sutra_0050
 # text_lzh = 時無盡意菩薩白佛言。世尊。我今當供養觀世音菩薩。即解頸眾寶珠瓔珞。價值百千兩金。而以與之。作是言。仁者。受此法施。珍寶瓔珞。
-# text_en = The Endless-Intent Bodhisattva said to the Buddha, “World-Honored One! Now I will make an offering to World-Voice-Perceiver Bodhisattva.” From around his neck, he took a necklace of many gems worth hundreds of thousands of ryo of gold, and offered it [to the Bodhisattva], saying, “Man of Virtue! Receive this necklace of wonderful treasures! I offer this to you according to the Dharma!”
+# text_en = The Endless-Intent Bodhisattva said to the Buddha, World-Honored One! Now I will make an offering to World-Voice-Perceiver Bodhisattva. From around his neck, he took a necklace of many gems worth hundreds of thousands of ryo of gold, and offered it [to the Bodhisattva], saying, Man of Virtue! Receive this necklace of wonderful treasures! I offer this to you according to the Dharma!
 # text = 𗿳𗉣𗅋𗋃𘋢𗥤𗢳𗗙𘒣𘘥𗯨𗖻𗧓𗫈𗯨𗙏𘝯𘋢𗥤𗗙𗴿𗒀𗧓𗗟𘘥𗉮𘃛𗒕𘕿𘊝𗡞𗍬𗵒𗋐𗫔𘏨𗡦𗙲𗞞𗱌𗯨𗙏𘝯𗗙𗞞𘈈𘌽𗍊𘒣𘘥𘜶𗇋𘌽𗹙𘈈𘀭𘏨𗡦𗙲𗋚𘎨𘉞𘘥。
 1	𗿳	𗿳	NOUN	_	_	10	obl	_	Gloss=time, days|LTranslit=dzeṃ¹|SpaceAfter=No
 2	𗉣	𗉣	PROPN	_	_	5	compound	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
@@ -1756,21 +1756,21 @@
 # text_lzh = 時觀世音菩薩。不肯受之。
 # text_en = World-Voice-Perceiver Bodhisattva did not consent to receive it.
 # text = 𗿳𗯨𗙏𘝯𘋢𗥤𗒐𗨙𘖑𗳢。
-1	𗿳	𗿳	NOUN	_	_	8	obl	_	Gloss=time, days|LTranslit=dzeṃ¹|SpaceAfter=No
+1	𗿳	𗿳	NOUN	_	_	10	obl	_	Gloss=time, days|LTranslit=dzeṃ¹|SpaceAfter=No
 2	𗯨	𗯨	PROPN	_	_	5	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 3	𗙏	𗙏	PROPN	_	_	2	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 4	𘝯	𘝯	PROPN	_	_	2	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
-5	𘋢	𘋢	NOUN	_	_	8	nsubj	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
+5	𘋢	𘋢	NOUN	_	_	10	nsubj	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
 6	𗥤	𗥤	VERB	_	_	5	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
 7	𗒐	𗒐	VERB	_	_	8	compound	_	Gloss=receive, accept|LTranslit=ġhwae̱¹|SpaceAfter=No
-8	𗨙	𗨙	VERB	_	_	0	root	_	Gloss=bear, suffer; to receive|LTranslit=lheh²|SpaceAfter=No
-9	𘖑	𘖑	PART	_	Polarity=Neg	8	advmod	_	Gloss=no, not; no need|LTranslit=mə¹|SpaceAfter=No
-10	𗳢	𗳢	AUX	_	_	8	aux	_	Gloss=agree, consent|LTranslit=dźe?|SpaceAfter=No
-11	。	。	PUNCT	_	_	8	punct	_	Orig=_
+8	𗨙	𗨙	VERB	_	_	10	xcomp	_	Gloss=bear, suffer; to receive|LTranslit=lheh²|SpaceAfter=No
+9	𘖑	𘖑	PART	_	Polarity=Neg	10	advmod	_	Gloss=no, not; no need|LTranslit=mə¹|SpaceAfter=No
+10	𗳢	𗳢	VERB	_	_	0	root	_	Gloss=agree, consent|LTranslit=dźe?|SpaceAfter=No
+11	。	。	PUNCT	_	_	10	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0052
 # text_lzh = 無盡意復白觀世音菩薩言。仁者。愍我等故。受此瓔珞。
-# text_en = Endless-Intent said to World-Voice-Perceiver Bodhisattva again, “Man of Virtue! Receive this necklace out of your compassion towards us!”
+# text_en = Endless-Intent said to World-Voice-Perceiver Bodhisattva again, Man of Virtue! Receive this necklace out of your compassion towards us!
 # text = 𗉣𗅋𗋃𗅉𗯨𗙏𘝯𘋢𗥤𗗙𘒣𘘥𘜶𗇋𗧓𘆄𗗙𗕿𘖛𗖵𘌽𗡦𗙲𗋚𘎨𘉞𘘣。
 1	𗉣	𗉣	PROPN	_	_	12	nsubj	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
 2	𗅋	𗅋	PROPN	_	_	1	flat	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
@@ -1803,7 +1803,7 @@
 
 # sent_id = lotus_sutra_0053
 # text_lzh = 爾時佛告觀世音菩薩。當愍此無盡意菩薩。及四眾、天、龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽、人、非人等故。受是瓔珞。
-# text_en = Thereupon the Buddha said to World-Voice-Perceiver Bodhisattva: “Receive it out of your compassion towards this Endless-Intent Bodhisattva, towards the four kinds of devotees, and towards the other living beings including gods, dragons, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, mahoragas, men and nonhuman beings!”
+# text_en = Thereupon the Buddha said to World-Voice-Perceiver Bodhisattva: Receive it out of your compassion towards this Endless-Intent Bodhisattva, towards the four kinds of devotees, and towards the other living beings including gods, dragons, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, mahoragas, men and nonhuman beings!
 # text = 𗉘𘝨𗢳𗯨𗙏𘝯𘋢𗥤𗗙𘘥𘌽𗉣𗅋𗋃𘋢𗥤𘓁𗅉𗥃𗿷𘓱𗵃𗥫𘀺𗯊𗣩𗣧𗠝𘏱𗓽𗡝𗜪𗓽𗷭𗅾𗓽𘉒𗺹𗓽𘀺𘓐𗅋𘓐𘆄𗗙𗕿𘖛𗖵𘌽𗡦𗙲𗨙𗦇𘘥。
 1	𗉘	𗉘	DET	_	PronType=Dem	2	det	_	Gloss=pronoun|LTranslit=tśhə¹|SpaceAfter=No
 2	𘝨	𘝨	NOUN	_	_	10	obl	_	Gloss=time|LTranslit=zoh²|SpaceAfter=No
@@ -1904,7 +1904,7 @@
 
 # sent_id = lotus_sutra_0055
 # text_lzh = 無盡意。觀世音菩薩。有如是自在神力。遊於娑婆世界。
-# text_en = [The Buddha said to Endless-Intent Bodhisattva,] “Endless-Intent! World-Voice-Perceiver Bodhisattva goes about the Sahā-World, employing these supernatural powers without hindrance.”
+# text_en = [The Buddha said to Endless-Intent Bodhisattva,] Endless-Intent! World-Voice-Perceiver Bodhisattva goes about the Sahā-World, employing these supernatural powers without hindrance.
 # text = 𗉣𗅋𗋃𘌽𗯨𗙏𘝯𘋢𗥤𘌽𗍊𘝵𗦳𗾈𗪺𗿷𗖵𗦗𗣧𗯨𗐯𗅁𘕂𘃞。
 1	𗉣	𗉣	PROPN	_	_	22	vocative	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
 2	𗅋	𗅋	PROPN	_	_	1	flat	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
@@ -2269,7 +2269,7 @@
 20	𘃛	𘃛	ADV	_	_	22	advmod	_	Gloss=immediate, rapid|LTranslit=rar²|SpaceAfter=No
 21	𗧐	𗧐	VERB	_	_	22	compound	_	Gloss=untie|LTranslit=bai̱²|SpaceAfter=No
 22	𗇘	𗇘	VERB	_	_	0	root	_	Gloss=extricate|LTranslit=lhi̱w²|SpaceAfter=No
-23	𘜘	𘜘	AUX	_	_	22	aux	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
+23	𘜘	𘜘	VERB	_	_	22	compound	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0068
@@ -2708,7 +2708,7 @@
 
 # sent_id = lotus_sutra_0083
 # text_lzh = 爾時持地菩薩即從座起。前白佛言。世尊。若有眾生。聞是觀世音菩薩品自在之業。普門示現神通力者。當知是人功德不少。
-# text_en = Thereupon Earth-Holding Bodhisattva rose from his seat, proceeded to the Buddha, and said to him: “World-Honored One! Those who hear of his supernatural powers by which he opened the universal gate without hindrance, and which are expounded in this chapter of World-Voice-Perceiver Bodhisattva, know this, will be able to obtain not a few merits.”
+# text_en = Thereupon Earth-Holding Bodhisattva rose from his seat, proceeded to the Buddha, and said to him: World-Honored One! Those who hear of his supernatural powers by which he opened the universal gate without hindrance, and which are expounded in this chapter of World-Voice-Perceiver Bodhisattva, know this, will be able to obtain not a few merits.
 # text = 𗉘𘝨𗼻𗧯𘋢𗥤𗶠𘏚𗈪𗢵𗢳𗗙𗙼𗙷𘌽𗍊𘒣𘘥𗯨𗖻𘎤𗓱𘋢𗋐𘌽𗯨𗙏𘝯𘋢𗥤𘄿𘝵𗦳𘝦𘈽𗫡𘗠𗴧𗜓𗾈𗿣𗪺𗓁𗌭𗋕𘓐𘙌𗅆𗣼𘉐𗅋𘓊𘃞𘘥。
 1	𗉘	𗉘	DET	_	PronType=Dem	2	det	_	Gloss=pronoun|LTranslit=tśhə¹|SpaceAfter=No
 2	𘝨	𘝨	NOUN	_	_	18	obl	_	Gloss=time|LTranslit=zoh²|SpaceAfter=No
@@ -3254,7 +3254,7 @@
 
 # sent_id = avatamsaka_sutra_0021
 # text_lzh = 善男子！我等二人但能知此幻住解脫。
-# text_en = Son of Good Family, the two of us are only able to know this “illusory existence” liberation.
+# text_en = Son of Good Family, the two of us are only able to know this illusory existence liberation.
 # text = 𗩴𗾖𘈷𗧓𘆄𗍫𘓐𗧀𘌽𘂫𗫻𗧐𗇘𗄻𘙌。
 1	𗩴	𗩴	ADJ	_	_	3	amod	_	Gloss=good, mercy|LTranslit=nni̱w²|SpaceAfter=No
 2	𗾖	𗾖	NOUN	_	_	3	nmod	_	Gloss=man, male|LTranslit=rgor¹|SpaceAfter=No
@@ -5746,7 +5746,7 @@
 8	𘂤	𘂤	ADP	_	_	7	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=qha̱¹|SpaceAfter=No
 9	𗣈	𗣈	VERB	_	_	10	compound	_	Gloss=come; to exit|LTranslit=lhow?|SpaceAfter=No
 10	𗈜	𗈜	VERB	_	_	0	root	_	Gloss=sever|LTranslit=qa̱²|SpaceAfter=No
-11	𗟧	𗟧	AUX	_	_	10	aux	_	Gloss=get, gain|LTranslit=rir²|SpaceAfter=No
+11	𗟧	𗟧	VERB	_	_	10	compound	_	Gloss=get, gain|LTranslit=rir²|SpaceAfter=No
 12	𗩴	𗩴	ADJ	_	_	14	amod	_	Gloss=good, mercy|LTranslit=nni̱w²|SpaceAfter=No
 13	𗄻	𗄻	NOUN	_	_	14	compound	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
 14	𗹬	𗹬	NOUN	_	_	16	nsubj	_	Gloss=passion, know|LTranslit=se²|SpaceAfter=No
@@ -5795,16 +5795,16 @@
 3	𗹬	𗹬	NOUN	_	_	6	obj	_	Gloss=passion, know|LTranslit=se²|SpaceAfter=No
 4	𗗙	𗗙	ADP	_	_	3	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 5	𗦍	𗦍	ADJ	_	_	6	compound	_	Gloss=close, near; to converge|LTranslit=to?|SpaceAfter=No
-6	𗶚	𗶚	VERB	_	_	12	advcl	_	Gloss=relation; near|LTranslit=ne¹|SpaceAfter=No
+6	𗶚	𗶚	VERB	_	_	15	advcl	_	Gloss=relation; near|LTranslit=ne¹|SpaceAfter=No
 7	𘔼	𘔼	SCONJ	_	_	6	mark	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
 8	𘈽	𘈽	NOUN	_	_	12	obl	_	Gloss=cause, trade|LTranslit=sweṃ¹|SpaceAfter=No
 9	𘝌	𘝌	NOUN	_	_	8	conj	_	Gloss=spirit, ghost|LTranslit=lleṃh¹|SpaceAfter=No
 10	𗗙	𗗙	ADP	_	_	9	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 11	𗷣	𗷣	VERB	_	_	12	compound	_	Gloss=get rid of, remove|LTranslit=dźwu¹|SpaceAfter=No
-12	𗛮	𗛮	VERB	_	_	0	root	_	Gloss=bend over; resign oneself to, submit to|LTranslit=nvwə̱¹|SpaceAfter=No
-13	𗦇	𗦇	AUX	_	_	12	aux	_	Gloss=must|LTranslit=lli̱w²|SpaceAfter=No
-14	𗅋	𗅋	PART	_	Polarity=Neg	12	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
-15	𗨻	𗨻	AUX	_	_	12	aux	_	Gloss=do|LTranslit=vwi̱²|SpaceAfter=No
+12	𗛮	𗛮	VERB	_	_	15	xcomp	_	Gloss=bend over; resign oneself to, submit to|LTranslit=nvwə̱¹|SpaceAfter=No
+13	𗦇	𗦇	AUX	_	_	15	aux	_	Gloss=must|LTranslit=lli̱w²|SpaceAfter=No
+14	𗅋	𗅋	PART	_	Polarity=Neg	15	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+15	𗨻	𗨻	VERB	_	_	0	root	_	Gloss=become|LTranslit=vwi̱²|SpaceAfter=No
 16	𗩴	𗩴	ADJ	_	_	18	amod	_	Gloss=good, mercy|LTranslit=nni̱w²|SpaceAfter=No
 17	𗄻	𗄻	NOUN	_	_	18	compound	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
 18	𗹬	𗹬	NOUN	_	_	21	obj	_	Gloss=passion, know|LTranslit=se²|SpaceAfter=No
@@ -5815,7 +5815,7 @@
 23	𘏐	𘏐	NOUN	_	_	24	compound	_	Gloss=power, force, influence|LTranslit=ġhwai̱¹|SpaceAfter=No
 24	𗪺	𗪺	NOUN	_	_	26	nsubj	_	Gloss=power, strength|LTranslit=ġhai̱¹|SpaceAfter=No
 25	𗬢	𗬢	ADJ	_	_	26	compound	_	Gloss=firm, solid|LTranslit=gwə¹|SpaceAfter=No
-26	𗸁	𗸁	ADJ	_	_	12	conj	_	Gloss=firm|LTranslit=lwo̱²|SpaceAfter=No
+26	𗸁	𗸁	ADJ	_	_	15	conj	_	Gloss=firm|LTranslit=lwo̱²|SpaceAfter=No
 27	𗱕	𗱕	DET	_	PronType=Tot	28	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 28	𗢞	𗢞	NOUN	_	_	30	obj	_	Gloss=devil, demon|LTranslit=nlle²|SpaceAfter=No
 29	𗅋	𗅋	PART	_	Polarity=Neg	30	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
@@ -5833,8 +5833,8 @@
 41	𗄑	𗄑	DET	_	ExtPos=DET|PronType=Tot	40	det	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
 42	𗄑	𗄑	DET	_	PronType=Tot	41	fixed	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
 43	𘎲	𘎲	VERB	_	_	44	compound	_	Gloss=increase, raise, add|LTranslit=lhu̱¹|SpaceAfter=No
-44	𘃸	𘃸	VERB	_	_	12	conj	_	Gloss=prosperous|LTranslit=lleh¹|SpaceAfter=No
-45	。	。	PUNCT	_	_	12	punct	_	Orig=_
+44	𘃸	𘃸	VERB	_	_	15	conj	_	Gloss=prosperous|LTranslit=lleh¹|SpaceAfter=No
+45	。	。	PUNCT	_	_	15	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0076
 # text_lzh = 何以故？
@@ -10052,7 +10052,7 @@
 
 # sent_id = avatamsaka_sutra_0221
 # text_lzh = 是住一切魔宮而不耽著欲境界者之所住處；是永離一切心想者之所住處；是雖于一切衆生中而現其身，然於自他不生二想者之所住處；
-# text_en = Is the abode of those who, even if they dwelt in the palace of Māra, would still never indulge in the objects of sensual desire; Is the abode of those who have forever abandoned all conceptual thought; Is the abode of those who, even though they manifest their bodies among all beings, still never raise any dualistic thought conceiving of “self” or “other”;
+# text_en = Is the abode of those who, even if they dwelt in the palace of Māra, would still never indulge in the objects of sensual desire; Is the abode of those who have forever abandoned all conceptual thought; Is the abode of those who, even though they manifest their bodies among all beings, still never raise any dualistic thought conceiving of self or other;
 # text = 𗢞𗎭𗄑𗄑𗅁𗫻𗧠𘃺𗐯𘂤𗅋𘟠𗂆𗇋𗗙𗫻𘏚𘟂𗤶𗾫𗄑𗄑𘘂𗈜𗇋𗗙𗫻𘏚𘟂𗋕𗫔𘎳𗄑𗄑𘂤𘝵𘛽𘙌𗜓𘝵𘑶𗍫𗾫𗅋𗄈𗇋𗗙𗫻𘏚𘟂。
 1	𗢞	𗢞	NOUN	_	_	2	nmod	_	Gloss=devil, demon|LTranslit=nlle²|SpaceAfter=No
 2	𗎭	𗎭	NOUN	_	_	6	obl	_	Gloss=house, residence|LTranslit=mmi¹|SpaceAfter=No
@@ -13337,7 +13337,7 @@
 
 # sent_id = avatamsaka_sutra_0314
 # text_lzh = 汝念善知識，生我如父母。養我如乳母，增我菩提分，
-# text_en = It was because you recalled, “The good spiritual guides give birth to me like my own parents, raise me like nursemaids, enable the growth of my limbs of bodhi,
+# text_en = It was because you recalled, The good spiritual guides give birth to me like my own parents, raise me like nursemaids, enable the growth of my limbs of bodhi,
 # text = 𗍳𗩴𗄻𗹬𗆫，𗧓𘔴𗔀𗴺𗍊。𗧓𗋿𗸱𘙫𗍊，𗧓𘏞𘛛𗦫𘎲。
 1	𗍳	𗍳	PRON	_	PronType=Prs	5	nsubj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
 2	𗩴	𗩴	ADJ	_	_	4	amod	_	Gloss=good, mercy|LTranslit=nni̱w²|SpaceAfter=No
@@ -13394,7 +13394,7 @@
 
 # sent_id = avatamsaka_sutra_0316
 # text_lzh = 如山不動搖，如海無增減。如船師濟渡，而來至我所。
-# text_en = are like the mountains that are unshakable, are like the ocean that never increases or decreases, and are like the ship captain who rescues me and takes me across.” Hence you have come here to my abode.
+# text_en = are like the mountains that are unshakable, are like the ocean that never increases or decreases, and are like the ship captain who rescues me and takes me across. Hence you have come here to my abode.
 # text = 𘑗𗅋𗚛𘄬𗍊，𗗚𘎲𗟥𗤋𗍊。𗊂𘘚𗌗𗰛𗍊，𗧓𘋩𘙇𗆐𘉞。
 1	𘑗	𘑗	NOUN	_	_	4	nsubj	_	Gloss=hill, mountain|LTranslit=rŋə̱r¹|SpaceAfter=No
 2	𗅋	𗅋	PART	_	Polarity=Neg	4	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
@@ -15726,9 +15726,9 @@
 17	，	，	PUNCT	_	_	16	punct	_	Orig=_|SpaceAfter=No
 18	𘝵	𘝵	ADV	_	_	20	advmod	_	Gloss=self, oneself (reflexive pronoun)|LTranslit=ye¹|SpaceAfter=No
 19	𘛽	𘛽	NOUN	_	_	20	obj	_	Gloss=body|LTranslit=lluh²|SpaceAfter=No
-20	𗫩	𗫩	VERB	_	_	21	csubj	_	Gloss=give up, abandon|LTranslit=rdźər¹|SpaceAfter=No
-21	𗒘	𗒘	ADJ	_	_	11	parataxis	_	Gloss=true, real, authentic|LTranslit=ġhae̱¹|SpaceAfter=No
-22	𗨻	𗨻	AUX	_	_	21	cop	_	Gloss=do|LTranslit=vwi̱²|SpaceAfter=No
+20	𗫩	𗫩	VERB	_	_	22	csubj	_	Gloss=give up, abandon|LTranslit=rdźər¹|SpaceAfter=No
+21	𗒘	𗒘	ADJ	_	_	22	xcomp	_	Gloss=true, real, authentic|LTranslit=ġhae̱¹|SpaceAfter=No
+22	𗨻	𗨻	VERB	_	_	11	parataxis	_	Gloss=become|LTranslit=vwi̱²|SpaceAfter=No
 23	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0397
