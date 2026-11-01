@@ -2936,8 +2936,8 @@
 18	。	。	PUNCT	_	_	17	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0007
-# text_lzh = 唯願慈哀，為我宣說！ / 時，童子、童女告善財言：
-# text_en = I pray only that in your great compassion. Please explain these matters for me. / The youth and the maiden then replied to Sudhana, saying:
+# text_lzh = 唯願慈哀，為我宣說！
+# text_en = I pray only that in your great compassion. Please explain these matters for me.
 # text = 𗧀𘓞𗕿𘖛𗧓𗗙𘙇𘎪𘃡𗧓。
 1	𗧀	𗧀	ADV	_	_	2	advmod	_	Gloss=only, see|LTranslit=li̱w¹|SpaceAfter=No
 2	𘓞	𘓞	VERB	_	_	0	root	_	Gloss=hope, wish|LTranslit=tih¹|SpaceAfter=No
@@ -7991,8 +7991,8 @@
 27	。	。	PUNCT	_	_	16	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0148
-# text_lzh = 復憶往世追求欲境常自損耗無有滋味，即時發意修行佛法長養諸根以自安隱； / 復憶往世所修諸行但為自身，即時發意令心廣大普及含識；
-# text_en = [He] also recalled how in previous lives he had chased after desirable sense objects which were always self-destructive and flavorless, whereupon he immediately resolved to cultivate the Dharma of the Buddha, nourish the growth of all his faculties, and thereby produce personal peace and security; / [He] also recalled how in previous lives he had cultivated practices solely for his own benefit, whereupon he immediately resolved to expand the scope of his intentions to include all beings;
+# text_lzh = 復憶往世追求欲境常自損耗無有滋味，即時發意修行佛法長養諸根以自安隱；
+# text_en = [He] also recalled how in previous lives he had chased after desirable sense objects which were always self-destructive and flavorless, whereupon he immediately resolved to cultivate the Dharma of the Buddha, nourish the growth of all his faculties, and thereby produce personal peace and security;
 # text = 𗅉𗆫𗖏𘗽𗧠𘃺𘟠𗂆𗏹𘝵𘛽𘔇𘇚𗼜𗅋𘟣𗉮𘃛𗤶𗄈𗢳𗹙𗹢𗭍𗱕𗺉𗋿𘞵𘌽𘔼𘗲𗵐𘜘。
 1	𗅉	𗅉	ADV	_	_	2	advmod	_	Gloss=conjunction; behind|LTranslit=nuo¹|SpaceAfter=No
 2	𗆫	𗆫	VERB	_	_	20	advcl	_	Gloss=think, think of; thought|LTranslit=rlər²|SpaceAfter=No
@@ -8580,8 +8580,8 @@
 59	。	。	PUNCT	_	_	50	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0162
-# text_lzh = 以深信解、大願力故，入遍一切處智慧身平等門，普現其身在於一切如來前、
-# text_en = By which, through deep resolute faith and the power of great vows, [he] entered the wisdom body’s uniformly equal gateway to pervasive presence in all places and everywhere manifested his body: Directly before all tathāgatas;
+# text_lzh = 以深信解、大願力故，入遍一切處智慧身平等門，
+# text_en = By which, through deep resolute faith and the power of great vows, [he] entered the wisdom body’s uniformly equal gateway to pervasive presence in all places;
 # text = 𘓟𗥤𘜶𘓞𗪺𘔼𗌭𗄑𗄑𘋩𗫡𗭪𘄡𘟛𘛽𗣼𗳦𘗠𗅁𘃽。
 1	𘓟	𘓟	NOUN	_	_	2	compound	_	Gloss=faith, trust|LTranslit=dẓae̱²|SpaceAfter=No
 2	𗥤	𗥤	NOUN	_	_	20	obl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
@@ -8606,8 +8606,8 @@
 21	。	。	PUNCT	_	_	20	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0163
-# text_lzh = 一切菩薩前、一切善知識前、一切如來塔廟前、一切如來形像前、一切諸佛諸菩薩住處前、一切法寶前、一切聲聞辟支佛及其塔廟前、一切聖眾福田前、一切父母尊者前、一切十方眾生前， / 以深信解、大願力故，入遍一切處智慧身平等門，普現其身在於一切如來前、 / 皆如上說，尊重禮讚，盡未來際無有休息。
-# text_en = Directly before all bodhisattvas; Directly before all good spiritual guides; Directly before the stupas of all tathāgatas; Directly before the images of all tathāgatas; Directly before the abodes of all buddhas and bodhisattvas; Directly before all Dharma jewels; Directly before all śrāvaka disciples and pratyekabuddhas and their stupas; Directly before the fields of merit in the congregations of all āryas; Directly before all parents and venerable persons; and Directly before all beings of the ten directions; / By which, through deep resolute faith and the power of great vows, [he] entered the wisdom body’s uniformly equal gateway to pervasive presence in all places and everywhere manifested his body: Directly before all tathāgatas; / So it was that he incessantly venerated, revered, and praised all those aforementioned beings until the very end of the future
+# text_lzh = 普現其身在於一切如來前、一切菩薩前、一切善知識前、一切如來塔廟前、一切如來形像前、一切諸佛諸菩薩住處前、一切法寶前、一切聲聞辟支佛及其塔廟前、一切聖眾福田前、一切父母尊者前、一切十方眾生前，皆如上說，尊重禮讚，盡未來際無有休息。
+# text_en = And everywhere manifested his body: Directly before all tathāgatas; Directly before all bodhisattvas; Directly before all good spiritual guides; Directly before the stupas of all tathāgatas; Directly before the images of all tathāgatas; Directly before the abodes of all buddhas and bodhisattvas; Directly before all Dharma jewels; Directly before all śrāvaka disciples and pratyekabuddhas and their stupas; Directly before the fields of merit in the congregations of all āryas; Directly before all parents and venerable persons; and Directly before all beings of the ten directions; So it was that he incessantly venerated, revered, and praised all those aforementioned beings until the very end of the future
 # text = 𘝵𘛽𗌮𗆐𗄑𗄑𗗙𗙼𗙷𘋢𗥤𗄑𗄑𗗙𗙼𗙷𗩴𗄻𗹬𗄑𗄑𗗙𗙼𗙷𗌮𗆐𗄑𗄑𗗙𗽔𘖚𗙼𗙷𗌮𗆐𗄑𗄑𗗙𘛽𗴭𗙼𗙷𗱕𗢳𗄑𗄑𗱕𘋢𗥤𗗙𗫻𘏚𗙼𗙷𗹙𘏨𗄑𗄑𗗙𗙼𗙷𗙏𗓁𘞪𗫨𗄑𗄑𘓁𗅉𗽔𘖚𗙼𗙷𗼃𗫔𗼕𗆖𗄑𗄑𗗙𗙼𗙷𗔀𗴺𗖻𗹭𗄑𗄑𗗙𗙼𗙷𗰭𗏣𗫔𘎳𗄑𗄑𗗙𗙼𗙷𗄊𗜓𗄊𗪘𘙇𘎪𗍊𗖻𗴢𘐔𗡙𗷝𗆐𘗽𗋃𗬁𗁿𗅋𘟣。
 1	𘝵	𘝵	ADV	_	_	102	advmod	_	Gloss=self, oneself (reflexive pronoun)|LTranslit=ye¹|SpaceAfter=No
 2	𘛽	𘛽	NOUN	_	_	102	obj	_	Gloss=body|LTranslit=lluh²|SpaceAfter=No
@@ -8730,7 +8730,7 @@
 119	𘟣	𘟣	VERB	_	_	110	conj	_	Gloss=have, possess|LTranslit=du¹|SpaceAfter=No
 120	。	。	PUNCT	_	_	110	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0165
+# sent_id = avatamsaka_sutra_0164
 # text_lzh = 等虛空，無邊量故；
 # text_en = The same as empty space, due to being boundless;
 # text = 𘉏𗲠𗑠𗳦𗧁𗎘𗤋𘃞。
@@ -8744,7 +8744,7 @@
 8	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0166
+# sent_id = avatamsaka_sutra_0165
 # text_lzh = 等法界，無障礙故；
 # text_en = The same as the Dharma realm, due to being unimpeded;
 # text = 𗹙𗐯𗑠𗳦𗦁𗄿𗤋𘃞。
@@ -8758,7 +8758,7 @@
 8	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0167
+# sent_id = avatamsaka_sutra_0166
 # text_lzh = 等實際，遍一切故；
 # text_en = The same as the apex of reality, due to pervading everything;
 # text = 𘞌𗎘𗑠𗳦𗄑𗄑𗫡𘃞。
@@ -8772,7 +8772,7 @@
 8	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0168
+# sent_id = avatamsaka_sutra_0167
 # text_lzh = 等如來，無分別故。
 # text_en = The same as the Tathāgata, due to having no discriminations;
 # text = 𗌮𗆐𗑠𗳦𗠷𗷎𗤋𘃞。
@@ -8786,7 +8786,7 @@
 8	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0169
+# sent_id = avatamsaka_sutra_0168
 # text_lzh = 猶如影，隨智現故；
 # text_en = The same as a reflection, due to manifesting in accordance with wisdom;
 # text = 𗇮𗋚𗍊𘄡𗖵𗜓𘃞。
@@ -8799,7 +8799,7 @@
 7	𘃞	𘃞	PART	_	_	1	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 8	。	。	PUNCT	_	_	1	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0170
+# sent_id = avatamsaka_sutra_0169
 # text_lzh = 猶如夢，從思起故；
 # text_en = The same as a dream, due to arising from thought;
 # text = 𘈞𗋚𗍊𗾫𗖵𗄈𘃞。
@@ -8812,7 +8812,7 @@
 7	𘃞	𘃞	PART	_	_	1	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 8	。	。	PUNCT	_	_	1	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0171
+# sent_id = avatamsaka_sutra_0170
 # text_lzh = 猶如像，示一切故；
 # text_en = The same as an image, due to showing everything;
 # text = 𗴭𗋚𗍊𗄑𗄑𗩯𘃞。
@@ -8825,7 +8825,7 @@
 7	𘃞	𘃞	PART	_	_	1	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 8	。	。	PUNCT	_	_	1	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0172
+# sent_id = avatamsaka_sutra_0171
 # text_lzh = 猶如響，緣所發故；
 # text_en = The same as an echo, due to being produced by conditions;
 # text = 𗱝𗋚𗍊𘔼𗖵𗄈𘃞。
@@ -8838,7 +8838,7 @@
 7	𘃞	𘃞	PART	_	_	1	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 8	。	。	PUNCT	_	_	1	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0173
+# sent_id = avatamsaka_sutra_0172
 # text_lzh = 無有生，遞興謝故；
 # text_en = Being unproduced, due to alternating waxing and waning;
 # text = 𘎳𗅋𘟣𘎆𗦬𘎳𗈞𘃞。
@@ -8852,7 +8852,7 @@
 8	𘃞	𘃞	PART	_	_	3	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	_	_	3	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0174
+# sent_id = avatamsaka_sutra_0173
 # text_lzh = 無有性，隨緣轉故。
 # text_en = Having no [inherent] nature, due to changing in accordance with conditions.
 # text = 𗎫𗅋𘟣𗦫𗖵𗯗𘃞。
@@ -8865,7 +8865,7 @@
 7	𘃞	𘃞	PART	_	_	3	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 8	。	。	PUNCT	_	_	3	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0175
+# sent_id = avatamsaka_sutra_0174
 # text_lzh = 又決定知一切諸報皆從業起，一切諸果皆從因起，一切諸業皆從習起，一切佛興皆從信起，
 # text_en = [He] also then decisively understood: How all karmic retributions arise from actions; How all effects arise from causes; How all karmic actions arise from habitual karmic propensities; How all buddhas’ appearances in the world all arise from faith;
 # text = 𗅉𗱕𗱱𗄑𗄑𗄊𘈽𗖵𗄈𗱕𗫴𗄑𗄑𗄊𗦫𗖵𗄈𗱕𘈽𗄑𗄑𗄊𘘝𗖵𗄈𗢳𗄑𗄑𗧊𗄊𘓟𗖵𗄈。
@@ -8904,7 +8904,7 @@
 33	𗄈	𗄈	VERB	_	_	9	conj	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
 34	。	。	PUNCT	_	_	9	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0176
+# sent_id = avatamsaka_sutra_0175
 # text_lzh = 一切化現諸供養事皆悉從於決定解起，一切化佛從敬心起，一切佛法從善根起，
 # text_en = How all transformationally produced offerings arise from resolute understanding; How all emanation buddhas arise from the reverential mind; How all dharmas of the buddhas arise from roots of goodness;
 # text = 𘂫𘅜𗱕𗴿𗒀𘅣𗄑𗄑𗄊𘙌𗅆𗥤𗖵𗄈𘅜𗢳𗄑𗄑𗼋𗤶𗖵𗄈𗢳𗹙𗄑𗄑𗩴𗺉𗖵𗄈。
@@ -8940,7 +8940,7 @@
 30	𗄈	𗄈	VERB	_	_	14	conj	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
 31	。	。	PUNCT	_	_	14	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0177
+# sent_id = avatamsaka_sutra_0176
 # text_lzh = 一切化身從方便起，一切佛事從大願起，一切菩薩所修諸行從迴向起，一切法界廣大莊嚴從一切智境界而起。
 # text_en = How all emanation bodies arise from skillful means; How all works of buddhas arise from great vows; How all the practices cultivated by all bodhisattvas arise from dedications of merit; How all the vast adornments of the Dharma realm arise from the sphere of all-knowledge;
 # text = 𘅜𘛽𗄑𗄑𗼄𘕤𗖵𗄈𗢳𘅣𗄑𗄑𘜶𘓞𗖵𗄈𘋢𗥤𗄑𗄑𗗙𘙇𗹢𗱕𘝦𘆏𗷖𗖵𗄈𗹙𗐯𗄑𗄑𗾟𘜶𗵽𘆡𗄑𗄑𘄡𘃺𗐯𗖵𗄈。
@@ -8990,7 +8990,7 @@
 44	𗄈	𗄈	VERB	_	_	8	conj	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
 45	。	。	PUNCT	_	_	8	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0178
+# sent_id = avatamsaka_sutra_0177
 # text_lzh = 離於斷見，知迴向故；
 # text_en = How abandonment of the annihilationist view occurs due to knowing the nature of how ripening [of karma] occurs;
 # text = 𗍣𘟀𗈲𗈜𘆏𗷖𗄻𘃞。
@@ -9004,7 +9004,7 @@
 8	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0179
+# sent_id = avatamsaka_sutra_0178
 # text_lzh = 離於常見，知無生故；
 # text_en = How abandonment of the eternalist view occurs due to knowing nonproduction;
 # text = 𗏹𘟀𗈲𗈜𘎳𗤋𗄻𘃞。
@@ -9018,7 +9018,7 @@
 8	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0180
+# sent_id = avatamsaka_sutra_0179
 # text_lzh = 離無因見，知正因故；
 # text_en = How abandonment of the view denying causality occurs due to knowing right causality;
 # text = 𗦫𗤋𘟀𗈜𗣼𗦫𗄻𘃞。
@@ -9032,7 +9032,7 @@
 8	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0181
+# sent_id = avatamsaka_sutra_0180
 # text_lzh = 離顛倒見，知如實理故；
 # text_en = How abandonment of inverted views occurs due to knowing principles in accordance with reality;
 # text = 𘝅𗉷𘟀𗈜𘞌𗖵𗧘𗄻𘃞。
@@ -9047,7 +9047,7 @@
 9	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 10	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0182
+# sent_id = avatamsaka_sutra_0181
 # text_lzh = 離自在見，知不由他故；
 # text_en = How abandonment of the view seizing on [Maheśvara, as a creator god] occurs due to knowing [that one’s circumstances] are not determined by others
 # text = 𘝵𗦳𘟀𗈜𘉑𘔼𗅔𗄻𘃞。
@@ -9062,7 +9062,7 @@
 9	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 10	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0183
+# sent_id = avatamsaka_sutra_0182
 # text_lzh = 離自他見，知從緣起故；
 # text_en = How abandonment of the view that seizes on the inherent existence of self and others occurs due to knowing that they arise due to conditions;
 # text = 𘝵𘑶𘟀𗈜𗦫𗖵𗄈𗄻𘃞。
@@ -9077,7 +9077,7 @@
 9	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 10	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0184
+# sent_id = avatamsaka_sutra_0183
 # text_lzh = 離邊執見，知法界無邊故；
 # text_en = How abandonment of views seizing on bounds occurs due to knowing that the Dharma realm is boundless;
 # text = 𗎘𗜈𘟀𗈜𗹙𗐯𗎘𗤋𗄻𘃞。
@@ -9093,7 +9093,7 @@
 10	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 11	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0185
+# sent_id = avatamsaka_sutra_0184
 # text_lzh = 離往來見，知如影像故；
 # text_en = How abandonment of the view that seizes on the existence of going and coming occurs due to knowing they are like reflected images;
 # text = 𗄼𘞓𘟀𗈜𗇮𗴭𗍊𗄻𘃞。
@@ -9108,7 +9108,7 @@
 9	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 10	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0186
+# sent_id = avatamsaka_sutra_0185
 # text_lzh = 離有無見，知不生滅故；
 # text_en = How abandonment of the view that seizes on entities’ existence or nonexistence occurs due to knowing they are neither produced nor destroyed;
 # text = 𘟣𗤋𘟀𗈜𗅋𘎳𗈞𗄻𘃞。
@@ -9123,7 +9123,7 @@
 9	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 10	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0187
+# sent_id = avatamsaka_sutra_0186
 # text_lzh = 離一切法見，知空無生故，
 # text_en = How abandonment of the view that seizes on the existence of all dharmas occurs due to knowing they are empty and are unproduced,
 # text = 𗹙𘟀𗄑𗄑𗈜𗲠𘎳𗤋𗄻𘃞。
@@ -9139,7 +9139,7 @@
 10	𘃞	𘃞	PART	_	_	5	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 11	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0188
+# sent_id = avatamsaka_sutra_0187
 # text_lzh = 知不自在故，
 # text_en = due to knowing they do not possess any inherent existence,
 # text = 𘝵𘖑𗦳𗄻𘃞。
@@ -9150,7 +9150,7 @@
 5	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0189
+# sent_id = avatamsaka_sutra_0188
 # text_lzh = 知願力出生故；
 # text_en = due to knowing they arise due to the power of vows;
 # text = 𘓞𗪺𗰱𗄈𗄻𘃞。
@@ -9162,7 +9162,7 @@
 6	𘃞	𘃞	PART	_	_	5	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0190
+# sent_id = avatamsaka_sutra_0189
 # text_lzh = 離一切相，見入無相際故。
 # text_en = Through entering the apex of signlessness; How abandonment of the view that seizes on the existence of signs occurs:
 # text = 𘍦𘟀𗄑𗄑𗈜𘍦𗤋𗎘𘃽𘃞。
@@ -9178,7 +9178,7 @@
 10	𘃞	𘃞	PART	_	_	5	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 11	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0191
+# sent_id = avatamsaka_sutra_0190
 # text_lzh = 知一切法如種生芽故，
 # text_en = Through knowing all dharmas are like sprouts grown from seeds;
 # text = 𗹙𗄑𗄑𗄻𘌛𗖵𗼴𗧊𗍊𘃞。
@@ -9194,7 +9194,7 @@
 10	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 11	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0192
+# sent_id = avatamsaka_sutra_0191
 # text_lzh = 如印生文故。
 # text_en = Through knowing they are like words produced by a seal stamp;
 # text = 𘟩𗖵𘅤𗧊𗍊𘃞。
@@ -9206,7 +9206,7 @@
 6	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 7	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0193
+# sent_id = avatamsaka_sutra_0192
 # text_lzh = 知質如像故，
 # text_en = Through knowing that their appearance of substantiality is like a mere image;
 # text = 𘓷𗴭𗍊𗄻𘃞。
@@ -9217,7 +9217,7 @@
 5	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0194
+# sent_id = avatamsaka_sutra_0193
 # text_lzh = 知聲如響故，
 # text_en = Through knowing sounds are like mere echoes;
 # text = 𗙏𗱝𗍊𗄻𘃞。
@@ -9228,7 +9228,7 @@
 5	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0195
+# sent_id = avatamsaka_sutra_0194
 # text_lzh = 知境如夢故，
 # text_en = Through knowing that objective states are like mere dreams;
 # text = 𘃺𘈞𗍊𗄻𘃞。
@@ -9239,7 +9239,7 @@
 5	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0196
+# sent_id = avatamsaka_sutra_0195
 # text_lzh = 知業如幻故。
 # text_en = Through knowing karmic actions are like mere conjured illusions;
 # text = 𘈽𘂫𗍊𗄻𘃞。
@@ -9250,7 +9250,7 @@
 5	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0197
+# sent_id = avatamsaka_sutra_0196
 # text_lzh = 了世心現故，
 # text_en = Through completely understanding that signs manifest due to mundane thought;
 # text = 𗯨𗤶𗖵𗜓𗥤𘃞。
@@ -9262,7 +9262,7 @@
 6	𘃞	𘃞	PART	_	_	5	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0198
+# sent_id = avatamsaka_sutra_0197
 # text_lzh = 了果因起故，
 # text_en = Through completely understanding that effects arise from their causes;
 # text = 𗫴𗦫𗖵𗄈𗥤𘃞。
@@ -9274,9 +9274,9 @@
 6	𘃞	𘃞	PART	_	_	5	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 7	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0199
+# sent_id = avatamsaka_sutra_0198
 # text_lzh = 了報業集故，
-# text_en = Through completely understanding that effects arise from their causes;
+# text_en = Through completely understanding that karmic consequences arise from the accumulation of karmic actions;
 # text = 𗱱𘈽𗄭𗥤𘃞。
 1	𗱱	𗱱	NOUN	_	_	3	nsubj	_	Gloss=repay, requite|LTranslit=tsha²|SpaceAfter=No
 2	𘈽	𘈽	NOUN	_	_	3	obl	_	Gloss=cause, trade|LTranslit=sweṃ¹|SpaceAfter=No
@@ -9285,9 +9285,9 @@
 5	𘃞	𘃞	PART	_	_	4	discourse:sp	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 6	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0200
+# sent_id = avatamsaka_sutra_0199
 # text_lzh = 了知一切諸功德法；皆從菩薩善巧方便所流出故。
-# text_en = Through completely understanding that karmic consequences arise from the accumulation of karmic actions; Through completely understanding that all dharmas associated with all meritorious qualities all flow forth from the bodhisattva’s skillfully invoked expedient means.
+# text_en = Through completely understanding that all dharmas associated with all meritorious qualities all flow forth from the bodhisattva’s skillfully invoked expedient means.
 # text = 𗱕𗣼𘉐𗹙𗄑𗄑𗄻𗥤𗫂𗄊𘋢𗥤𗗙𗩴𘃨𗼄𘕤𗖵𗰱𗄈𘃞𘙌𗅆𗄻𗩱。
 1	𗱕	𗱕	DET	_	PronType=Tot	4	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 2	𗣼	𗣼	NOUN	_	_	3	compound	_	Gloss=morals, virtue|LTranslit=tśha²|SpaceAfter=No
@@ -9316,7 +9316,7 @@
 25	𗩱	𗩱	AUX	_	_	24	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
 26	。	。	PUNCT	_	_	24	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0201
+# sent_id = avatamsaka_sutra_0200
 # text_lzh = 善財童子入如是智，端心潔念；於樓觀前，舉體投地，慇懃頂禮；不思議善根流注身心，清涼悅懌。
 # text_en = Having entered right thought and pure mindfulness due to entering knowledge such as this, the youth Sudhana completely prostrated his body there on the ground before that tower. As he earnestly bowed down in reverence there, inconceivable roots of goodness flowed into his body and mind, whereupon he felt refreshed and full of delight.
 # text = 𗩴𘔮𘁛𘞁𘌽𗍊𘄡𘃽𗤶𗨳𗪆𗆫𗹶𗘲𗙼𗙷𗏁𗛆𗼻𗖖𗴢𗦾𗼋𗧋𗅢𘎪𗤋𗩴𗺉𘛽𗤶𗅁𘃽𘄎𘞐𗊉𗋞。
@@ -9359,7 +9359,7 @@
 37	𗋞	𗋞	ADJ	_	_	35	conj	_	Gloss=lubricate|LTranslit=rne̱r¹|SpaceAfter=No
 38	。	。	PUNCT	_	_	21	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0202
+# sent_id = avatamsaka_sutra_0201
 # text_lzh = 從地而起，一心瞻仰，目不暫捨，合掌圍遶，經無量匝，作是念言：
 # text_en = [He then] rose from the ground and single-mindedly gazed up in admiration, his eyes not straying for even a moment as, with palms pressed together, he circumambulated it countless times, reflecting thus:
 # text = 𗼻𗀔𗈪𗢵𗈪𗤶𘂎𗴢𗦾𗑉𘖑𗉘𘝀𘃎𘜼𗋪𗹰𘖑𗆄𗢶𗨨𘌽𗍊𗆫𘃡。
@@ -9390,7 +9390,7 @@
 25	𘃡	𘃡	VERB	_	_	0	root	_	Gloss=do, make; ergative marker|LTranslit=vi¹|SpaceAfter=No
 26	。	。	PUNCT	_	_	25	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0203
+# sent_id = avatamsaka_sutra_0202
 # text_lzh = 此大樓閣，是解空、無相、無願者之所住處；是於一切法無分別者之所住處；是了法界無差別者之所住處；
 # text_en = This immense tower: Is the abode of those who understand emptiness, signlessness, and wishlessness; Is the abode of those who are free of discriminations regarding any dharma; Is the abode of those who completely understand that the Dharma realm is devoid of distinctions;
 # text = 𘌽𘜶𗹶𗘲𗫂𗲠𘍦𗤋𘓞𗤋𗥤𗇋𗗙𗫻𘏚𘟂𗹙𗄑𗄑𘕿𗠷𗷎𗤋𗇋𗗙𗫻𘏚𘟂𗹙𗐯𘁟𗂙𗤋𗥤𗇋𗗙𗫻𘏚𘟂。
@@ -9435,7 +9435,7 @@
 39	𘟂	𘟂	AUX	_	_	38	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 40	。	。	PUNCT	_	_	15	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0204
+# sent_id = avatamsaka_sutra_0203
 # text_lzh = 是知一切衆生不可得者之所住處；是知一切法無生者之所住處；是不著一切世間者之所住處；
 # text_en = Is the abode of those who understand that no beings can be found at all; Is the abode of those who understand that all dharmas are characterized by non-arising; Is the abode of those who are not attached to anything in the world;
 # text = 𗫔𘎳𗄑𗄑𘜘𘏚𗤋𗄻𗇋𗗙𗫻𘏚𘟂𗹙𗄑𗄑𘎳𗤋𗄻𗇋𗗙𗫻𘏚𘟂𗯨𘂤𗄑𗄑𗅋𗂆𗇋𗗙𗫻𘏚𘟂。
@@ -9476,7 +9476,7 @@
 35	𘟂	𘟂	AUX	_	_	34	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 36	。	。	PUNCT	_	_	12	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0205
+# sent_id = avatamsaka_sutra_0204
 # text_lzh = 是不著一切窟宅者之所住處；是不樂一切聚落者之所住處；是不依一切境界者之所住處；
 # text_en = Is the abode of those who are not attached to any home; Is the abode of those who do not delight in any village; Is the abode of those who do not rely on any of the sense objects;
 # text = 𗤳𗹨𗄑𗄑𗅋𗂆𗇋𗗙𗫻𘏚𘟂𗫌𗎮𗄑𗄑𗅋𘟠𗇋𗗙𗫻𘏚𘟂𘃺𗐯𗄑𗄑𘕿𗅋𗖵𗇋𗗙𗫻𘏚𘟂。
@@ -9516,7 +9516,7 @@
 34	𘟂	𘟂	AUX	_	_	33	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 35	。	。	PUNCT	_	_	10	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0206
+# sent_id = avatamsaka_sutra_0205
 # text_lzh = 是離一切想者之所住處；是知一切法無自性者之所住處；是斷一切分別業者之所住處；
 # text_en = Is the abode of those who have transcended all perceptions; Is the abode of those who realize all dharmas are devoid of any inherently existent nature; Is the abode of those who have cut off all actions based on discriminations;
 # text = 𗾫𗄑𗄑𗈜𗇋𗗙𗫻𘏚𘟂𗹙𗄑𗄑𘝵𗎫𗤋𗄻𗇋𗗙𗫻𘏚𘟂𗠷𗷎𗄑𗄑𗧤𗇋𗗙𗫻𘏚𘟂。
@@ -9553,7 +9553,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	8	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0207
+# sent_id = avatamsaka_sutra_0206
 # text_lzh = 是離一切想心、意、識者之所住處；是不入不出一切道者之所住處；是入一切甚深般若波羅蜜者之所住處；
 # text_en = Is the abode of those who have transcended all conceptual thought and [discriminations] of the intellectual mind consciousness; Is the abode of those who neither enter into nor leave any of the paths; Is the abode of those who have entered all [gateways into] the extremely profound prajñāpāramitā;
 # text = 𗾫𘈽𗤶𗉣𗤋𗄑𗄑𗈜𗇋𗗙𗫻𘏚𘟂𗵘𗄑𗄑𗅁𗅋𘃽𗅋𗣈𗇋𗗙𗫻𘏚𘟂𗩾𗓰𘄒𘎑𘏞𗓽𗕥𗄑𗄑𘕿𘃽𗇋𗗙𗫻𘏚𘟂。
@@ -9598,7 +9598,7 @@
 39	𘟂	𘟂	AUX	_	_	38	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 40	。	。	PUNCT	_	_	12	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0208
+# sent_id = avatamsaka_sutra_0207
 # text_lzh = 是能以方便住普門法界者之所住處；是息滅一切煩惱火者之所住處；是以增上慧除斷一切見、愛、慢者之所住處；
 # text_en = Is the abode of those who are able to use skillful means to abide in the Dharma realm of the universal gateway; Is the abode of those who have extinguished the fire of all the afflictions; Is the abode of those who have used especially excellent wisdom to cut off all views, cravings, and conceit;
 # text = 𗼄𘕤𘂎𗫡𘗠𗹙𗐯𗫻𗩱𗇋𗗙𗫻𘏚𘟂𗉛𗷫𗜐𗄑𗄑𗁿𗈞𗇋𗗙𗫻𘏚𘟂𗠁𘍳𘟛𘂎𘟀𘟠𗒼𗄑𗄑𗟥𗧤𗇋𗗙𗫻𘏚𘟂。
@@ -9646,7 +9646,7 @@
 42	𘟂	𘟂	AUX	_	_	41	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 43	。	。	PUNCT	_	_	13	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0209
+# sent_id = avatamsaka_sutra_0208
 # text_lzh = 是出生一切諸禪解脫三昧通明而遊戲者之所住處；是觀察一切菩薩三昧境界者之所住處；是安住一切如來所者之所住處；
 # text_en = Is the abode of those who have developed all the dhyānas, liberations, samādhis, superknowledges, and clear knowledges and thus exercise easeful mastery of them; Is the abode of those who contemplate the sphere of action of all bodhisattvas’ samādhis; Is the abode of those who securely abide wherever all tathāgatas reside;
 # text = 𗱕𗇁𗧐𗇘𘋅𗁲𗿣𗭼𗄑𗄑𗧊𘎳𗉫𘕂𗇋𗗙𗫻𘏚𘟂𘋢𗥤𗄑𗄑𗗙𘋅𗁲𘃺𗐯𘝯𗸸𗇋𗗙𗫻𘏚𘂎𗌮𗆐𗄑𗄑𘋩𘗲𗫻𗇋𗗙𗫻𘏚𘟂。
@@ -9697,9 +9697,9 @@
 45	𘟂	𘟂	AUX	_	_	44	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 46	。	。	PUNCT	_	_	17	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0210
-# text_lzh = 是以一劫入一切劫，以一切劫入一劫，而不壞其相者之所住處；是以一刹入一切刹，以一切刹入一刹，而不壞其相者之所住處；是以一法入一切法，以一切法入一法，而不壞其相者之所住處；
-# text_en = Is the abode of those who subsume any single kalpa within all kalpas and subsume all kalpas within any single kalpa and accomplish this without interfering with any of their characteristic features; Is the abode of those who subsume any single kṣetra within all kṣetras and subsume all kṣetras within any single kṣetra and accomplish this without interfering with any of their characteristic features; Is the abode of those who subsume any single dharma within all dharmas and subsume all dharmas within any single dharma and accomplish this without interfering with any of their characteristic features;
+# sent_id = avatamsaka_sutra_0209
+# text_lzh = 是以一劫入一切劫，以一切劫入一劫，而不壞其相者之所住處；
+# text_en = Is the abode of those who subsume any single kalpa within all kalpas and subsume all kalpas within any single kalpa and accomplish this without interfering with any of their characteristic features;
 # text = 𗈪𗑱𘂎𗑱𗄑𗄑𘃽𗑱𗄑𗄑𘂎𗈪𗑱𘃽𗰜𘍦𗅋𗹪𗇋𗗙𗫻𘏚𘟂
 1	𗈪	𗈪	NUM	_	_	2	nummod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
 2	𗑱	𗑱	NOUN	_	_	7	obl	_	Gloss=rob, steps|LTranslit=ka²|SpaceAfter=No
@@ -9725,9 +9725,9 @@
 22	𘏚	𘏚	NOUN	_	_	0	root	_	Gloss=place; used in possible/impossible constructions|LTranslit=tih²|SpaceAfter=No
 23	𘟂	𘟂	AUX	_	_	22	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 
-# sent_id = avatamsaka_sutra_0210b
-# text_lzh = 是以一劫入一切劫，以一切劫入一劫，而不壞其相者之所住處；是以一刹入一切刹，以一切刹入一刹，而不壞其相者之所住處；是以一法入一切法，以一切法入一法，而不壞其相者之所住處；
-# text_en = Is the abode of those who subsume any single kalpa within all kalpas and subsume all kalpas within any single kalpa and accomplish this without interfering with any of their characteristic features; Is the abode of those who subsume any single kṣetra within all kṣetras and subsume all kṣetras within any single kṣetra and accomplish this without interfering with any of their characteristic features; Is the abode of those who subsume any single dharma within all dharmas and subsume all dharmas within any single dharma and accomplish this without interfering with any of their characteristic features;
+# sent_id = avatamsaka_sutra_0210
+# text_lzh = 是以一刹入一切刹，以一切刹入一刹，而不壞其相者之所住處；
+# text_en = Is the abode of those who subsume any single kṣetra within all kṣetras and subsume all kṣetras within any single kṣetra and accomplish this without interfering with any of their characteristic features;
 # text = 𗈪𗂧𘂎𗂧𗄑𗄑𘃽𗂧𗄑𗄑𘂎𗈪𗂧𘃽𗰜𘍦𗅋𗹪𗇋𗗙𗫻𘏚𘟂
 1	𗈪	𗈪	NUM	_	_	2	nummod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
 2	𗂧	𗂧	NOUN	_	_	7	obl	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
@@ -9753,9 +9753,9 @@
 22	𘏚	𘏚	NOUN	_	_	0	root	_	Gloss=place; used in possible/impossible constructions|LTranslit=tih²|SpaceAfter=No
 23	𘟂	𘟂	AUX	_	_	22	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 
-# sent_id = avatamsaka_sutra_0210c
-# text_lzh = 是以一劫入一切劫，以一切劫入一劫，而不壞其相者之所住處；是以一刹入一切刹，以一切刹入一刹，而不壞其相者之所住處；是以一法入一切法，以一切法入一法，而不壞其相者之所住處；
-# text_en = Is the abode of those who subsume any single kalpa within all kalpas and subsume all kalpas within any single kalpa and accomplish this without interfering with any of their characteristic features; Is the abode of those who subsume any single kṣetra within all kṣetras and subsume all kṣetras within any single kṣetra and accomplish this without interfering with any of their characteristic features; Is the abode of those who subsume any single dharma within all dharmas and subsume all dharmas within any single dharma and accomplish this without interfering with any of their characteristic features;
+# sent_id = avatamsaka_sutra_0211
+# text_lzh = 是以一法入一切法，以一切法入一法，而不壞其相者之所住處；
+# text_en = Is the abode of those who subsume any single dharma within all dharmas and subsume all dharmas within any single dharma and accomplish this without interfering with any of their characteristic features;
 # text = 𗈪𗹙𘂎𗹙𗄑𗄑𘃽𗹙𗄑𗄑𘂎𗈪𗹙𘃽𗰜𘍦𗅋𗹪𗇋𗗙𗫻𘏚𘟂。
 1	𗈪	𗈪	NUM	_	_	2	nummod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
 2	𗹙	𗹙	NOUN	_	_	7	obl	_	Gloss=law|LTranslit=rtser¹|SpaceAfter=No
@@ -9782,7 +9782,7 @@
 23	𘟂	𘟂	AUX	_	_	22	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0211
+# sent_id = avatamsaka_sutra_0212
 # text_lzh = 是以一衆生入一切衆生，以一切衆生入一衆生，而不壞其相者之所住處；是以一佛入一切佛，以一切佛入一佛，而不壞其相者之所住處；
 # text_en = Is the abode of those who subsume any single being within all beings and subsume all beings within any single being and accomplish this without interfering with any of their characteristic features; Is the abode of those who subsume any single buddha within all buddhas and subsume all buddhas within any single buddha and accomplish this without interfering with any of their characteristic features;
 # text = 𗈪𗫔𘎳𘂎𗫔𘎳𗄑𗄑𘃽𗫔𘎳𗄑𗄑𘂎𗈪𗫔𘎳𘃽𗰜𘍦𗅋𗹪𗇋𗗙𗫻𘏚𘟂𗈪𗢳𘂎𗢳𗄑𗄑𘃽𗢳𗄑𗄑𘂎𗈪𗢳𘃽𗰜𘍦𗅋𗹪𗇋𗗙𗫻𘏚𘟂。
@@ -9838,9 +9838,9 @@
 50	𘟂	𘟂	AUX	_	_	49	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 51	。	。	PUNCT	_	_	26	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0212
-# text_lzh = 是於一念中而知一切三世者之所住處；是於一念中往詣一切國土者之所住處；是于一切衆生前悉現其身者之所住處；是心常利益一切世間者之所住處；
-# text_en = Is the abode of those who, in but a single mind-moment, know all three periods of time; Is the abode of those who, in but a single mind-moment, travel to all lands to pay their respects; Is the abode of those who manifest their bodies directly before all beings; Is the abode of those whose minds always benefit everyone in the entire world;
+# sent_id = avatamsaka_sutra_0213
+# text_lzh = 是於一念中而知一切三世者之所住處；
+# text_en = Is the abode of those who, in but a single mind-moment, know all three periods of time;
 # text = 𗈪𗆫𗦤𘅍𘕕𘗽𗄑𗄑𗄻𗇋𗗙𗫻𘏚𘟂
 1	𗈪	𗈪	NUM	_	_	2	nummod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
 2	𗆫	𗆫	NOUN	_	_	3	obj	_	Gloss=think, think of; thought|LTranslit=rlər²|SpaceAfter=No
@@ -9857,9 +9857,9 @@
 13	𘏚	𘏚	NOUN	_	_	0	root	_	Gloss=place; used in possible/impossible constructions|LTranslit=tih²|SpaceAfter=No
 14	𘟂	𘟂	AUX	_	_	13	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 
-# sent_id = avatamsaka_sutra_0212b
-# text_lzh = 是於一念中而知一切三世者之所住處；是於一念中往詣一切國土者之所住處；是于一切衆生前悉現其身者之所住處；是心常利益一切世間者之所住處；
-# text_en = Is the abode of those who, in but a single mind-moment, know all three periods of time; Is the abode of those who, in but a single mind-moment, travel to all lands to pay their respects; Is the abode of those who manifest their bodies directly before all beings; Is the abode of those whose minds always benefit everyone in the entire world;
+# sent_id = avatamsaka_sutra_0214
+# text_lzh = 是於一念中往詣一切國土者之所住處；
+# text_en = Is the abode of those who, in but a single mind-moment, travel to all lands to pay their respects;
 # text = 𗈪𗆫𗦤𘅍𗂧𘍞𗄑𗄑𗄊𗶷𗇋𗗙𗫻𘏚𘟂
 1	𗈪	𗈪	NUM	_	_	2	nummod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
 2	𗆫	𗆫	NOUN	_	_	3	obj	_	Gloss=think, think of; thought|LTranslit=rlər²|SpaceAfter=No
@@ -9877,9 +9877,9 @@
 14	𘏚	𘏚	NOUN	_	_	0	root	_	Gloss=place; used in possible/impossible constructions|LTranslit=tih²|SpaceAfter=No
 15	𘟂	𘟂	AUX	_	_	14	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 
-# sent_id = avatamsaka_sutra_0212c
-# text_lzh = 是於一念中而知一切三世者之所住處；是於一念中往詣一切國土者之所住處；是于一切衆生前悉現其身者之所住處；是心常利益一切世間者之所住處；
-# text_en = Is the abode of those who, in but a single mind-moment, know all three periods of time; Is the abode of those who, in but a single mind-moment, travel to all lands to pay their respects; Is the abode of those who manifest their bodies directly before all beings; Is the abode of those whose minds always benefit everyone in the entire world;
+# sent_id = avatamsaka_sutra_0215
+# text_lzh = 是于一切衆生前悉現其身者之所住處；
+# text_en = Is the abode of those who manifest their bodies directly before all beings;
 # text = 𘝵𘛽𘂎𗫔𘎳𗄑𗄑𗗙𗙼𗙷𗄊𗜓𗇋𗗙𗫻𘏚𘟂
 1	𘝵	𘝵	ADV	_	_	2	advmod	_	Gloss=self, oneself (reflexive pronoun)|LTranslit=ye¹|SpaceAfter=No
 2	𘛽	𘛽	NOUN	_	_	12	obj	_	Gloss=body|LTranslit=lluh²|SpaceAfter=No
@@ -9899,9 +9899,9 @@
 16	𘏚	𘏚	NOUN	_	_	0	root	_	Gloss=place; used in possible/impossible constructions|LTranslit=tih²|SpaceAfter=No
 17	𘟂	𘟂	AUX	_	_	16	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 
-# sent_id = avatamsaka_sutra_0212d
-# text_lzh = 是於一念中而知一切三世者之所住處；是於一念中往詣一切國土者之所住處；是于一切衆生前悉現其身者之所住處；是心常利益一切世間者之所住處；
-# text_en = Is the abode of those who, in but a single mind-moment, know all three periods of time; Is the abode of those who, in but a single mind-moment, travel to all lands to pay their respects; Is the abode of those who manifest their bodies directly before all beings; Is the abode of those whose minds always benefit everyone in the entire world;
+# sent_id = avatamsaka_sutra_0216
+# text_lzh = 是心常利益一切世間者之所住處；
+# text_en = Is the abode of those whose minds always benefit everyone in the entire world;
 # text = 𗤶𗏹𗯨𘂤𗄑𗄑𘞙𗼜𗇋𗗙𗫻𘏚𘟂。
 1	𗤶	𗤶	NOUN	_	_	8	nsubj	_	Gloss=heart, mind|LTranslit=nne¹|SpaceAfter=No
 2	𗏹	𗏹	ADV	_	_	8	advmod	_	Gloss=frequently, often; continually|LTranslit=yu²|SpaceAfter=No
@@ -9918,9 +9918,9 @@
 13	𘟂	𘟂	AUX	_	_	12	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 14	。	。	PUNCT	_	_	12	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0213
-# text_lzh = 是能遍至一切處者之所住處；是雖已出一切世間，爲化衆生故而恒於中現身者之所住處；是不著一切刹，爲供養諸佛故而遊一切刹者之所住處；
-# text_en = Is the abode of those who are able to go forth everywhere to all places; Is the abode of those who, even though they have already transcended everything in the entire world, still constantly manifest bodies within it in order to teach beings; Is the abode of those who are not attached to any kṣetra and yet travel to all kṣetras to make offerings to all buddhas;
+# sent_id = avatamsaka_sutra_0217
+# text_lzh = 是能遍至一切處者之所住處；
+# text_en = Is the abode of those who are able to go forth everywhere to all places;
 # text = 𘋩𗄑𗄑𗄊𗫡𗩱𗇋𗗙𗫻𘏚𘟂
 1	𘋩	𘋩	NOUN	_	_	5	obl	_	Gloss=allative particle to; in|LTranslit=do̱²|SpaceAfter=No
 2	𗄑	𗄑	DET	_	ExtPos=DET|PronType=Tot	1	det	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
@@ -9934,9 +9934,9 @@
 10	𘏚	𘏚	NOUN	_	_	0	root	_	Gloss=place; used in possible/impossible constructions|LTranslit=tih²|SpaceAfter=No
 11	𘟂	𘟂	AUX	_	_	10	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 
-# sent_id = avatamsaka_sutra_0213b
-# text_lzh = 是能遍至一切處者之所住處；是雖已出一切世間，爲化衆生故而恒於中現身者之所住處；是不著一切刹，爲供養諸佛故而遊一切刹者之所住處；
-# text_en = Is the abode of those who are able to go forth everywhere to all places; Is the abode of those who, even though they have already transcended everything in the entire world, still constantly manifest bodies within it in order to teach beings; Is the abode of those who are not attached to any kṣetra and yet travel to all kṣetras to make offerings to all buddhas;
+# sent_id = avatamsaka_sutra_0218
+# text_lzh = 是雖已出一切世間，爲化衆生故而恒於中現身者之所住處；
+# text_en = Is the abode of those who, even though they have already transcended everything in the entire world, still constantly manifest bodies within it in order to teach beings;
 # text = 𗯨𗄑𗄑𘂤𘙌𗋚𗣈𗫔𘎳𗗙𘘝𘔼𗌭𗏹𗳱𘂤𘛽𗜓𗇋𗗙𗫻𘏚𘟂
 1	𗯨	𗯨	NOUN	_	_	7	obl	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 2	𗄑	𗄑	DET	_	ExtPos=DET|PronType=Tot	1	det	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
@@ -9962,9 +9962,9 @@
 22	𘏚	𘏚	NOUN	_	_	0	root	_	Gloss=place; used in possible/impossible constructions|LTranslit=tih²|SpaceAfter=No
 23	𘟂	𘟂	AUX	_	_	22	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 
-# sent_id = avatamsaka_sutra_0213c
-# text_lzh = 是能遍至一切處者之所住處；是雖已出一切世間，爲化衆生故而恒於中現身者之所住處；是不著一切刹，爲供養諸佛故而遊一切刹者之所住處；
-# text_en = Is the abode of those who are able to go forth everywhere to all places; Is the abode of those who, even though they have already transcended everything in the entire world, still constantly manifest bodies within it in order to teach beings; Is the abode of those who are not attached to any kṣetra and yet travel to all kṣetras to make offerings to all buddhas;
+# sent_id = avatamsaka_sutra_0219
+# text_lzh = 是不著一切刹，爲供養諸佛故而遊一切刹者之所住處；
+# text_en = Is the abode of those who are not attached to any kṣetra and yet travel to all kṣetras to make offerings to all buddhas;
 # text = 𗂧𗄑𗄑𗅋𗂆𗱕𗢳𗗙𗴿𗒀𘔼𗌭𗂧𗄑𗄑𗅁𗉫𘕂𗇋𗗙𗫻𘏚𘟂。
 1	𗂧	𗂧	NOUN	_	_	5	obj	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
 2	𗄑	𗄑	DET	_	ExtPos=DET|PronType=Tot	1	det	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
@@ -9991,7 +9991,7 @@
 23	𘟂	𘟂	AUX	_	_	22	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0214
+# sent_id = avatamsaka_sutra_0220
 # text_lzh = 是不動本處，能普詣一切佛刹而莊嚴者之所住處；是親近一切佛而不起佛想者之所住處；是依止一切善知識而不起善知識想者之所住處；
 # text_en = Is the abode of those who, even without ever moving from their original place, are able to travel everywhere to all buddha kṣetras to pay their respects and adorn them; Is the abode of those who draw near to all buddhas and yet never even give rise to a thought [attached to] the idea of a buddha; Is the abode of those who rely upon all good spiritual guides and yet never even give rise to the idea of [the existence of] a good spiritual guide;
 # text = 𗰜𘋩𗅋𗈜𗢳𗂧𗄑𗄑𗅁𗄊𗶷𗵽𘆡𗩱𗇋𗗙𗫻𘏚𘟂𗢳𗄑𗄑𗗙𗦍𗶚𗢳𗾫𗅋𗄈𗇋𗗙𗫻𘏚𘟂𗩴𗄻𗹬𗄑𗄑𘋩𗖵𘘢𗩴𗄻𗹬𗾫𗅋𗄈𗇋𗗙𗫻𘏚𘟂。
@@ -10050,7 +10050,7 @@
 53	𘟂	𘟂	AUX	_	_	52	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 54	。	。	PUNCT	_	_	18	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0215
+# sent_id = avatamsaka_sutra_0221
 # text_lzh = 是住一切魔宮而不耽著欲境界者之所住處；是永離一切心想者之所住處；是雖于一切衆生中而現其身，然於自他不生二想者之所住處；
 # text_en = Is the abode of those who, even if they dwelt in the palace of Māra, would still never indulge in the objects of sensual desire; Is the abode of those who have forever abandoned all conceptual thought; Is the abode of those who, even though they manifest their bodies among all beings, still never raise any dualistic thought conceiving of “self” or “other”;
 # text = 𗢞𗎭𗄑𗄑𗅁𗫻𗧠𘃺𗐯𘂤𗅋𘟠𗂆𗇋𗗙𗫻𘏚𘟂𗤶𗾫𗄑𗄑𘘂𗈜𗇋𗗙𗫻𘏚𘟂𗋕𗫔𘎳𗄑𗄑𘂤𘝵𘛽𘙌𗜓𘝵𘑶𗍫𗾫𗅋𗄈𗇋𗗙𗫻𘏚𘟂。
@@ -10106,9 +10106,9 @@
 50	𘟂	𘟂	AUX	_	_	49	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 51	。	。	PUNCT	_	_	17	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0216
-# text_lzh = 是能普入一切世界而於法界無差別想者之所住處；是願住未來一切劫而于諸劫無長短想者之所住處；是不離一毛端處而普現身一切世界者之所住處；
-# text_en = Is the abode of those who are able to everywhere enter all worlds and yet still have no thoughts conceiving of any differences in the Dharma realm; Is the abode of those who vow to abide throughout all kalpas of the future and yet do not conceive of any kalpas as either long or short; Is the abode of those who, even without ever leaving a place the size of the tip of a hair, still manifest their bodies everywhere in all worlds;
+# sent_id = avatamsaka_sutra_0222
+# text_lzh = 是能普入一切世界而於法界無差別想者之所住處；
+# text_en = Is the abode of those who are able to everywhere enter all worlds and yet still have no thoughts conceiving of any differences in the Dharma realm;
 # text = 𗯨𗐯𗄑𗄑𗄊𘃽𗹙𗐯𘕿𘁟𗂙𗾫𗤋𗩱𗇋𗗙𗫻𘏚𘟂
 1	𗯨	𗯨	NOUN	_	_	2	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 2	𗐯	𗐯	NOUN	_	_	6	obj	_	Gloss=boundary|LTranslit=qae̱h²|SpaceAfter=No
@@ -10130,9 +10130,9 @@
 18	𘏚	𘏚	NOUN	_	_	0	root	_	Gloss=place; used in possible/impossible constructions|LTranslit=tih²|SpaceAfter=No
 19	𘟂	𘟂	AUX	_	_	18	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 
-# sent_id = avatamsaka_sutra_0216b
-# text_lzh = 是能普入一切世界而於法界無差別想者之所住處；是願住未來一切劫而于諸劫無長短想者之所住處；是不離一毛端處而普現身一切世界者之所住處；
-# text_en = Is the abode of those who are able to everywhere enter all worlds and yet still have no thoughts conceiving of any differences in the Dharma realm; Is the abode of those who vow to abide throughout all kalpas of the future and yet do not conceive of any kalpas as either long or short; Is the abode of those who, even without ever leaving a place the size of the tip of a hair, still manifest their bodies everywhere in all worlds;
+# sent_id = avatamsaka_sutra_0223
+# text_lzh = 是願住未來一切劫而于諸劫無長短想者之所住處；
+# text_en = Is the abode of those who vow to abide throughout all kalpas of the future and yet do not conceive of any kalpas as either long or short;
 # text = 𘓞𗷝𗆐𗑱𗄑𗄑𘂤𗫻𗧠𗱕𗑱𘂤𘙲𘖎𗾫𗤋𗇋𗗙𗫻𘏚𘟂
 1	𘓞	𘓞	VERB	_	_	17	acl	_	Gloss=hope, wish|LTranslit=tih¹|SpaceAfter=No
 2	𗷝	𗷝	ADV	_	Polarity=Neg	3	advmod	_	Gloss=have not; still not|LTranslit=me²|SpaceAfter=No
@@ -10156,9 +10156,9 @@
 20	𘏚	𘏚	NOUN	_	_	0	root	_	Gloss=place; used in possible/impossible constructions|LTranslit=tih²|SpaceAfter=No
 21	𘟂	𘟂	AUX	_	_	20	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 
-# sent_id = avatamsaka_sutra_0216c
-# text_lzh = 是能普入一切世界而於法界無差別想者之所住處；是願住未來一切劫而于諸劫無長短想者之所住處；是不離一毛端處而普現身一切世界者之所住處；
-# text_en = Is the abode of those who are able to everywhere enter all worlds and yet still have no thoughts conceiving of any differences in the Dharma realm; Is the abode of those who vow to abide throughout all kalpas of the future and yet do not conceive of any kalpas as either long or short; Is the abode of those who, even without ever leaving a place the size of the tip of a hair, still manifest their bodies everywhere in all worlds;
+# sent_id = avatamsaka_sutra_0224
+# text_lzh = 是不離一毛端處而普現身一切世界者之所住處；
+# text_en = Is the abode of those who, even without ever leaving a place the size of the tip of a hair, still manifest their bodies everywhere in all worlds;
 # text = 𗈪𗁲𘁙𗑠𗅋𗈜𘝵𘛽𗋕𗯨𗐯𗄑𗄑𗅁𗄊𗜓𗇋𗗙𗫻𘏚𘟂。
 1	𗈪	𗈪	NUM	_	_	3	nummod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
 2	𗁲	𗁲	NOUN	_	_	3	nmod	_	Gloss=hair|LTranslit=me̱²|SpaceAfter=No
@@ -10183,7 +10183,7 @@
 21	𘟂	𘟂	AUX	_	_	20	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 22	。	。	PUNCT	_	_	20	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0217
+# sent_id = avatamsaka_sutra_0225
 # text_lzh = 是能演說難遭遇法者之所住處；是能住難知法、甚深法、無二法、無相法、無對治法、無所得法、無戲論法者之所住處；是住大慈大悲者之所住處；
 # text_en = Is the abode of those who are able to expound even on rarely encountered dharmas; Is the abode of those who are able to abide in recondite dharmas, extremely profound dharmas, non-dual dharmas, signless dharmas, non-counteractive dharmas, dharmas that cannot be found anywhere at all, and dharmas that are free of all conceptual proliferation; Is the abode of those who abide in the great kindness and the great compassion
 # text = 𘄏𗄛𗤄𗹙𘀼𘎪𗩱𗇋𗗙𗫻𘏚𘟂𗄻𗣓𗹙𗩾𗓰𗹙𗅋𗍫𗹙𘍦𗤋𗹙𘜄𗇫𗤋𗹙𘜘𗦇𗤋𗹙𗉫𘓆𗤋𗹙𗫻𗩱𗇋𗗙𗫻𘏚𘟂𘜶𗕿𘜶𗈁𗫻𗇋𗗙𗫻𘏚𘟂。
@@ -10242,7 +10242,7 @@
 53	𘟂	𘟂	AUX	_	_	52	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 54	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0218
+# sent_id = avatamsaka_sutra_0226
 # text_lzh = 是已度一切二乘智、已超一切魔境界、已於世法無所染、已到菩薩所到岸、已住如來所住處者之所住處；
 # text_en = Is the abode of those who have already gone beyond all wisdom of the two vehicles, who have already stepped beyond all realms of Māra, who are already beyond defilement by worldly dharmas, who have already reached the far shore of perfection reached by bodhisattvas, and who already abide in the station where the Tathāgata abides;
 # text = 𗍫𗒛𘄡𗄑𗄑𘂤𗋚𗰛𗢞𘃺𗐯𗄑𗄑𗅁𗋚𗰛𗪘𗯨𗹙𘂤𗝡𗦇𗤋𗪘𘋢𗥤𗫡𘏚𘋟𘙌𗫡𗪘𗌮𗆐𗫻𘏚𘋩𗭊𗫻𗇋𗗙𗫻𘏚𘟂。
@@ -10292,7 +10292,7 @@
 44	𘟂	𘟂	AUX	_	_	43	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 45	。	。	PUNCT	_	_	43	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0219
+# sent_id = avatamsaka_sutra_0227
 # text_lzh = 是雖離一切諸相而亦不入聲聞正位，雖了一切法無生而亦不住無生法性者之所住處；
 # text_en = Is the abode of those who, although they have transcended all signs, still refrain from entering the right and fixed position of śrāvaka disciples and, although they have completely realized all dharmas’ non-arising, still do not abide in the unproduced nature of dharmas;
 # text = 𗱕𘍦𗄑𗄑𘙌𗈜𗅉𗙏𗓁𗎭𗅁𗅋𘃽𗹙𗄑𗄑𘎳𗤋𘙌𗥤𘎳𗤋𗹙𗎫𗅋𗫻𗇋𗗙𗫻𘏚𘟂。
@@ -10329,7 +10329,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0220
+# sent_id = avatamsaka_sutra_0228
 # text_lzh = 是雖觀不淨而不證離貪法亦不與貪欲俱，雖修於慈而不證離瞋法亦不與瞋垢俱，雖觀緣起而不證離癡法亦不與癡惑俱者之所住處；
 # text_en = It is the abode of: Those who, although they contemplate unloveliness, do not realize the dharma of dispassion, yet still do not coexist with desire; Those who, although they cultivate kindness, do not realize the dharma of non-hatred, yet still do not coexist with the defilement of hatred; and Those who, although they contemplate conditioned arising, do not realize the dharma of non-delusion, yet still do not coexist with delusion;
 # text = 𗎭𗑗𘙌𘝯𗅴𗈜𗭪𗹙𗅋𘕥𗅉𗅴𗧠𗑠𗅋𗖵𗡶𗕿𘙌𗹢𘞂𗕣𗈜𗭪𗹙𗅋𘕥𗅉𗕣𘓨𗑠𗅋𗖵𗡶𗦫𘔼𘙌𘝯𘚠𗈜𗭪𗹙𗅋𘕥𗅉𘚠𘝌𗑠𗅋𗖵𗡶𗇋𗗙𗫻𘏚𘟂。
@@ -10391,7 +10391,7 @@
 56	𘟂	𘟂	AUX	_	_	55	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 57	。	。	PUNCT	_	_	55	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0221
+# sent_id = avatamsaka_sutra_0229
 # text_lzh = 是雖住四禪而不隨禪生，雖行四無量爲化衆生故而不生色界，雖修四無色定以大悲故而不住無色界者之所住處；
 # text_en = It is the abode of: Those who, although they abide in the four dhyānas, still do not take rebirth in accordance with the dhyānas; Those who, although they practice the four immeasurable minds for the purpose of teaching beings, still do not take rebirth in the form realm; and Those who, even though they cultivate the four formless concentrations, still, due to the great compassion, do not abide in the formless realm.
 # text = 𗥃𗇁𘙌𗫻𗇁𗖵𗅋𘎳𗥃𘖑𗆄𘙌𗭍𗫔𘎳𘘝𘔼𗌭𗩨𗐯𗅋𘎳𗥃𗩨𗤋𗅆𘙌𗹢𘜶𗈁𘔼𗌭𗩨𗤋𗐯𗅋𗫻𗇋𗗙𗫻𘏚𘟂。
@@ -10439,7 +10439,7 @@
 42	𘟂	𘟂	AUX	_	_	41	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 43	。	。	PUNCT	_	_	41	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0222
+# sent_id = avatamsaka_sutra_0230
 # text_lzh = 是雖勤修止觀爲化衆生故而不證明脫，雖行於舍而不舍化衆生事者之所住處；
 # text_en = It is the abode of: Those who, although they diligently cultivate calming and contemplative insight, in order to continue teaching beings, they still refrain from realizing clear knowledge and liberation, and Those who, although they practice equanimity, still never relinquish their works in the service of teaching beings.
 # text = 𗁿𘝯𘙌𗸐𗹢𗫔𘎳𘘝𘔼𗌭𗧐𗇘𗅋𘕥𗫩𘙌𗹢𗭍𗫔𘎳𘘝𘅣𗅋𗫩𗇋𗗙𗫻𘏚𘟂。
@@ -10474,7 +10474,7 @@
 29	𘟂	𘟂	AUX	_	_	28	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 30	。	。	PUNCT	_	_	28	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0223
+# sent_id = avatamsaka_sutra_0231
 # text_lzh = 是雖觀於空而不起空見，雖行無相而常化著相衆生，雖行無願而不舍菩提行願者之所住處；
 # text_en = It is the abode of: Those who, although they contemplate emptiness of inherent existence, still do not generate an emptiness-centered view; Those who, although they practice signlessness, still always teach beings who are attached to signs; and Those who, although they practice wishlessness, still never abandon the vow to pursue the practices leading to bodhi.
 # text = 𗲠𘙌𘝯𗸸𗲠𘟀𗅋𗄈𘍦𗤋𘙌𗭍𗏹𘍦𗂆𗫔𘎳𗗙𘘝𘓞𗤋𘙌𗭍𘏞𘛛𘝦𘓞𗅋𗫩𗇋𗗙𗫻𘏚𘟂。
@@ -10513,7 +10513,7 @@
 33	𘟂	𘟂	AUX	_	_	32	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 34	。	。	PUNCT	_	_	32	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0224
+# sent_id = avatamsaka_sutra_0232
 # text_lzh = 是雖於一切業煩惱中而得自在爲化衆生故而現隨順諸業煩惱，雖無生死爲化衆生故示受生死，雖已離一切趣爲化衆生故示入諸趣者之所住處；
 # text_en = It is the abode of: Those who, although they have achieved sovereign mastery over all karma and afflictions, in order to teach beings, still manifest the appearance of following karma and afflictions; Those who, although they have become free of births and deaths, in order to teach beings, still manifest the appearance of being subject to birth and death; and Those who, although they have already transcended all the rebirth destinies, in order to teach beings, still manifest the appearance of entering into the rebirth destinies.
 # text = 𘈽𗉛𗷫𗄑𗄑𘂤𘝵𗦳𘙌𗟧𗫔𘎳𘘝𘔼𗌭𗱕𘈽𗉛𗷫𗑠𗖵𗡶𗜓𗢠𘎳𘙌𗤋𗫔𘎳𘘝𘔼𗌭𗴧𗢠𘎳𗨙𗷖𗄑𗄑𘙌𗋚𗈜𗫔𘎳𘘝𘔼𗌭𗴧𗱕𗷖𘂤𘃽𗇋𗗙𗫻𘏚𘟂。
@@ -10576,7 +10576,7 @@
 57	𘟂	𘟂	AUX	_	_	56	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 58	。	。	PUNCT	_	_	56	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0225
+# sent_id = avatamsaka_sutra_0233
 # text_lzh = 是雖行于慈而于諸衆生無所愛戀，雖行于悲而于諸衆生無所取著，雖行於喜而觀苦衆生心常哀湣，雖行於舍而不廢舍利益他事者之所住處；
 # text_en = It is the abode of: Those who, although they practice kindness, still have no loving affection for any being; Those who, although they practice compassion, still have no attachment to any being; Those who, although they practice sympathetic joy, still contemplate suffering beings with a mind that always feels deep pity for them; and Those who, although they practice equanimity, still never neglect endeavors that benefit others.
 # text = 𗕿𘙌𗹢𘞂𗱕𗫔𘎳𘂤𘟠𗋥𗦇𗤋𗈁𘙌𗹢𘞂𗱕𗫔𘎳𘂤𗟨𗂆𗦇𗤋𘚻𘙌𗹢𘞂𗤶𗏹𗕿𘖛𘍔𗫔𘎳𘝯𗫩𘙌𗹢𘞂𘉑𗗙𘞙𗼜𘅣𗅋𘐩𗫩𗇋𗗙𗫻𘏚𘟂。
@@ -10635,7 +10635,7 @@
 53	𘟂	𘟂	AUX	_	_	52	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 54	。	。	PUNCT	_	_	52	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0226
+# sent_id = avatamsaka_sutra_0234
 # text_lzh = 是雖行九次第定而不厭離欲界受生，雖知一切法無生無滅而不於實際作證，雖入三解脫門而不取聲聞解脫，
 # text_en = It is the abode of: Those who, although they practice the nine sequential meditative absorptions, still do not renounce taking birth in the desire realm; Those who, although they have realized that all dharmas are neither produced nor destroyed, still refrain from realizing the apex of reality; Those who, although they enter the three gates to liberation, still refrain from opting for the śrāvaka disciple’s liberation;
 # text = 𗢭𘐡𗖵𗅆𘙌𗭍𗧠𗐯𗅁𘎳𗨙𗅋𘀀𗈜𗹙𗄑𗄑𘎳𗤋𗈞𗤋𘙌𗄻𘞌𗎘𘕿𘕥𗅋𘃡𘕕𗧐𗇘𘗠𗅁𗙏𗓁𘙌𘃽𗧐𗇘𗅋𗟨。
@@ -10683,7 +10683,7 @@
 42	𗟨	𗟨	VERB	_	_	14	conj	_	Gloss=take, gain, to receive|LTranslit=lhwi¹|SpaceAfter=No
 43	。	。	PUNCT	_	_	14	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0227
+# sent_id = avatamsaka_sutra_0235
 # text_lzh = 雖觀四聖諦而不住小乘聖果，雖觀甚深緣起而不住究竟寂滅，雖修八聖道而不求永出世間，
 # text_en = Those who, although they contemplate the four truths of the ārya, still refrain from abiding in the Small Vehicle’s fruits of the ārya; Those who, although they contemplate the extremely profound doctrine of conditioned arising, still refrain from abiding in final quiescent cessation; Those who, although they cultivate the eightfold path of the ārya, still do not seek to escape from the world forever;
 # text = 𗥃𗼃𗆤𘙌𘝯𗒛𗣫𗼃𗫴𘂤𗅋𗫻𗩾𗓰𗦫𘔼𘙌𘝯𗩾𘃪𗘺𗈞𘕿𗅋𗫻𘉋𗼃𗵘𘙌𗹢𘘂𗯨𘂤𗣈𗅋𗴿。
@@ -10725,7 +10725,7 @@
 36	𗴿	𗴿	VERB	_	_	12	conj	_	Gloss=pray|LTranslit=kuh¹|SpaceAfter=No
 37	。	。	PUNCT	_	_	12	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0228
+# sent_id = avatamsaka_sutra_0236
 # text_lzh = 雖超凡夫地而不墮聲聞、辟支佛地，雖觀五取蘊而不永滅諸蘊，雖超出四魔而不分別諸魔，
 # text_en = Those who, although they have stepped beyond the grounds of the common person, still refrain from falling down to the grounds of the śrāvaka disciples and pratyekabuddhas; Those who, although they contemplate the five appropriated aggregates, they still refrain from forever extinguishing the aggregates; Those who, although they have gone beyond the four types of māras, still do not make discriminations among the types of māras;
 # text = 𗚉𗪙𗼻𘙌𗰛𗙏𗓁𘞪𗫨𗼻𘂤𗅋𘍴𗏁𗟨𗚊𘙌𘝯𘘂𗱕𗚊𗅋𗈞𗥃𗢞𘂤𘙌𗋚𗣈𗱕𗢞𗅋𗠷𗷎。
@@ -10765,7 +10765,7 @@
 34	𗷎	𗷎	VERB	_	_	13	conj	_	Gloss=separate, difference|LTranslit=rqa̱r²|SpaceAfter=No
 35	。	。	PUNCT	_	_	13	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0229
+# sent_id = avatamsaka_sutra_0237
 # text_lzh = 雖不著六處而不永滅六處，雖安住真如而不墮實際，雖說一切乘而不舍大乘。
 # text_en = Those who, although they do not become attached to the six sense bases, still do not forever extinguish the six sense bases; Those who, although they securely abide in true suchness, still do not fall into [final realization of] the apex of reality; and Those who, although they teach all the vehicles, still never abandon the Great Vehicle.
 # text = 𗤁𘋩𘙌𗅋𗂆𘘂𗤁𘋩𗅋𗈞𗌮𗒘𘙌𘗲𗫻𘞌𗎘𗅋𗈀𗒛𗄑𗄑𘙌𘎪𘜶𗒛𗅋𗫩。
@@ -10799,7 +10799,7 @@
 28	𗫩	𗫩	VERB	_	_	10	conj	_	Gloss=give up, abandon|LTranslit=rdźər¹|SpaceAfter=No
 29	。	。	PUNCT	_	_	10	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0230
+# sent_id = avatamsaka_sutra_0238
 # text_lzh = 此大樓閣，是住如是等一切諸功德者之所住處。
 # text_en = This immense tower is the abode of those who abide in all such meritorious qualities as these.
 # text = 𘌽𘜶𗹶𗘲𘌽𗍊𘆄𗱕𗣼𘉐𗄑𗄑𘂤𗫻𗇋𗗙𗫻𘏚𘟂。
@@ -10824,7 +10824,7 @@
 19	𘟂	𘟂	AUX	_	_	18	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 20	。	。	PUNCT	_	_	18	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0231
+# sent_id = avatamsaka_sutra_0239
 # text_lzh = 爾時，善財童子而說頌言：此是大悲清淨智，利益世間慈氏尊。灌頂地中佛長子，入如來境之住處。
 # text_en = This is the abode of the one of great compassion and pure wisdom who benefits those in the world, the Venerable Maitreya, the Buddha’s senior son on the crown-anointing consecration ground who is on the verge of entering the realm of the Tathāgatas.
 # text = 𗉘𘝨𗩴𘔮𘁛𘞁𗖍𘒣𘙇𘎪𘌽𗫂𘜶𗈁𘄎𗑗𘄡，𗯨𘂤𘞙𗼜𗕿𗤳𗖻。𗵣𗃊𗼻𘂤𗢳𘈷𗌰，𗌮𗆐𘃺𘃽𗫻𘏚𘟂。
@@ -10871,7 +10871,7 @@
 41	𘟂	𘟂	AUX	_	_	40	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 42	。	。	PUNCT	_	_	10	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0232
+# sent_id = avatamsaka_sutra_0240
 # text_lzh = 一切名聞諸佛子，已入大乘解脫門。遊行法界心無著，此無等者之住處。
 # text_en = All of those renowned sons of the Buddha who have already entered the Great Vehicle’s gates of liberation and roam throughout the Dharma realm with unattached minds— This is the abode of these peerless ones.
 # text = 𗦻𗪛𗿷𗇋𗱕𗢳𘈷，𘜶𗒛𗧐𗇘𘗠𘙌𘃽。𗹙𗐯𘂤𘕂𗤶𗂆𗤋，𘜄𗤋𗇋𗗙𗫻𘏚𘟂。
@@ -10908,7 +10908,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0233
+# sent_id = avatamsaka_sutra_0241
 # text_lzh = 施戒忍進禪智慧，方便願力及神通。如是大乘諸度法，悉具足者之住處。
 # text_en = Giving, moral virtue, patience, vigor, dhyāna, and wisdom as well as skillful means, vows, the powers, and the spiritual superknowledges, all such dharmas associated with the Great Vehicle’s perfections— This is the abode of those who have completely fulfilled them all.
 # text = 𘈈𗬩𘒮𗸐𗇁𘄡𘟛，𗼄𘕤𘓞𗪺𗅉𗾈𗿣。𘌽𗍊𘜶𗒛𗱕𗌗𗹙，𘓳𗣷𗇋𗗙𗫻𘏚𘟂。
@@ -10945,7 +10945,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0234
+# sent_id = avatamsaka_sutra_0242
 # text_lzh = 智慧廣大如虛空，普知三世一切法。無礙無依無所取，了諸有者之住處。
 # text_en = Those whose wisdom is as vast as empty space, who know all dharmas of the three periods of time, and who are unimpeded, non-dependent, and cling to nothing— This is the abode of those who fully know all the stations of existence.
 # text = 𘄡𘟛𗾟𘜶𘉏𗲠𗍊，𘕕𘗽𗹙𗄑𗄑𗄊𗄻。𗦁𗤋𗖵𗤋𗟨𗦇𗤋，𗱕𘟣𗎫𗇋𗫻𘏚𘟂。
@@ -10982,7 +10982,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0235
+# sent_id = avatamsaka_sutra_0243
 # text_lzh = 善能解了一切法，無性無生無所依。如鳥飛空得自在，此大智者之住處。
 # text_en = Those who completely understand all dharmas as without a nature and as unproduced—those who, depending on nothing, are like birds flying across the sky in their attainment of the sovereign masteries— This is the abode of those who possess such great wisdom as this.
 # text = 𗹙𗄑𗄑𗥤𗤋𘎳𗤋，𗖵𘘢𘏚𗤋𗄻𗥤𗩱。𗿼𗲠𘕂𗍊𘝵𗦳𘜘，𘜶𘄡𗇋𗗙𗫻𘏚𘟂。
@@ -11019,7 +11019,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0236
+# sent_id = avatamsaka_sutra_0244
 # text_lzh = 了知三毒真實性，分別因緣虛妄起。亦不厭彼而求出，此寂靜人之住處。
 # text_en = Those who fully know the true nature of the three poisons, those who distinguish arising based on causes and conditions as false, and those who do not, due to weariness of them, then seek to escape— This is the abode of the quiescent ones such as these.
 # text = 𘕕𗀀𘞌𗒘𗎫𗄻𗥤，𗦫𘔼𗠷𗷎𘉏𘗫𗄈。𗳱𘂤𗅋𘀀𗣈𗅋𗴿，𗘺𗑗𗇋𗗙𗫻𘏚𘟂。
@@ -11056,7 +11056,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0237
+# sent_id = avatamsaka_sutra_0245
 # text_lzh = 三解脫門八聖道，諸蘊處界及緣起。悉能觀察不趣寂，此善巧人之住處。
 # text_en = The three gates to liberation, the eightfold path of the ārya, the aggregates, sense bases, sense realms, and conditioned arising— They can contemplate them all, yet do not proceed into quiescence. This is the abode of those who are skilled in expedient means.
 # text = 𘕕𗧐𗇘𘗠𘉋𗼃𗵘，𗱕𗚊𘋩𗐯𗅉𘔼𗄈。𗑷𗄊𘝯𗸸𗘺𗅋𗷖，𗩴𘃨𗇋𗗙𗫻𘏚𘟂。
@@ -11093,7 +11093,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0238
+# sent_id = avatamsaka_sutra_0246
 # text_lzh = 十方國土及眾生，以無礙智咸觀察。了性皆空不分別，此寂滅人之住處。
 # text_en = With unimpeded wisdom, they contemplate all the lands of the ten directions as well as all their beings. Knowing the nature of them all as empty, they do not discriminate. This is the abode of those who have become quiescent.
 # text = 𗰭𗏣𗂧𘍞𗅉𗫔𘎳，𗦁𗤋𘄡𘂎𗄊𘝯𗸸。𗎫𗄊𗲠𗥤𗅋𗠷𗷎，𗘺𗈞𗇋𗗙𗫻𘏚𘟂。
@@ -11130,7 +11130,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0239
+# sent_id = avatamsaka_sutra_0247
 # text_lzh = 普行法界悉無礙，而求行性不可得。如風行空無所行，此無依者之住處。
 # text_en = They are unimpeded in traveling all throughout the Dharma realm, yet, in seeking such actions’ inherent nature, it cannot be found. Like the wind moving through space, there are no actions that they do. This is the abode of those who have nothing they depend on.
 # text = 𗹙𗐯𗄊𘕂𗦁𗄿𗤋，𘕂𗎫𗴿𘕤𘜘𘏚𗤋。𘚶𗍊𗲠𘕂𘕂𗦇𗤋，𗖵𗤋𗇋𗗙𗫻𘏚𘟂。
@@ -11167,7 +11167,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0240
+# sent_id = avatamsaka_sutra_0248
 # text_lzh = 普見惡道群生類，受諸楚毒無所歸。放大慈光悉除滅，此哀愍者之住處。
 # text_en = When they everywhere see the many beings in the wretched destinies enduring all kinds of intense cruelties from which there is no refuge, they emanate the light of great kindness to extinguish them all. This is the abode of those who possess such deep sympathy.
 # text = 𘊄𗵘𗥹𘎳𗴮𗄑𗄑，𗱕𗀀𗴐𗗙𗖵𘏚𗤋。𘜶𗕿𘉍𘐉𗄊𗟥𗈞，𗕿𘖛𗇋𗗙𗫻𘏚𘟂。
@@ -11204,7 +11204,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0241
+# sent_id = avatamsaka_sutra_0249
 # text_lzh = 見諸眾生失正道，譬如生盲踐畏途。引其令入解脫城，此大導師之住處。
 # text_en = When they see beings who have lost the right road, as if they were people born blind traveling on a fearsome path, they lead them along and enable them to enter the city of liberation. This is the abode of the great Master Guides.
 # text = 𗱕𗫔𘎳𗣼𗵘𘐩𘟀，𘊛𗍊𗑉𗤋𗵘𗣓𘕂。𗀚𘘝𗧐𗇘𗍁𘃽𗟻，𘜶𗀚𘘝𗗙𗫻𘏚𘟂。
@@ -11241,7 +11241,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0242
+# sent_id = avatamsaka_sutra_0250
 # text_lzh = 見諸眾生入魔網，生老病死常逼迫。令其解脫得慰安，此勇健人之住處。
 # text_en = When they see beings entering the net of Māra who are then driven along by birth, aging, sickness, and death, they help them to escape and gain comfort and security. This is the abode of those who are courageous and strong.
 # text = 𗱕𗫔𘎳𘆄𗢞𗙲𘃽，𘎳𘒺𗥓𗈶𗏤𘔨𘟀。𗄊𗧐𗇘𗟻𘗲𗵐𘜘，𗹡𗄎𘓐𗗙𗫻𘏚𘟂。
@@ -11278,7 +11278,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0243
+# sent_id = avatamsaka_sutra_0251
 # text_lzh = 見諸眾生嬰惑病，而興廣大悲愍心。以智慧藥悉除滅，此大醫王之住處。
 # text_en = When they see beings beset by the sickness of the afflictions, they arouse the mind of vast compassion and pity and use the medicine of wisdom to completely cure them. This is the abode of the great king of physicians.
 # text = 𗱕𗫔𘎳𗥓𘍔𗄛𘟀，𗾟𘜶𗕿𘖛𗤶𗰱𗄈。𘄡𘟛𗿧𘂎𗄊𗟥𗈞，𘜶𗇫𘟙𗗙𗫻𘏚𘟂。
@@ -11315,7 +11315,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0244
+# sent_id = avatamsaka_sutra_0252
 # text_lzh = 見諸群生沒有海，沈淪憂迫受眾苦。悉以法船而救之，此善度者之住處。
 # text_en = When they see the many beings submerged in the ocean of existences, sunken therein, driven by sorrows, and enduring the many sufferings, they use the ship of the Dharma to rescue them all. This is the abode of those who are skilled in ferrying others across.
 # text = 𗱕𗥹𘎳𘆄𘟣𗗚𗪇，𗋭𘚢𗪆𗏤𘍔𗨙𘟀。𗄊𗹙𗊂𘂎𗥞𘖗𗩱，𗌗𗩱𗇋𗗙𗫻𘏚𘟂。
@@ -11352,7 +11352,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0245
+# sent_id = avatamsaka_sutra_0253
 # text_lzh = 見諸眾生在惑海，能發菩提妙寶心。悉入其中而濟拔，此善漁人之住處。
 # text_en = Seeing all beings abiding in the ocean of afflictions, they are able to make the wondrously precious resolve to attain bodhi with which they enter into it and rescue them all. This is the dwelling place of those who are skilled as fishers of men.
 # text = 𗱕𗫔𘎳𘝌𗗚𗫻𘟀，𘏞𘛛𗤓𘏨𗤶𗰱𗄈。𗄊𗳱𘂤𘃽𗨄𘖗𗩱，𗋾𗯹𗩱𗇋𗫻𘏚𘟂。
@@ -11388,7 +11388,7 @@
 30	𘟂	𘟂	AUX	_	_	29	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 31	。	。	PUNCT	_	_	29	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0246
+# sent_id = avatamsaka_sutra_0254
 # text_lzh = 恒以大願慈悲眼，普觀一切諸眾生。從諸有海而拔出，此金翅王之住處。
 # text_en = They always use great vows and the eyes of kindness and compassion to everywhere contemplate all beings and pull them out of the ocean of existences. This is the abode of the kings of the golden-winged garuḍas.
 # text = 𗏹𘜶𘓞𗕿𗈁𗑉𘂎，𗫔𘎳𗄑𗄑𗗙𗄊𘝯。𗱕𘟣𗗚𗅁𗥞𘖗𗩱，𗵒𘝋𘟙𗗙𗫻𘏚𘟂。
@@ -11425,7 +11425,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0247
+# sent_id = avatamsaka_sutra_0255
 # text_lzh = 譬如日月在虛空，一切世間靡不燭。智慧光明亦如是，此照世者之住處。
 # text_en = Just as the sun and the moon that hover in the sky have nothing in the world on which they do not shine, so too it is with the light of their wisdom. This is the abode of those who illuminate the world.
 # text = 𘊛𗍊𗾔𗼑𘉏𗲠𗫻，𗯨𘂤𗄑𗄑𗅋𗮔𗤋。𘄡𘟛𘉍𗭼𘂆𘌽𗍊，𗯨𗮔𗇋𗗙𗫻𘏚𘟂。
@@ -11462,7 +11462,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0248
+# sent_id = avatamsaka_sutra_0256
 # text_lzh = 菩薩為化一眾生，普盡未來無量劫。如為一人一切爾，此救世者之住處。
 # text_en = In order to teach but a single being, all bodhisattvas will remain for all the countless kalpas of the future, and as they do so for but one person, so too will they do so for all. This is the abode of those who would rescue the entire world.
 # text = 𘋢𗥤𘈩𗫔𘎳𘘝𘔼，𗷝𗆐𘖑𗆄𗑱𗄊𗋃。𘓐𘞪𘘝𘔼𗄊𘌽𗍊，𗯨𗥞𗇋𗗙𗫻𘏚𘟂。
@@ -11499,7 +11499,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0249
+# sent_id = avatamsaka_sutra_0257
 # text_lzh = 於一國土化眾生，盡未來劫無休息。一一國土咸如是，此堅固意之住處。
 # text_en = Just as, in but a single land, they teach the beings there, and incessantly continue this throughout all future kalpas, so too, in each and every land, they do so in this way. This is the abode of those possessed of just such solid resolve.
 # text = 𘈩𗂧𘍞𗅁𗫔𘎳𘘝，𗷝𗆐𗑱𗋃𗬁𗁿𗤋。𘃞𘃞𗂧𘍞𗄊𘌽𗍊，𗬢𗸁𗉣𗗙𗫻𘏚𘟂。
@@ -11536,7 +11536,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0250
+# sent_id = avatamsaka_sutra_0258
 # text_lzh = 十方諸佛所說法，一座普受咸令盡。盡未來劫恒悉然，此智海人之住處。
 # text_en = All the Dharma taught by all buddhas throughout the ten directions— They take in every part of it in but a single sitting and constantly continue to do so throughout all future kalpas. This is the abode of those who possess an ocean of wisdom.
 # text = 𗰭𗏣𗱕𗢳𘙇𘎪𗹙，𗈪𗶠𘏚𗀔𗄊𗨙𗩱。𗷝𗆐𗑱𗋃𗄊𘌽𗍊，𘄡𗗚𘓐𗗙𗫻𘏚𘟂。
@@ -11573,7 +11573,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0251
+# sent_id = avatamsaka_sutra_0259
 # text_lzh = 遍遊一切世界海，普入一切道場海。供養一切如來海，此修行者之住處。
 # text_en = They roam everywhere throughout the oceans of all worlds, everywhere enter the ocean of all assemblies, and then make offerings to the ocean of all tathāgatas. This is the abode of those pursuing such cultivation.
 # text = 𗯨𗐯𗗚𗄑𗄑𗄊𘕧，𗚩𘒎𗗚𗄑𗄑𗄊𘃽。𗌮𗆐𗗚𗄑𗄑𗴿𗒀，𗹢𗭍𗇋𗗙𗫻𘏚𘟂。
@@ -11610,7 +11610,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0252
+# sent_id = avatamsaka_sutra_0260
 # text_lzh = 修行一切妙行海，發起無邊大願海。如是經於眾劫海，此功德者之住處。
 # text_en = They cultivate an ocean of all the marvelous practices, make a boundless ocean of great vows, and do so throughout an ocean of many kalpas. This is the abode of those who possess the meritorious qualities.
 # text = 𗤓𘝦𗗚𗄑𗄑𗹢𗭍，𗎘𗤋𘜶𘓞𗗚𗰱𗄈。𘌽𗍊𗫔𗑱𗗚𗋚𗀅，𗣼𘉐𗿷𗇋𗫻𘏚𘟂。
@@ -11647,7 +11647,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0253
+# sent_id = avatamsaka_sutra_0261
 # text_lzh = 一毛端處無量剎，佛眾生劫不可說。如是明見靡不周，此無礙眼之住處。
 # text_en = On the tip of but a single hair, there are countless kṣetras in which there are ineffably many buddhas, beings, and kalpas. They clearly see things such as these, having none not completely so. This is the abode of those who have the unimpeded eye.
 # text = 𗈪𗁲𘁙𗅁𘖑𗆄𗂧，𗢳𗫔𘎳𗑱𘎪𘏚𗤋。𘌽𗍊𗏴𘟀𗅋𗫡𗤋，𗦁𗤋𗑉𗗙𗫻𘏚𘟂。
@@ -11684,7 +11684,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0254
+# sent_id = avatamsaka_sutra_0262
 # text_lzh = 一念普攝無邊劫，國土諸佛及眾生。智慧無礙悉正知，此具德人之住處。
 # text_en = Within but a single mind-moment, they subsume all the boundlessly many kalpas, lands, buddhas, and living beings that, with unimpeded wisdom, they completely and rightly know. This is the abode of those who have perfected the qualities.
 # text = 𗈪𗆫𗎘𗤋𗑱𗂧𘍞，𗱕𗢳𗅉𗫔𘎳𗄊𗪲。𘄡𘟛𗦁𗤋𗄊𗣼𗄻，𗣼𗿷𘓐𗗙𗫻𘏚𘟂。
@@ -11721,7 +11721,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0255
+# sent_id = avatamsaka_sutra_0263
 # text_lzh = 十方國土碎為塵，一切大海以毛滴。菩薩發願數如是，此無礙者之住處。
 # text_en = If the lands of the ten directions were all ground to atoms and all the great oceans were ladled out drop-by-drop with a hair, the vows the bodhisattvas have made are of just such a number. This is the abode of those whose actions are so unimpeded.
 # text = 𗰭𗏣𗂧𘍞𗄊𗽀𗨻，𘜶𗗚𗄑𗄑𗋽𘞫𗨻。𘋢𗥤𘓞𗄈𘜔𘌽𗍊，𗦁𗤋𗇋𗗙𗫻𘏚𘟂。
@@ -11758,7 +11758,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0256
+# sent_id = avatamsaka_sutra_0264
 # text_lzh = 成就總持三昧門，大願諸禪及解脫。一一皆住無邊劫，此真佛子之住處。
 # text_en = Of all the complete-retention dhāraṇīs, samādhi gateways, great vows, dhyānas, and liberations they have perfected, they dwell in each of them for boundless kalpas. This is the abode of those who are the true sons of the Buddha.
 # text = 𗄊𗧯𘋅𗁲𘗠𘜶𘓞，𗱕𗇁𗅉𗧐𗇘𗵆𗨄。𘃞𘃞𗄊𗎘𗤋𗑱𗫻，𗢳𘈷𗒘𗗙𗫻𘏚𘟂。
@@ -11794,7 +11794,7 @@
 30	𘟂	𘟂	AUX	_	_	29	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 31	。	。	PUNCT	_	_	29	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0257
+# sent_id = avatamsaka_sutra_0265
 # text_lzh = 無量無邊諸佛子，種種說法度眾生。亦說世間眾技術，此修行者之住處。
 # text_en = These measurelessly and boundlessly many sons of the Buddha have in many different ways taught the Dharma, liberated beings, and presented teachings on the many kinds of worldly skills and arts. This is the abode of those whose cultivation is of this sort.
 # text = 𘖑𗆄𗎘𗤋𗱕𗢳𘈷，𘋠𘋠𗹙𘎪𗫔𘎳𗌗。𗯨𘂤𗫔𘂿𘇩𗹙𘎪，𗹢𗭍𗇋𗗙𗫻𘏚𘟂。
@@ -11831,7 +11831,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0258
+# sent_id = avatamsaka_sutra_0266
 # text_lzh = 成就神通方便智，修行如幻妙法門。十方五趣悉現生，此無礙者之住處。
 # text_en = Adept in the spiritual superknowledges, skillful means, and wisdom, they cultivate the marvelous Dharma gate of the illusory nature of all and manifest births in all five destinies throughout the ten directions. This is the abode of those who are unimpeded in these things.
 # text = 𗾈𗿣𗼄𘕤𘄡𗵆𗨄，𘂫𗍊𗤓𗹙𘍔𗹢𗭍。𗰭𗏣𗏁𗷖𗄊𘎳𗜓，𗦁𗤋𗇋𗗙𗫻𘏚𘟂。
@@ -11868,7 +11868,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0259
+# sent_id = avatamsaka_sutra_0267
 # text_lzh = 菩薩始從初發心，具足修行一切行。化身無量遍法界，此神力者之住處。
 # text_en = From when these bodhisattvas first made their resolve, they have completely fulfilled the cultivation of all the practices and have emanated countless bodies throughout the Dharma realm. This is the abode of those possessed of such spiritual powers.
 # text = 𘋢𗥤𗩾𗪟𗤶𗈪𗄈，𘝦𗄑𗄑𘓳𗣷𗹢𗭍。𘅜𘛽𘖑𗆄𗹙𗐯𗫡，𗾈𗪺𗇋𗗙𗫻𘏚𘟂。
@@ -11905,7 +11905,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0260
+# sent_id = avatamsaka_sutra_0268
 # text_lzh = 一念成就菩提道，普作無邊智慧業。世情思慮悉發狂，此難量者之住處。
 # text_en = In but a single mind-moment, they have realized enlightenment and everywhere performed works of boundless wisdom that, whoever pondered them with only worldly sentiment would all be driven mad. This is the abode of those who are so very difficult to assess as this.
 # text = 𗈪𗆫𘏞𘛛𗵘𗵆𗨄，𗎘𗤋𘄡𘟛𘈽𗄊𘃡。𗯨𗤶𗅢𗌭𗄊𗕶𗀘，𗅢𗣓𗇋𗗙𗫻𘏚𘟂。
@@ -11941,7 +11941,7 @@
 30	𘟂	𘟂	AUX	_	_	29	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 31	。	。	PUNCT	_	_	29	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0261
+# sent_id = avatamsaka_sutra_0269
 # text_lzh = 成就神通無障礙，遊行法界靡不周。其心未甞有所得，此淨慧者之住處。
 # text_en = Having perfected the unimpeded spiritual superknowledges, they roam the Dharma realm and have no place they do not pervade, yet their minds have never found anything that is apprehensible. This is the abode of those possessed of such pure wisdom.
 # text = 𗾈𗿣𗵆𗨄𗦁𗄿𗤋，𗹙𗐯𗉫𘕂𗅋𗫡𗤋。𗤶𗉣𘜘𗦇𘟣𗷝𗬬，𗑗𘟛𗇋𗗙𗫻𘏚𘟂。
@@ -11978,7 +11978,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0262
+# sent_id = avatamsaka_sutra_0270
 # text_lzh = 菩薩修行無礙慧，入諸國土無所著。以無二智普照明，此無我者之住處。
 # text_en = These bodhisattvas cultivate unimpeded wisdom, enter all lands without having anything to which they are attached, and use non-dual wisdom to shine their illumination everywhere. This is the abode of those who are free of the idea of a self.
 # text = 𘋢𗥤𗦁𗤋𘟛𗹢𗭍，𗱕𗂧𗄊𘃽𗂆𗦇𗤋。𗅋𗍫𘄡𘂎𗄊𗭼𗮔，𗧓𗤋𗇋𗗙𗫻𘏚𘟂。
@@ -12015,7 +12015,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0263
+# sent_id = avatamsaka_sutra_0271
 # text_lzh = 了知諸法無依止，本性寂滅同虛空。常行如是境界中，此離垢人之住處。
 # text_en = They completely know all dharmas are devoid of any basis and that their fundamental nature is quiescence, just like space. They always course in spheres of cognition such as these. This is the abode of those who have abandoned the defilements.
 # text = 𗱕𗹙𗄻𗥤𗖵𘏚𗤋，𗰜𗎫𗘺𗈞𘉏𗲠𗯮。𗏹𘌽𗍊𘃺𗐯𘂤𗭍，𘓨𗈜𘓐𗗙𗫻𘏚𘟂。
@@ -12052,7 +12052,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0264
+# sent_id = avatamsaka_sutra_0272
 # text_lzh = 普見群生受諸苦，發大仁慈智慧心。願常利益諸世間，此悲愍者之住處。
 # text_en = Everywhere seeing the many beings undergoing all kinds of suffering, they arouse the mind of great humane kindness and wisdom and vow to always benefit everyone in the world. This is the abode of those possessed of compassionate pity.
 # text = 𗥹𘎳𗱕𘍔𗄊𗨙𘟀，𘜶𗕿𗈁𘄡𘟛𗤶𗄈。𘓞𘂎𗯨𘂤𗏹𘞙𗼜，𗈁𘖛𗇋𗗙𗫻𘏚𘟂。
@@ -12089,7 +12089,7 @@
 31	𘟂	𘟂	AUX	_	_	30	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 32	。	。	PUNCT	_	_	30	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0265
+# sent_id = avatamsaka_sutra_0273
 # text_lzh = 佛子住於此，普現眾生前。猶如日月輪，遍除生死暗。
 # text_en = The sons of the Buddha who abide herein everywhere appear before all beings. Like the orbs of the sun and moon they everywhere dispel the darkness of saṃsāra.
 # text = 𗢳𘈷𘌽𘕿𗫻，𗫔𘎳𗙼𗄊𗜓。𗾔𗼑𘚢𗋚𗍊，𗢣𘎳𗤼𗄊𗟥。
@@ -12118,7 +12118,7 @@
 23	𗟥	𗟥	VERB	_	_	5	conj	_	Gloss=reduce, remove|LTranslit=teh¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0266
+# sent_id = avatamsaka_sutra_0274
 # text_lzh = 佛子住於此，普順眾生心。變現無量身，充滿十方剎。
 # text_en = The sons of the Buddha who abide herein everywhere adapt to the minds of beings and transformationally manifest countless bodies that completely fill the kṣetras of the ten directions.
 # text = 𗢳𘈷𘌽𘕿𗫻，𗫔𘎳𗤶𗖵𗡶。𘖑𗆄𘛽𗴧𗜓，𗰭𗏣𗂧𗄊𘏋。
@@ -12147,7 +12147,7 @@
 23	𘏋	𘏋	VERB	_	_	5	conj	_	Gloss=full, filled, packed|LTranslit=sə̱¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0267
+# sent_id = avatamsaka_sutra_0275
 # text_lzh = 佛子住於此，遍遊諸世界。一切如來所，無量無數劫。
 # text_en = The sons of the Buddha who abide herein travel everywhere to all worlds, going to the abodes of all tathāgatas for measurelessly and numberlessly many kalpas.
 # text = 𗢳𘈷𘌽𘕿𗫻，𘖑𗆄𘜔𗤋𗑱。𗯨𗐯𗄑𗄑𗅁，𗱕𗢳𘋩𗄊𗶷。
@@ -12176,7 +12176,7 @@
 23	𗶷	𗶷	VERB	_	_	5	conj	_	Gloss=go, toward|LTranslit=śə¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0268
+# sent_id = avatamsaka_sutra_0276
 # text_lzh = 佛子住於此，思量諸佛法。無量無數劫，其心無厭倦。
 # text_en = The sons of the Buddha who abide herein contemplate the Dharma of all buddhas, doing so for measurelessly and numberlessly many kalpas in which their minds never grow weary.
 # text = 𗢳𘈷𘌽𘕿𗫻，𘖑𗆄𘜔𗤋𗑱。𗱕𗢳𗹙𗪆𗆫，𗤶𗉣𘀀𘈐𗤋。
@@ -12205,7 +12205,7 @@
 23	𗤋	𗤋	ADV	_	Polarity=Neg	22	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0269
+# sent_id = avatamsaka_sutra_0277
 # text_lzh = 佛子住於此，念念入三昧。一一三昧門，闡明諸佛境。
 # text_en = The sons of the Buddha who abide herein, in every mind-moment enter samādhis in which each of these samādhi gateways clearly reveals the realms of all buddhas.
 # text = 𗢳𘈷𘌽𘕿𗫻，𗆫𗆫𘋅𗁲𘃽。𘃞𘃞𘋅𗁲𘗠，𗱕𗢳𘃺𘏒𘎪。
@@ -12232,7 +12232,7 @@
 21	𘎪	𘎪	VERB	_	_	5	conj	_	Gloss=speak, talk, say|LTranslit=ntshe¹|SpaceAfter=No
 22	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0270
+# sent_id = avatamsaka_sutra_0278
 # text_lzh = 佛子住於此，悉知一切剎。無量無數劫，眾生佛名號。
 # text_en = The sons of the Buddha who abide herein all know all of the kṣetras, their measurelessly and numberlessly many kalpas, their beings, and the names of their buddhas.
 # text = 𗢳𘈷𘌽𘕿𗫻，𗂧𗄑𗄑𘖑𗆄。𘜔𗤋𗑱𗫔𘎳，𗢳𗦻𗿸𗄊𗄻。
@@ -12261,7 +12261,7 @@
 23	𗄻	𗄻	VERB	_	_	5	conj	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0271
+# sent_id = avatamsaka_sutra_0279
 # text_lzh = 佛子住於此，一念攝諸劫。但隨眾生心，而無分別想。
 # text_en = The sons of the Buddha who abide herein subsume all kalpas within but a single mind-moment. They merely accord with the minds of beings while remaining free of any discriminating thought.
 # text = 𗢳𘈷𘌽𘕿𗫻，𗈪𗆫𗱕𗑱𗪲。𗧀𗫔𘎳𗤶𗖵，𗠷𗷎𗾫𗄊𗤋。
@@ -12290,7 +12290,7 @@
 23	𗤋	𗤋	VERB	_	Polarity=Neg	11	conj	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0272
+# sent_id = avatamsaka_sutra_0280
 # text_lzh = 佛子住於此，修習諸三昧。一一心念中，了知三世法。
 # text_en = The sons of the Buddha who abide herein cultivate all the samādhis. In each and every mind-moment, they know the dharmas of the three periods of time.
 # text = 𗢳𘈷𘌽𘕿𗫻，𗱕𘋅𗁲𗹢𘞂。𘃞𘃞𗤶𗆫𘂤，𘕕𘗽𗹙𗄻𗥤。
@@ -12318,7 +12318,7 @@
 22	𗥤	𗥤	VERB	_	_	5	conj	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
 23	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0273
+# sent_id = avatamsaka_sutra_0281
 # text_lzh = 佛子住於此，結跏身不動。普現一切剎，一切諸趣中。
 # text_en = The sons of the Buddha who abide herein sit in the lotus posture, their bodies unmoving, even as they appear in all kṣetras and in all the rebirth destinies.
 # text = 𗢳𘈷𘌽𘕿𗫻，𗎷𗶠𘛽𗅋𗚛。𗂧𘍞𗄑𗄑𗅁，𗱕𗷖𘂤𗄊𗜓。
@@ -12347,7 +12347,7 @@
 23	𗜓	𗜓	VERB	_	_	5	conj	_	Gloss=appear, show|LTranslit=śa²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0274
+# sent_id = avatamsaka_sutra_0282
 # text_lzh = 佛子住於此，飲諸佛法海。深入智慧海，具足功德海。
 # text_en = The sons of the Buddha who abide herein drink in the ocean of all buddhas’ Dharma, deeply enter the ocean of wisdom, and perfect the ocean of meritorious qualities.
 # text = 𗢳𘈷𘌽𘕿𗫻，𗱕𗢳𗹙𗗚𗋁。𘄡𘟛𗗚𗓰𘃽，𗣼𘉐𗗚𘓳𗣷。
@@ -12376,7 +12376,7 @@
 23	𗣷	𗣷	VERB	_	_	5	conj	_	Gloss=full, packed, sufficient|LTranslit=lhə?|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0275
+# sent_id = avatamsaka_sutra_0283
 # text_lzh = 佛子住於此，悉知諸剎數。世數眾生數，佛名數亦然。
 # text_en = The sons of the Buddha who abide herein know the number of all the kṣetras and know the number of worlds, the number of beings, and the number of buddha names in just the same way.
 # text = 𗢳𘈷𘌽𘕿𗫻，𗱕𗂧𘜔𗯨𘜔。𗫔𘎳𘜔𗄊𗄻，𗢳𗦻𘜔𗋕𗍊。
@@ -12405,7 +12405,7 @@
 23	𗍊	𗍊	ADP	_	_	22	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0276
+# sent_id = avatamsaka_sutra_0284
 # text_lzh = 佛子住於此，一念悉能了。一切三世中，國土之成壞。
 # text_en = The sons of the Buddha who abide herein are able to completely know in a single mind-moment the creation and destruction of all lands throughout all three periods of time.
 # text = 𗢳𘈷𘌽𘕿𗫻，𘕕𘗽𗄑𗄑𘂤。𗱕𗂧𘍞𗵆𗹪，𗈪𗆫𗄊𗥤𗩱。
@@ -12434,7 +12434,7 @@
 23	𗩱	𗩱	AUX	_	_	22	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0277
+# sent_id = avatamsaka_sutra_0285
 # text_lzh = 佛子住於此，普知佛行願。菩薩所修行，眾生根性欲。
 # text_en = The sons of the Buddha who abide herein know the conduct and vows of all buddhas, the practices cultivated by the bodhisattvas, and the faculties and desires of beings.
 # text = 𗢳𘈷𘌽𘕿𗫻，𗢳𗄑𗄑𘓞𘝦。𘋢𗥤𘙇𗹢𘝦，𗫔𘎳𗺉𗄊𗄻。
@@ -12463,7 +12463,7 @@
 23	𗄻	𗄻	VERB	_	_	5	conj	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0278
+# sent_id = avatamsaka_sutra_0286
 # text_lzh = 佛子住於此，見一微塵中。無量剎道場，眾生及諸劫。
 # text_en = The sons of the Buddha who abide herein see in but a single atom countless kṣetras, congregations, living beings, and kalpas.
 # text = 𗢳𘈷𘌽𘕿𗫻，𘈩𗩾𘓊𗽀𘂤。𘖑𗆄𗂧𗚩𘒎，𗫔𘎳𗱕𗑱𘟀。
@@ -12492,7 +12492,7 @@
 23	𘟀	𘟀	VERB	_	_	5	conj	_	Gloss=see|LTranslit=le²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0279
+# sent_id = avatamsaka_sutra_0287
 # text_lzh = 如一微塵內，一切塵亦然。種種咸具足，處處皆無礙。
 # text_en = Just as this is so within but a single atom, so too is this so in all atoms in which everything is fully present in all its variations, and all places are present there with no mutual interference.
 # text = 𘈩𘓊𗽀𘂤𗍊，𗽀𗄑𗄑𘌽𗍊。𘋠𘋠𗄊𘓳𗣷，𗱕𗱕𗄊𗦁𗤋。
@@ -12521,7 +12521,7 @@
 23	𗤋	𗤋	ADV	_	Polarity=Neg	22	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	17	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0280
+# sent_id = avatamsaka_sutra_0288
 # text_lzh = 佛子住於此，普觀一切法。眾生剎及世，無起無所有。
 # text_en = The sons of the Buddha who abide herein everywhere contemplate all dharmas, beings, kṣetras, and periods of time as having no arising and as having no inherent existence.
 # text = 𗢳𘈷𘌽𘕿𗫻，𗹙𗄑𗄑𗫔𘎳。𗂧𗄑𗄑𗅉𘗽，𗄈𗤋𘟣𗤋𘝯。
@@ -12550,7 +12550,7 @@
 23	𘝯	𘝯	VERB	_	_	5	conj	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0281
+# sent_id = avatamsaka_sutra_0289
 # text_lzh = 觀察眾生等，法等如來等。剎等諸願等，三世悉平等。
 # text_en = They contemplate the equality of beings, the equality of dharmas, the equality of tathāgatas, the equality of kṣetras, the equality of vows, and the equality of all three periods of time.
 # text = 𗫔𘎳𗳦𗹙𗳦，𗌮𗆐𗳦𗂧𗳦。𗱕𘓞𗳦𘕕𘗽，𗄊𗣼𗳦𘝯𗸸。
@@ -12579,7 +12579,7 @@
 23	𗸸	𗸸	VERB	_	_	0	root	_	Gloss=look into|LTranslit=nthu¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0282
+# sent_id = avatamsaka_sutra_0290
 # text_lzh = 佛子住於此，教化諸群生。供養諸如來，思惟諸法性。
 # text_en = The sons of the Buddha who abide herein teach all the many kinds of beings, make offerings to all tathāgatas, and meditate on the nature of all dharmas.
 # text = 𗢳𘈷𘌽𘕿𗫻，𗱕𗥹𘎳𘒩𘘝。𗱕𗌮𗆐𗴿𗒀，𗱕𗹙𗎫𗪆𗆫。
@@ -12608,7 +12608,7 @@
 23	𗆫	𗆫	VERB	_	_	5	conj	_	Gloss=think, think of; thought|LTranslit=rlər²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0283
+# sent_id = avatamsaka_sutra_0291
 # text_lzh = 無量千萬劫，所修願智行。廣大不可量，稱揚莫能盡。
 # text_en = The vows, wisdom, and practices they have cultivated for countless thousands of myriads of kalpas are so vast as to be immeasurable and are such that no one could ever finish praising them.
 # text = 𘖑𗆄𗡞𗕑𗑱，𘙇𗹢𘓞𘄡𘝦。𗾟𘜶𗆄𘏚𗤋，𗡙𗜓𗋃𘖑𗩱。
@@ -12637,7 +12637,7 @@
 23	𗩱	𗩱	AUX	_	_	21	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
 24	。	。	PUNCT	_	_	20	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0284
+# sent_id = avatamsaka_sutra_0292
 # text_lzh = 彼諸大勇猛，所行無障礙。安住於此中，我合掌敬禮。
 # text_en = I press my palms together in respect and bow down in reverence to all those greatly courageous ones who, with their unimpeded spheres of action, dwell here in this place.
 # text = 𗋕𗱕𘜶𗹡𗷸，𘕂𗎘𗦁𗄿𗤋。𘌽𘂤𗄊𘗲𗫻，𘃎𘜼𗼋𗍽𗧓。
@@ -12666,7 +12666,7 @@
 23	𗧓	𗧓	AUX	_	Person=1	22	aux	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0285
+# sent_id = avatamsaka_sutra_0293
 # text_lzh = 諸佛之長子，聖德慈氏尊。我今恭敬禮，願垂顧念我！
 # text_en = I now bow down in reverence to this eldest son of the buddhas so possessed of the āryas’ qualities, the Venerable Maitreya. May he extend his kindly concern to me.
 # text = 𗱕𗢳𗗙𘈷𗌰，𗼃𗣼𗕿𗤳𗖻。𗧓𗫈𗼋𗍽𗧓，𗕿𘖛𗧓𗗙𗆫。
@@ -12695,7 +12695,7 @@
 23	𗆫	𗆫	VERB	_	_	16	conj	_	Gloss=think, think of; thought|LTranslit=rlər²|SpaceAfter=No
 24	。	。	PUNCT	_	_	16	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0286
+# sent_id = avatamsaka_sutra_0294
 # text_lzh = 爾時，善財童子以如是等一切菩薩無量稱揚讚歎法，而毘盧遮那莊嚴藏大樓閣中讚諸菩薩已，曲躬合掌，恭敬頂禮，一心願見彌勒菩薩親近供養；
 # text_en = Then, having used countless bodhisattva praises such as these to praise the bodhisattvas dwelling in that immense tower, the Chamber of Vairocana’s Adornments, the youth Sudhana bent forward humbly with his palms pressed together in respect and bowed down in reverence, single-mindedly praying to be able to see Maitreya Bodhisattva, draw near to him, and make offerings to him.
 # text = 𗉘𘝨𗩴𘔮𘁛𘞁𘌽𗍊𘆄𘋢𗥤𗄑𗄑𗗙𘖑𗆄𗖍𗡙𗜓𗭪𗹙𘂎𗁡𘒃𗎀𗅾𗵽𘆡𗔇𘜶𗹶𗘲𗅁𗱕𘋢𗥤𗗙𗡙𗜓𘃪𗅉𗴢𗁌𘃎𘜼𗼋𗧋𗵣𘐔𗈪𗤶𘂎𗓁𗓁𘋢𗥤𗗙𗶚𗦍𗴿𗒀𘟀𗧠。
@@ -12760,7 +12760,7 @@
 59	𗧠	𗧠	VERB	_	_	0	root	_	Gloss=desire, wish, lust, to want|LTranslit=qae̱h²|SpaceAfter=No
 60	。	。	PUNCT	_	_	59	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0288
+# sent_id = avatamsaka_sutra_0295
 # text_lzh = 乃見彌勒菩薩摩訶薩從別處來，無量天、龍、夜叉、乾闥婆、阿脩羅、迦樓羅、緊那羅、摩睺羅伽王，釋、梵、護世，及本生處無量眷屬、婆羅門眾，及餘無數百千眾生，前後圍遶而共來向莊嚴藏大樓觀所。
 # text_en = He then saw Maitreya Bodhisattva-mahāsattva arriving from some other place surrounded by a measureless retinue of countless kings of the devas, dragons, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, and mahoragas, Śakra, Brahmā, the World-Protecting Deva Kings, as well as by a measureless retinue from the land of his birth, congregations of brahmans, and countless other hundreds of thousands of beings, all of whom came together with him to that immense Chamber of Adornments tower.
 # text = 𗓁𗓁𘏞𗢈𗓚𘄽𗢈𘈒𗏣𘙇𗄼𘖑𗆄𘓱𗵃𗥪𘀺𗯊𗣩𗣧𗠝𘏱𗓽𗡝𗜪𗓽𗷭𗅾𗓽𘉒𗺹𗓽𘀺𘟙𗷅𗏆𗯨𗓑𗅉𗰜𘎳𘏚𘖑𗆄𗑟𘎆𗣧𗓽𗐺𗫔𗅉𘈒𘜔𗤋𘊝𗡞𗫔𘎳𗥦𘚔𗋪𗹰𗄊𗦬𗵽𘆡𗔇𘜶𗹶𗘲𘋩𘙌𗄼𘟀。
@@ -12823,7 +12823,7 @@
 57	𘟀	𘟀	VERB	_	_	0	root	_	Gloss=see|LTranslit=le²|SpaceAfter=No
 58	。	。	PUNCT	_	_	57	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0290
+# sent_id = avatamsaka_sutra_0296
 # text_lzh = 善財見已，歡喜踴躍，五體投地。
 # text_en = When Sudhana saw this, he was overcome with joyous exultation and bowed down in a complete reverential prostration
 # text = 𗩴𘔮𘟀𗅉𘚻𘅎𘙇𘇤𗏁𗛆𗼻𗖖。
@@ -12841,7 +12841,7 @@
 12	𗖖	𗖖	VERB	_	_	0	root	_	Gloss=tell, inform|LTranslit=nəh¹|SpaceAfter=No
 13	。	。	PUNCT	_	_	12	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0291
+# sent_id = avatamsaka_sutra_0297
 # text_lzh = 時，彌勒菩薩觀察善財，指示大眾，歎其功德，而說頌曰：
 # text_en = Whereupon Maitreya Bodhisattva looked at Sudhana, pointed him out to that huge congregation, praised his meritorious qualities, and then spoke these verses:
 # text = 𗿳𗓁𗓁𘋢𗥤𗩴𘔮𗗙𘝯𗸸𘜶𗫔𗙼𗙷𗩴𘔮𗗙𘈨𗳱𗗙𗣼𘉐𗡙𗜓𗖍𘒣𘙇𘎪。
@@ -12874,7 +12874,7 @@
 27	𘎪	𘎪	VERB	_	_	0	root	_	Gloss=speak, talk, say|LTranslit=ntshe¹|SpaceAfter=No
 28	。	。	PUNCT	_	_	27	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0292
+# sent_id = avatamsaka_sutra_0298
 # text_lzh = 汝等觀善財，智慧心清淨。為求菩提行，而來至我所。
 # text_en = You should all regard this Sudhana whose aspiration for wisdom is pure. It is to seek the bodhi practices that he comes here into my presence.
 # text = 𗍳𘆄𗩴𘔮𗗙，𘄡𘟛𗤶𗑗𘝯。𘏞𘛛𘝦𗴿𘔼，𗧓𘋩𘙇𗆐𘉞。
@@ -12902,7 +12902,7 @@
 22	𘉞	𘉞	AUX	_	Person=2	21	aux	_	Gloss=auxilary word, second person indicator|LTranslit=na²|SpaceAfter=No
 23	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0293
+# sent_id = avatamsaka_sutra_0299
 # text_lzh = 善來圓滿慈，善來清淨悲。善來寂滅眼，修行無懈倦。
 # text_en = Welcome, O you of completely full kindness. Welcome, O you of pure compassion. Welcome, O you whose gaze is quiescent. May you be free of weariness in your cultivation.
 # text = 𗵐𗆐𘍞𘏋𗕿，𗵐𗆐𘄎𗑗𗈁。𗵐𗆐𗘺𗈞𗑉，𗹢𗭍𘀀𘈐𗤋。
@@ -12931,7 +12931,7 @@
 23	𗤋	𗤋	ADV	_	Polarity=Neg	22	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	2	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0294
+# sent_id = avatamsaka_sutra_0300
 # text_lzh = 善來清淨意，善來廣大心。善來不退根，修行無懈倦。
 # text_en = Welcome, O you of pure aspiration. Welcome, O you who are possessed of vast mind. Welcome, O you of irreversible faculties. May you be free of weariness in your cultivation.
 # text = 𗵐𗆐𘄎𗑗𗉣，𗵐𗆐𗾟𘜶𗤶。𗵐𗆐𗅋𗳜𗆮，𗹢𗭍𘀀𘈐𗤋。
@@ -12960,7 +12960,7 @@
 23	𗤋	𗤋	ADV	_	Polarity=Neg	22	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	2	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0295
+# sent_id = avatamsaka_sutra_0301
 # text_lzh = 善來不動行，常求善知識。了達一切法，調伏諸群生。
 # text_en = Welcome, O you of unshakable practice, you who always search for good spiritual guides, you who completely understand all dharmas, you who are devoted to training the many kinds of beings.
 # text = 𗵐𗆐𗅋𗚛𘝦，𗏹𗩴𗄻𗹬𗴿。𗹙𗄑𗄑𗥤𗶨，𗱕𗥹𘎳𗌻𗛮。
@@ -12989,7 +12989,7 @@
 23	𗛮	𗛮	VERB	_	_	11	conj	_	Gloss=bend over; resign oneself to, submit to|LTranslit=nvwə̱¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	2	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0296
+# sent_id = avatamsaka_sutra_0302
 # text_lzh = 善來行妙道，善來住功德。善來趣佛果，未曾有疲倦。
 # text_en = Welcome, O you who practice the marvelous path. Welcome, O you who dwell in the meritorious qualities. Welcome, O you who progress toward the fruit of buddhahood and have never succumbed to weariness.
 # text = 𗵐𗆐𗤓𗵘𗭍，𗵐𗆐𗣼𘉐𗫻。𗵐𗆐𗢳𗫴𗷖，𘀀𘈐𘟣𗷝𗬬。
@@ -13018,7 +13018,7 @@
 23	𗬬	𗬬	ADV	_	_	21	advmod	_	Gloss=ever; to have already; Sofronov's pluperfect indicator|LTranslit=de²|SpaceAfter=No
 24	。	。	PUNCT	_	_	2	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0297
+# sent_id = avatamsaka_sutra_0303
 # text_lzh = 善來德為體，善來法所滋。善來無邊行，世間難可見。
 # text_en = Welcome, O you for whom the qualities are your very essence. Welcome, O you who take the Dharma as your source of sustenance. Welcome, O you of the boundless practices. You are one who is only rarely encountered in the world.
 # text = 𗵐𗆐𗣼𘓷𗨻，𗵐𗆐𗹙𘑨𗡼。𗵐𗆐𗎘𗤋𘝦，𗯨𘂤𘟀𘏚𗤋。
@@ -13047,7 +13047,7 @@
 23	𗤋	𗤋	VERB	_	Polarity=Neg	2	parataxis	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	2	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0298
+# sent_id = avatamsaka_sutra_0304
 # text_lzh = 善來離迷惑，世法不能染。利衰毀譽等，一切無分別。
 # text_en = Welcome, O you who have abandoned delusion, whom worldly dharmas are unable to sully, and who, in issues of gain, loss, disrepute, fame, and such, make no discriminations at all.
 # text = 𗵐𗆐𗈦𘝌𗈜，𗯨𗹙𗝡𘖑𗩱。𘜘𗳌𘊋𗡙𘆄，𗄑𗄑𗠷𗷎𗤋。
@@ -13076,7 +13076,7 @@
 23	𗤋	𗤋	ADV	_	Polarity=Neg	22	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	2	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0299
+# sent_id = avatamsaka_sutra_0305
 # text_lzh = 善來施安樂，調柔堪受化。諂誑瞋慢心，一切悉除滅。
 # text_en = Welcome, O you who are a bestower of happiness, who are pliant and capable of accepting teaching, and who have completely rid yourself of all thoughts of flattery, deception, anger, and pride.
 # text = 𗵐𗆐𘗲𗴴𘈈，𗡡𘟔𘘝𗨙𗟭。𘗫𘗯𗕣𗉫𗤶，𗄑𗄑𗄊𗟥𗈞。
@@ -13105,7 +13105,7 @@
 23	𗈞	𗈞	VERB	_	_	10	conj	_	Gloss=extinguish, put out|LTranslit=rdzar²|SpaceAfter=No
 24	。	。	PUNCT	_	_	2	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0300
+# sent_id = avatamsaka_sutra_0306
 # text_lzh = 善來真佛子，普詣於十方。增長諸功德，調柔無懈倦。
 # text_en = Welcome, O you who are a true son of the Buddha who travels to pay respects in all the ten directions, increasing the growth of your meritorious qualities while remaining pliant and free of indolence and weariness.
 # text = 𗵐𗆐𗢳𘈷𗒘，𗰭𗏣𘕿𗄊𗶷。𗱕𗣼𘉐𘎲𘃸，𗡡𘟔𗆒𗖼𗤋。
@@ -13134,7 +13134,7 @@
 23	𗤋	𗤋	ADV	_	Polarity=Neg	22	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	2	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0301
+# sent_id = avatamsaka_sutra_0307
 # text_lzh = 善來三世智，遍知一切法。普生功德藏，修行不疲厭。
 # text_en = Welcome, O you who possess the knowledge of the three times, who everywhere know all dharmas, who give birth to a treasury of all meritorious qualities, and whose cultivation never succumbs to weariness.
 # text = 𗵐𗆐𘕕𘗽𘄡，𗹙𗄑𗄑𗄊𗄻。𗣼𘉐𗔇𗄊𗄈，𗹢𗭍𗅋𘀀𘈐。
@@ -13163,7 +13163,7 @@
 23	𘈐	𘈐	ADJ	_	_	17	conj	_	Gloss=weary, tired|LTranslit=ryar²|SpaceAfter=No
 24	。	。	PUNCT	_	_	2	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0302
+# sent_id = avatamsaka_sutra_0308
 # text_lzh = 文殊德雲等，一切諸佛子。令汝至我所，示汝無礙處。
 # text_en = Mañjuśrī, Meghaśrī, and the rest, all those sons of the Buddha, sent you here to my abode, so that I can show you the realm of the unimpeded.
 # text = 𗟦𘞐𗣼𗋑𘆄，𗱕𗢳𘈷𗄑𗄑。𗧓𘋩𘙇𘕖𘉞，𗦁𗤋𘙌𗖢𘉞。
@@ -13191,7 +13191,7 @@
 22	𘉞	𘉞	AUX	_	Person=2	21	aux	_	Gloss=auxilary word, second person indicator|LTranslit=na²|SpaceAfter=No
 23	。	。	PUNCT	_	_	21	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0303
+# sent_id = avatamsaka_sutra_0309
 # text_lzh = 具修菩薩行，普攝諸群生。如是廣大人，今來至我所。
 # text_en = You have completely cultivated the bodhisattva practices and have everywhere gathered in the many beings. A person of such vast qualities as this has now arrived here at my abode.
 # text = 𘋢𗥤𘝦𗄊𗹢，𗱕𗥹𘎳𗄊𗪲。𘌽𗍊𗾟𘜶𘓐，𗧓𘋩𘙇𗆐𘉞。
@@ -13220,7 +13220,7 @@
 23	𘉞	𘉞	AUX	_	Person=2	22	aux	_	Gloss=auxilary word, second person indicator|LTranslit=na²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0304
+# sent_id = avatamsaka_sutra_0310
 # text_lzh = 為求諸如來，清淨之境界。問諸廣大願，而來至我所。
 # text_en = It was in order to seek out the pure realms of all tathāgatas that he has inquired about all the vast vows and thus has come here to my abode.
 # text = 𗱕𗢳𗌮𗆐𗗙，𘄎𗑗𗱕𘃺𗐯。𗱕𘜶𘓞𗤄𘔼，𗧓𘋩𘙇𗆐𘉞。
@@ -13249,7 +13249,7 @@
 23	𘉞	𘉞	AUX	_	Person=2	22	aux	_	Gloss=auxilary word, second person indicator|LTranslit=na²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0305
+# sent_id = avatamsaka_sutra_0311
 # text_lzh = 去來現在佛，所成諸行業。汝欲皆修學，而來至我所。
 # text_en = It was due to your aspiration to cultivate the training in all the practices and works accomplished by the buddhas of the past, future, and present that you have come here to my abode.
 # text = 𘕕𘗽𗢳𗄑𗄑，𗝾𗵆𗱕𘝦𘈽。𗍳𗹢𗫦𗧠𘔼，𗧓𘋩𘙇𗆐𘉞。
@@ -13278,7 +13278,7 @@
 23	𘉞	𘉞	AUX	_	Person=2	22	aux	_	Gloss=auxilary word, second person indicator|LTranslit=na²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0306
+# sent_id = avatamsaka_sutra_0312
 # text_lzh = 汝於善知識，欲求微妙法。欲受菩薩行，而來至我所。
 # text_en = It was because you wished to seek the sublime Dharma and wished to receive the bodhisattva practices from the good spiritual guides that you have come here to my abode.
 # text = 𗍳𗩴𗄻𗹬𘋩，𗩾𗤓𗹙𗴿𗧠。𘋢𗥤𘝦𗨙𗧠，𗧓𘋩𘙇𗆐𘉞。
@@ -13307,7 +13307,7 @@
 23	𘉞	𘉞	AUX	_	Person=2	22	aux	_	Gloss=auxilary word, second person indicator|LTranslit=na²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0307
+# sent_id = avatamsaka_sutra_0313
 # text_lzh = 汝念善知識，諸佛所稱歎。令汝成菩提，而來至我所。
 # text_en = It was because you recalled that the good spiritual guides are those who are praised by all buddhas and are the cause for your attainment of bodhi that you have come here to my abode.
 # text = 𗍳𗩴𗄻𗹬𗆫，𗱕𗢳𘙌𘑨𗡼。𗍳𘏞𘛛𗵆𘔼，𗧓𘋩𘙇𗆐𘉞。
@@ -13335,7 +13335,7 @@
 22	𘉞	𘉞	AUX	_	Person=2	21	aux	_	Gloss=auxilary word, second person indicator|LTranslit=na²|SpaceAfter=No
 23	。	。	PUNCT	_	_	21	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0308
+# sent_id = avatamsaka_sutra_0314
 # text_lzh = 汝念善知識，生我如父母。養我如乳母，增我菩提分，
 # text_en = It was because you recalled, “The good spiritual guides give birth to me like my own parents, raise me like nursemaids, enable the growth of my limbs of bodhi,
 # text = 𗍳𗩴𗄻𗹬𗆫，𗧓𘔴𗔀𗴺𗍊。𗧓𗋿𗸱𘙫𗍊，𗧓𘏞𘛛𗦫𘎲。
@@ -13363,7 +13363,7 @@
 22	𘎲	𘎲	VERB	_	_	8	conj	_	Gloss=increase, raise, add|LTranslit=lhu̱¹|SpaceAfter=No
 23	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0309
+# sent_id = avatamsaka_sutra_0315
 # text_lzh = 如醫療眾疾，如天灑甘露。如日示正道，如月轉淨輪，
 # text_en = cure my many disorders like physicians, shower me with the elixir of immortality like devas, show me the right road like the sun, are like the purifying orb of the moon,
 # text = 𗇫𗇋𗥓𗇫𗍊，𗹦𘉌𗗘𗼮𗍊。𗾞𗣼𗵘𗖢𗍊，𗼑𘄎𗑗𘚢𗍊。
@@ -13392,7 +13392,7 @@
 23	𗍊	𗍊	ADP	_	_	22	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 24	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0310
+# sent_id = avatamsaka_sutra_0316
 # text_lzh = 如山不動搖，如海無增減。如船師濟渡，而來至我所。
 # text_en = are like the mountains that are unshakable, are like the ocean that never increases or decreases, and are like the ship captain who rescues me and takes me across.” Hence you have come here to my abode.
 # text = 𘑗𗅋𗚛𘄬𗍊，𗗚𘎲𗟥𗤋𗍊。𗊂𘘚𗌗𗰛𗍊，𗧓𘋩𘙇𗆐𘉞。
@@ -13421,7 +13421,7 @@
 23	𘉞	𘉞	AUX	_	Person=2	22	aux	_	Gloss=auxilary word, second person indicator|LTranslit=na²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0311
+# sent_id = avatamsaka_sutra_0317
 # text_lzh = 汝觀善知識，猶如大猛將。亦如大商主，又如大導師，
 # text_en = You look upon the good spiritual guides as like great valiant generals, as like great leaders of merchants, as like great caravan guides,
 # text = 𗍳𗩴𗄻𗹬𘝯，𘜶𗹡𗩈𗋚𗍊。𗅉𘜶𗗥𗸮𗍊，𗅉𘜶𗀚𘘚𗍊。
@@ -13450,7 +13450,7 @@
 23	𗍊	𗍊	ADP	_	_	22	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0312
+# sent_id = avatamsaka_sutra_0318
 # text_lzh = 能建正法幢，能示佛功德。能滅諸惡道，能開善趣門，
 # text_en = as able to erect the banner of right Dharma, as able to show the buddhas’ meritorious qualities, as able to destroy all the wretched rebirth destinies, as able to open the gates to the good rebirth destinies,
 # text = 𗹙𘞃𗰱𗄈𗩱，𗢳𗣼𘉐𗖢𗩱。𗱕𘊄𗵘𗈞𗩱，𗩴𗷖𘗠𘏒𗩱。
@@ -13479,7 +13479,7 @@
 23	𗩱	𗩱	AUX	_	_	22	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
 24	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0313
+# sent_id = avatamsaka_sutra_0319
 # text_lzh = 能顯諸佛身，能守諸佛藏。能持諸佛法，是故願瞻奉。
 # text_en = as able to reveal the bodies of all buddhas as able to guard the treasury of all buddhas, and as able to preserve the Dharma of all buddhas. Therefore you wish to look up to and serve them.
 # text = 𗱕𗢳𘛽𗏴𗩱，𗱕𗢳𗔇𗪀𗩱。𗱕𗢳𗹙𗧯𗩱，𘌽𘔼𘝯𗦾𗧠。
@@ -13508,7 +13508,7 @@
 23	𗧠	𗧠	VERB	_	_	4	parataxis	_	Gloss=desire, wish, lust, to want|LTranslit=qae̱h²|SpaceAfter=No
 24	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0314
+# sent_id = avatamsaka_sutra_0320
 # text_lzh = 欲滿清淨智，欲具端正身。欲生尊貴家，而來至我所。
 # text_en = It is because you wish to reach fulfillment in pure wisdom, because you wish to be fully endowed with the fine body, and because you wish to be born into the venerable and noble clan that you have come here to my abode.
 # text = 𘄎𗑗𘄡𘏋𗧠，𗵽𗵽𘛽𘓳𗧠。𗖻𗴢𗫌𘎳𗧠，𗧓𘋩𘙇𗆐𘉞。
@@ -13537,7 +13537,7 @@
 23	𘉞	𘉞	AUX	_	Person=2	22	aux	_	Gloss=auxilary word, second person indicator|LTranslit=na²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0315
+# sent_id = avatamsaka_sutra_0321
 # text_lzh = 汝等觀此人，親近善知識。隨其所修學，一切應順行。
 # text_en = You should all look at this person who has drawn near to the good spiritual guides and followed what they have cultivated and trained in. You should accord in practice with all that he has done.
 # text = 𗍳𘆄𘌽𘓐𘝯，𗩴𗄻𗹬𗦍𗶚。𗖀𗖵𗄊𗹢𗫦，𗄑𗄑𗖵𗡶𗭍。
@@ -13566,7 +13566,7 @@
 23	𗭍	𗭍	VERB	_	_	5	parataxis	_	Gloss=go, send|LTranslit=dźeh¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0316
+# sent_id = avatamsaka_sutra_0322
 # text_lzh = 以昔福因緣，文殊令發心。隨順無違逆，修行不懈倦。
 # text_en = Due to the causes and conditions of past merit, Mañjuśrī enabled him to make the resolve, accord with [the teachings], never oppose them, and cultivate them without becoming lax or weary.
 # text = 𗖏𗼕𗦫𘔼𗖵𗟦𘞐𘒩𘘝𘂎𗍳𗗙𗤶𗄈𗖵𗖵𗡶𘇄𗄪𗤋𗹢𗭍𗆒𗖼𗤋。
@@ -13596,7 +13596,7 @@
 24	𗤋	𗤋	ADV	_	Polarity=Neg	23	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 25	。	。	PUNCT	_	_	13	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0317
+# sent_id = avatamsaka_sutra_0323
 # text_lzh = 父母與親屬，宮殿及財產。一切皆捨離，謙下求知識。
 # text_en = His father, his mother, and his relatives as well as his palace and his wealth— He relinquished all of this to humbly seek the good spiritual guides.
 # text = 𗔀𗴺𗅉𗶚𘚕，𗎭𗃵𗅉𗠇𘔮。𗄑𗄑𗄊𗫩𗈜，𘝵𘙂𗄻𗹬𗴿。
@@ -13625,7 +13625,7 @@
 23	𗴿	𗴿	VERB	_	_	0	root	_	Gloss=pray|LTranslit=kuh¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0318
+# sent_id = avatamsaka_sutra_0324
 # text_lzh = 淨治如是意，永離世間身。當生佛國土，受諸勝果報。
 # text_en = He has purified resolve such as this, has forever renounced the mundane body, and will be born in a buddha land where he will enjoy the supreme karmic rewards.
 # text = 𘌽𗍊𗉣𗇫𗑗，𗯨𘂤𘛽𘘂𗈜。𗏙𗢳𗂧𘍞𘟀，𗱕𗠁𗫴𗱱𗨙。
@@ -13654,7 +13654,7 @@
 23	𗨙	𗨙	VERB	_	_	11	parataxis	_	Gloss=bear, suffer; to receive|LTranslit=lheh²|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0319
+# sent_id = avatamsaka_sutra_0325
 # text_lzh = 善財見眾生，生老病死苦。為發大悲意，勤修無上道。
 # text_en = Sudhana saw the sufferings of beings undergoing birth, aging, sickness, and death, and for their sakes, made the greatly compassionate resolve to diligently cultivate the unexcelled path.
 # text = 𗩴𘔮𗫔𘎳𗗙，𘎳𘒺𗥓𗈶𘟀。𘌽𘔼𘜶𗈁𗄈，𗩾𗨁𗵘𗸐𗹢。
@@ -13683,7 +13683,7 @@
 23	𗹢	𗹢	VERB	_	_	0	root	_	Gloss=build|LTranslit=doh²|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0320
+# sent_id = avatamsaka_sutra_0326
 # text_lzh = 善財見眾生，五趣常流轉。為求金剛智，破彼諸苦輪。
 # text_en = Sudhana saw beings forever flowing on and turning about in the five destinies of rebirth, and sought for their sakes to acquire the vajra wisdom that breaks the cycle of all their sufferings.
 # text = 𗩴𘔮𗫔𘎳𗗙，𗏁𗷖𘆗𘚢𘟀。𗵒𘗁𘄡𗴿𘔼，𗋕𗱕𘍔𘚢𗹪。
@@ -13712,7 +13712,7 @@
 23	𗹪	𗹪	VERB	_	_	0	root	_	Gloss=destroy, damage|LTranslit=nlle²|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0321
+# sent_id = avatamsaka_sutra_0327
 # text_lzh = 善財見眾生，心田甚荒穢。為除三毒刺，專求利智犁。
 # text_en = Sudhana saw that beings’ fields of the mind are as if deserted and overgrown with weeds, and single-mindedly sought the plow of sharp wisdom, to rid them of the thorns of the three poisons.
 # text = 𗩴𘔮𗹬𘟣𘟀，𗤶𗼻𘉅𗝡𗮅。𘕒𗀀𗚶𘖗𘔼，𘄡𘗁𘖷𗸐𗴿。
@@ -13741,7 +13741,7 @@
 23	𗴿	𗴿	VERB	_	_	0	root	_	Gloss=pray|LTranslit=kuh¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0322
+# sent_id = avatamsaka_sutra_0328
 # text_lzh = 眾生處癡暗，盲冥失正道。善財為導師，示其安隱處。
 # text_en = Beings abide in the darkness of delusion where, blinded by benightedness, they have lost the right path. Sudhana will serve them as a guide who shows them the peaceful and secure place.
 # text = 𗫔𘎳𗭩𘚠𗫻，𗎞𗤼𗣼𗵘𘐩。𗩴𘔮𗀚𘘚𗨻，𘗲𗵐𗯩𘙌𗖢。
@@ -13770,7 +13770,7 @@
 23	𗖢	𗖢	VERB	_	_	0	root	_	Gloss=indicate, instruct|LTranslit=nne̱²|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0323
+# sent_id = avatamsaka_sutra_0329
 # text_lzh = 忍鎧解脫乘，智慧為利劍。能於三有內，破諸煩惱賊。
 # text_en = Taking patience as his armor, the liberations as his vehicle, and wisdom as his sharp sword, he will be able to destroy the brigands of the afflictions throughout the three realms of existence.
 # text = 𘒮𘗌𗧐𗇘𗒛，𘄡𘟛𘟫𘗁𘂎。𘕕𘟣𗄑𗄑𘂤，𗱕𗉛𗷫𘝚𗹪。
@@ -13799,7 +13799,7 @@
 23	𗹪	𗹪	VERB	_	_	0	root	_	Gloss=destroy, damage|LTranslit=nlle²|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0324
+# sent_id = avatamsaka_sutra_0330
 # text_lzh = 善財法船師，普濟諸含識。令過爾焰海，疾至淨寶洲。
 # text_en = Sudhana will become the captain of the ship of Dharma that everywhere rescues all sentient beings and enables them to cross the ocean of what should be known so that they swiftly reach the isle of the jewels of purity.
 # text = 𗩴𘔮𗹙𗊂𘘚，𗱕𗫔𘎳𗄊𗌗。𗉘𗰣𗟚𗗚𗰛，𘏨𗲌𘍞𘜤𗫡。
@@ -13828,7 +13828,7 @@
 23	𗫡	𗫡	VERB	_	_	11	conj	_	Gloss=arrive|LTranslit=nə²|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0325
+# sent_id = avatamsaka_sutra_0331
 # text_lzh = 善財正覺日，智光大願輪。周行法界空，普照群迷宅。
 # text_en = Sudhana will be a sun of right enlightenment whose light of wisdom and shining orb of great vows will travel throughout the sky of the Dharma realm, everywhere illuminating the abodes of confused beings.
 # text = 𗩴𘔮𗣼𗫨𗾞，𘄡𘉍𘜶𘓞𘚢。𗹙𗐯𗲠𗄊𘕂，𗥹𘎳𗫌𗄊𗮔。
@@ -13857,7 +13857,7 @@
 23	𗮔	𗮔	VERB	_	_	17	conj	_	Gloss=shine, illuminate|LTranslit=swi̱w¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	17	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0326
+# sent_id = avatamsaka_sutra_0332
 # text_lzh = 善財正覺月，白法悉圓滿。慈定清涼光，等照眾生心。
 # text_en = Sudhana will be a moon of right enlightenment whose white dharmas of purity will become completely full. The clear and cool light of his kindness and meditative absorptions will equally illuminate the minds of beings.
 # text = 𗩴𘔮𗣼𗫨𗼑，𗩴𗹙𗄊𘍞𘏋。𗕿𗅆𘄎𘜲𘉍，𗫔𘎳𗤶𗳦𗮔。
@@ -13886,7 +13886,7 @@
 23	𗮔	𗮔	VERB	_	_	11	parataxis	_	Gloss=shine, illuminate|LTranslit=swi̱w¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0327
+# sent_id = avatamsaka_sutra_0333
 # text_lzh = 善財勝智海，依於直心住。菩提行漸深，出生眾法寶。
 # text_en = Sudhana will become an ocean of supreme knowledge abiding in reliance on his resolute intentions and his ever-deepening bodhi practices which shall then produce the many jewels of the Dharma.
 # text = 𗩴𘔮𘄡𗠁𗗚，𗣼𗹐𗤶𗖵𗫻。𘏞𘛛𘝦𘚔𘃸，𗫔𗹙𘏨𗧊𘎳。
@@ -13914,7 +13914,7 @@
 22	𘎳	𘎳	VERB	_	_	11	conj	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
 23	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0328
+# sent_id = avatamsaka_sutra_0334
 # text_lzh = 善財大心龍，昇於法界空。興雲霔甘澤，生成一切果。
 # text_en = Sudhana, the dragon of the great resolve, is rising up into the sky of the Dharma realm where he will spread the clouds and pour down the sweet rains that will bring forth and ripen all the fruits [of the path].
 # text = 𗩴𘔮𘜶𗕿𗵃，𗹙𗐯𗲠𘇂𗶷。𗋑𗄈𘉌𗗘𗼮，𗫴𗄑𗄑𗧊𗵆。
@@ -13943,7 +13943,7 @@
 23	𗵆	𗵆	VERB	_	_	11	conj	_	Gloss=accomplish|LTranslit=śeṃ¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0329
+# sent_id = avatamsaka_sutra_0335
 # text_lzh = 善財然法燈，信炷慈悲油。念器功德光，滅除三毒暗。
 # text_en = Sudhana will light the lamp of the Dharma with its wick of faith, its oil of kindness and compassion, its font of mindfulness, and its light of meritorious qualities that entirely extinguishes the darkness of the three poisons.
 # text = 𗩴𘔮𗹙𗉃𘐂，𘓟𘁱𗕿𗈁𘟡。𗆫𘛇𗣼𘉐𘉍，𘕕𗀀𗤼𗟥𗈞。
@@ -13972,7 +13972,7 @@
 23	𗈞	𗈞	VERB	_	_	5	conj	_	Gloss=extinguish, put out|LTranslit=rdzar²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0330
+# sent_id = avatamsaka_sutra_0336
 # text_lzh = 覺心迦羅邏，悲胞慈為肉。菩提分肢節，長於如來藏。
 # text_en = His bodhi resolve is the kalala embryo. Compassion is the womb, kindness is the flesh, and the limbs of enlightenment form the extremities as it grows in the womb of the Tathāgata.
 # text = 𗫨𗤶𗡝𗒉𗓽，𗈁𗸲𗕿𗁮𗨻。𘏞𘛛𗦫𗑝𗛆，𗌮𗆐𗔇𘎲𘞵。
@@ -13998,7 +13998,7 @@
 20	𘞵	𘞵	VERB	_	_	9	conj	_	Gloss=grow|LTranslit=dza¹|SpaceAfter=No
 21	。	。	PUNCT	_	_	9	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0331
+# sent_id = avatamsaka_sutra_0337
 # text_lzh = 增長福德藏，清淨智慧藏。開顯方便藏，出生大願藏。
 # text_en = He will increase his treasury of merit, purify his treasury of wisdom, reveal a treasury of skillful means, and produce a treasury of great vows.
 # text = 𗼕𗣼𗔇𘎲𘃸，𘄎𗑗𘄡𘟛𗔇。𗼄𘕤𗔇𗏴𘏒，𘜶𘓞𗔇𗧊𘎳。
@@ -14027,7 +14027,7 @@
 23	𘎳	𘎳	VERB	_	_	5	conj	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0332
+# sent_id = avatamsaka_sutra_0338
 # text_lzh = 如是大莊嚴，救護諸群生。一切天人中，難聞難可見。
 # text_en = With such great adornments as these he will rescue the many beings and will become one who, among all devas and men, is only rarely ever heard of or encountered.
 # text = 𘌽𗍊𘜶𗵽𘆡，𗱕𗥹𘎳𗥞𗓑。𘓐𗹦𗄑𗄑𘂤，𗓁𗣓𘟀𘂆𗣓。
@@ -14056,7 +14056,7 @@
 23	𗣓	𗣓	ADV	_	_	21	advmod	_	Gloss=hard, difficult|LTranslit=ġai̱¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0333
+# sent_id = avatamsaka_sutra_0339
 # text_lzh = 如是智慧樹，根深不可動。眾行漸增長，普蔭諸群生。
 # text_en = Such a tree of wisdom as this is one whose roots go deep and that is unshakable. His many practices will gradually grow until he everywhere provides shade for all beings.
 # text = 𘌽𗍊𘄡𘟛𘕰，𗺉𗓰𗘴𘏚𗤋。𗫔𘝦𘚔𘎲𘃸，𗱕𗫔𘎳𗄊𗐜。
@@ -14085,7 +14085,7 @@
 23	𗐜	𗐜	VERB	_	_	8	conj	_	Gloss=cover, lid, to cover|LTranslit=gha²|SpaceAfter=No
 24	。	。	PUNCT	_	_	8	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0334
+# sent_id = avatamsaka_sutra_0340
 # text_lzh = 欲生一切德，欲問一切法。欲斷一切疑，專求善知識。
 # text_en = Wishing to develop all the virtues, wishing to inquire about all dharmas, and wishing to sever all doubts, he is devoted to the search for good spiritual guides.
 # text = 𗣼𗄑𗄑𗄈𗧠，𗹙𗄑𗄑𗤄𗧠。𗆼𗄑𗄑𗧤𗧠，𗩴𗄻𗹬𗸐𗴿。
@@ -14114,7 +14114,7 @@
 23	𗴿	𗴿	VERB	_	_	0	root	_	Gloss=pray|LTranslit=kuh¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0335
+# sent_id = avatamsaka_sutra_0341
 # text_lzh = 欲破諸惑魔，欲除諸見垢。欲解眾生縛，專求善知識。
 # text_en = Wishing to destroy all the māras of the afflictions, wishing to do away with the defilement of the various views, and wishing to liberate beings from their bonds, he is devoted to searching for good spiritual guides.
 # text = 𗱕𘝌𗢞𗹪𗧠，𗱕𘟀𘓨𗟥𗧠。𗫔𘎳𗇖𘏒𗧠，𗩴𗄻𗹬𗸐𗴿。
@@ -14143,7 +14143,7 @@
 23	𗴿	𗴿	VERB	_	_	0	root	_	Gloss=pray|LTranslit=kuh¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0336
+# sent_id = avatamsaka_sutra_0342
 # text_lzh = 當滅諸惡道，當示人天路。令修功德行，疾入涅槃城。
 # text_en = He will destroy all the wretched rebirth destinies, will reveal the road to rebirth among humans and devas, and will enable cultivation of practices that produce meritorious qualities and lead to swift entry into the city of nirvāṇa.
 # text = 𗏡𗱕𘊄𗵘𗈞，𗏡𘓐𗹦𗵘𗖢。𗣼𘉐𘝦𗹢𗭍，𘈬𗦺𗍁𘃽𗟻。
@@ -14171,7 +14171,7 @@
 22	𗟻	𗟻	AUX	_	_	21	aux	_	Gloss=make; marker of causative construction|LTranslit=phi¹|SpaceAfter=No
 23	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0337
+# sent_id = avatamsaka_sutra_0343
 # text_lzh = 當度諸見難，當截諸見網。當枯愛欲水，當示三有道。
 # text_en = He will liberate others from the difficulties produced by views, will cut through the net of views, will dry up the waters of craving, and will reveal the paths out of the three realms of existence.
 # text = 𗏡𗱕𘟀𗧹𗌗，𗏡𗱕𘟀𗙲𗧤。𗏡𘟠𗧠𗋽𗁐，𗏡𘕕𘟣𗵘𗖢。
@@ -14200,7 +14200,7 @@
 23	𗖢	𗖢	VERB	_	_	5	conj	_	Gloss=indicate, instruct|LTranslit=nne̱²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0338
+# sent_id = avatamsaka_sutra_0344
 # text_lzh = 當為世依怙，當作世光明。當成三界師，示其解脫處。
 # text_en = He will become a refuge for the world, will become a light for the world, will become a teacher of those in the three realms, and will show them the way to liberation from them.
 # text = 𗏡𗯨𗖵𘘢𗨻，𗏡𗱕𘉍𗭼𗨻。𗏡𘕕𗐯𘘚𗨻，𗧐𗇘𘋩𘙌𗖢。
@@ -14229,7 +14229,7 @@
 23	𗖢	𗖢	VERB	_	_	5	conj	_	Gloss=indicate, instruct|LTranslit=nne̱²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0339
+# sent_id = avatamsaka_sutra_0345
 # text_lzh = 亦當令世間，普離諸想著。普覺煩惱睡，普出愛欲泥。
 # text_en = He will also enable those in the world to abandon their attachments to perceptions, to awaken from their slumber among the afflictions, and to escape from the mud of sensual desires.
 # text = 𗏡𗯨𘂤𗾫𗂆，𗄑𗄑𗄊𗈜𗟻。𗉛𗷫𘂤𗒾𘃌，𘟠𗧠𗋋𘂤𗣈。
@@ -14258,7 +14258,7 @@
 23	𗣈	𗣈	VERB	_	_	10	conj	_	Gloss=come; to exit|LTranslit=lhow?|SpaceAfter=No
 24	。	。	PUNCT	_	_	10	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0340
+# sent_id = avatamsaka_sutra_0346
 # text_lzh = 當了種種法，當淨種種剎。一切咸究竟，其心大歡喜。
 # text_en = He will completely understand the many different dharmas, will purify the many kinds of kṣetras, and will lead everyone to the ultimate destination, thereby filling their minds with great joyous delight.
 # text = 𗏡𘋠𘋠𗹙𗥤，𗏡𘋠𘋠𗂧𗑗。𗄑𗄑𗄊𗩾𘃪，𗤶𗉣𘜶𘚻𘅎。
@@ -14287,7 +14287,7 @@
 23	𘅎	𘅎	ADJ	_	_	5	conj	_	Gloss=happy, delighted|LTranslit=lleṃh²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0341
+# sent_id = avatamsaka_sutra_0347
 # text_lzh = 汝行極調柔，汝心甚清淨。所欲修功德，一切當圓滿。
 # text_en = Your practice has become so extremely pliant and your mind has become so very purified that, whichever meritorious qualities you wish to cultivate, they will all reach perfect fulfillment.
 # text = 𗍳𘝦𗩾𗡡𘟔，𗍳𗤶𗩾𘄎𗑗。𗣼𘉐𗹢𗭍𗧠，𗄑𗄑𗏡𘍞𘏋。
@@ -14316,7 +14316,7 @@
 23	𘏋	𘏋	VERB	_	_	0	root	_	Gloss=full, filled, packed|LTranslit=sə̱¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0342
+# sent_id = avatamsaka_sutra_0348
 # text_lzh = 不久見諸佛，了達一切法。嚴淨眾剎海，成就大菩提。
 # text_en = Before long, you will see all buddhas, will completely comprehend all dharmas, will purify the ocean of the many kṣetras, and will completely realize the great bodhi.
 # text = 𗅋𗈲𗱕𗢳𘟀，𗹙𗄑𗄑𗥤𗶨。𗫔𗂧𗗚𗵽𗑗，𘜶𘏞𘛛𗵆𗨄。
@@ -14344,7 +14344,7 @@
 22	𗨄	𗨄	VERB	_	_	5	conj	_	Gloss=achievement|LTranslit=yiw²|SpaceAfter=No
 23	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0343
+# sent_id = avatamsaka_sutra_0349
 # text_lzh = 當滿諸行海，當知諸法海。當度眾生海，如是修諸行。
 # text_en = Cultivating all the practices in this way, you will fulfill the ocean of all practices, will know the ocean of all dharmas, and will liberate an ocean of beings.
 # text = 𗏡𗱕𘝦𗗚𘏋，𗏡𗱕𗹙𗗚𗄻。𗏡𗫔𘎳𗗚𗌗，𘌽𗍊𗱕𘝦𗹢。
@@ -14373,7 +14373,7 @@
 23	𗹢	𗹢	VERB	_	_	5	conj	_	Gloss=build|LTranslit=doh²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0344
+# sent_id = avatamsaka_sutra_0350
 # text_lzh = 當到功德岸，當生諸善品。當與佛子等，如是心決定。
 # text_en = Having achieved such decisive resolve as this, you will reach the far shore of meritorious qualities, will develop all the varieties of goodness, and will become the equal of the sons of the Buddha.
 # text = 𗏡𗣼𘉐𘋟𗫡，𗏡𗱕𗩴𘄿𗄈。𗏡𗢳𘈷𗑠𗳦，𘌽𗍊𗤶𘙌𗅆。
@@ -14402,7 +14402,7 @@
 23	𗅆	𗅆	ADJ	_	_	5	conj	_	Gloss=calm|LTranslit=deṃ²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0345
+# sent_id = avatamsaka_sutra_0351
 # text_lzh = 當斷一切惑，當淨一切業。當伏一切魔，滿足如是願。
 # text_en = You will cut off all the afflictions, will purify all karma, and will subdue all the māras, thus completely fulfilling vows such as these.
 # text = 𗏡𘝌𗄑𗄑𗧤，𗏡𘈽𗄑𗄑𗑗。𗏡𗢞𗄑𗄑𗛮，𘌽𗍊𘓞𘏋𗣷。
@@ -14431,7 +14431,7 @@
 23	𗣷	𗣷	VERB	_	_	5	conj	_	Gloss=full, packed, sufficient|LTranslit=lhə?|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0346
+# sent_id = avatamsaka_sutra_0352
 # text_lzh = 當生妙智道，當開正法道。不久當捨離，惑業諸苦道。
 # text_en = You will produce the path of marvelous wisdom, will open the path of right Dharma, and before long will relinquish the path of afflictions, karma, and suffering.
 # text = 𗏡𗤓𘄡𗵘𗄈，𗏡𗣼𗹙𗵘𘏒。𘝌𘈽𗱕𘍔𗵘，𗅋𗈲𗫩𗈜𗦇。
@@ -14460,7 +14460,7 @@
 23	𗦇	𗦇	AUX	_	_	22	aux	_	Gloss=must|LTranslit=lli̱w²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0347
+# sent_id = avatamsaka_sutra_0353
 # text_lzh = 一切眾生輪，沈迷諸有輪。汝當轉法輪，令其斷苦輪。
 # text_en = The sphere of all beings is sunken and confused in the wheel of all the realms of existence. You will turn the wheel of Dharma and enable them to cut off the cycle of suffering.
 # text = 𗫔𘎳𘚢𗄑𗄑，𗱕𘟣𘚢𘂤𗦍。𗍳𗏡𗹙𘚢𘈧，𗳱𘍔𘚢𗧤𗟻。
@@ -14489,7 +14489,7 @@
 23	𗟻	𗟻	AUX	_	_	22	aux	_	Gloss=make; marker of causative construction|LTranslit=phi¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	17	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0348
+# sent_id = avatamsaka_sutra_0354
 # text_lzh = 汝當持佛種，汝當淨法種。汝能集僧種，三世悉周遍。
 # text_en = You will preserve the lineage of the Buddha, you will purify the lineage of the Dharma, and you will gather the lineage of the Sangha and see that they pervade all three periods of time.
 # text = 𗍳𗏡𗢳𘞗𗧯，𗍳𗏡𗹙𘞗𗑗。𗍳𗏡𗗆𘞗𗘺，𘕕𘗽𗑷𗄊𗫡。
@@ -14518,7 +14518,7 @@
 23	𗫡	𗫡	VERB	_	_	5	conj	_	Gloss=arrive|LTranslit=nə²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0349
+# sent_id = avatamsaka_sutra_0355
 # text_lzh = 當斷眾愛網，當裂眾見網。當救眾苦網，當成此願網。
 # text_en = You will cut away the net of the many cravings, will rend the net of the many views, will rescue beings from the net of their many sufferings, and will successfully fulfill this net of vows.
 # text = 𗏡𗫔𘟠𗙲𗧤，𗏡𗫔𘟀𗙲𘊁。𗏡𗫔𘍔𗙲𗥞，𗏡𘌽𘓞𗙲𗵆。
@@ -14547,7 +14547,7 @@
 23	𗵆	𗵆	VERB	_	_	5	conj	_	Gloss=accomplish|LTranslit=śeṃ¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0350
+# sent_id = avatamsaka_sutra_0356
 # text_lzh = 當度眾生界，當淨國土界。當集智慧界，當成此心界。
 # text_en = You will liberate the realms of beings, will purify the realms of lands, will accumulate the realms of wisdom, and will succeed in the realm of your resolute intentions.
 # text = 𗏡𗫔𘎳𗐯𗌗，𗏡𗂧𘍞𗐯𗑗。𗏡𘄡𘟛𗐯𗘺，𗏡𘌽𗤶𗐯𗵆。
@@ -14576,7 +14576,7 @@
 23	𗵆	𗵆	VERB	_	_	5	conj	_	Gloss=accomplish|LTranslit=śeṃ¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0351
+# sent_id = avatamsaka_sutra_0357
 # text_lzh = 當令眾生喜，當令菩薩喜。當令諸佛喜，當成此歡喜。
 # text_en = You will arouse joy in beings, will arouse joy among the bodhisattvas, and will arouse joy in the buddhas. You will produce joyous delight such as this.
 # text = 𗏡𗫔𘎳𘚻𗟻，𗏡𘋢𗥤𘚻𗟻。𗏡𗱕𗢳𘚻𗟻，𗏡𘌽𘚻𘅎𗵆。
@@ -14605,7 +14605,7 @@
 23	𗵆	𗵆	VERB	_	_	4	conj	_	Gloss=accomplish|LTranslit=śeṃ¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0352
+# sent_id = avatamsaka_sutra_0358
 # text_lzh = 當見一切趣，當見一切剎。當見一切法，當成此佛見。
 # text_en = You will see all the rebirth destinies, will see all the kṣetras, will see all dharmas, and will acquire the vision of this buddha.
 # text = 𗏡𗷖𗄑𗄑𘟀，𗏡𗂧𗄑𗄑𘟀。𗏡𗹙𗄑𗄑𘟀，𗏡𘌽𗢳𘟀𗵆。
@@ -14634,7 +14634,7 @@
 23	𗵆	𗵆	VERB	_	_	5	conj	_	Gloss=accomplish|LTranslit=śeṃ¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0353
+# sent_id = avatamsaka_sutra_0359
 # text_lzh = 當放破暗光，當放息熱光。當放滅惡光，滌除三有苦。
 # text_en = You will emanate the light that dispels darkness, will emanate the light that extinguishes heat, will emanate the light that extinguishes evil and will rinse away the sufferings of the three realms of existence.
 # text = 𗏡𗤼𗹪𘉍𘐉，𗏡𗉅𗁿𘉍𘐉。𗏡𘊄𗈞𘉍𘐉，𘕕𘟣𘍔𗟥𗈞。
@@ -14663,7 +14663,7 @@
 23	𗈞	𗈞	VERB	_	_	5	conj	_	Gloss=extinguish, put out|LTranslit=rdzar²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0354
+# sent_id = avatamsaka_sutra_0360
 # text_lzh = 當開天趣門，當開佛道門。當示解脫門，普使眾生入。
 # text_en = You will open the gates to the celestial rebirth destinies, will open the gates to the path to buddhahood, will reveal the gates to liberation, and will cause all beings to enter them.
 # text = 𗏡𗹦𗷖𘕿𘏒，𗏡𗢳𗵘𘗠𘏒。𗏡𗧐𗇘𘗠𗖢，𗫔𘎳𗄊𘃽𗟻。
@@ -14692,7 +14692,7 @@
 23	𗟻	𗟻	AUX	_	_	22	aux	_	Gloss=make; marker of causative construction|LTranslit=phi¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0355
+# sent_id = avatamsaka_sutra_0361
 # text_lzh = 當示於正道，當絕於邪道。如是勤修行，成就菩提道。
 # text_en = You will show them the right path and will cut off access to the wrong paths. Diligently cultivating in this way, you will succeed in completing the path to bodhi.
 # text = 𗏡𗣼𗵘𘕿𗖢，𗏡𗹏𗵘𗧤𗏙。𘌽𗍊𗸐𗹢𗭍，𘏞𘛛𗵘𗵆𗨄。
@@ -14720,7 +14720,7 @@
 22	𗨄	𗨄	VERB	_	_	5	conj	_	Gloss=achievement|LTranslit=yiw²|SpaceAfter=No
 23	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0356
+# sent_id = avatamsaka_sutra_0362
 # text_lzh = 當修功德海，當度三有海。普使群生海，出於眾苦海。
 # text_en = You will cultivate the ocean of meritorious qualities, will liberate those in the ocean of the three realms of existence, and will everywhere enable the ocean of all beings to escape from the ocean of the many kinds of sufferings.
 # text = 𗏡𗣼𘉐𗗚𗹢，𗏡𘕕𘟣𗗚𗰛。𗥹𘎳𗗚𗄑𗄑，𗫔𘍔𗗚𗣈𗟻。
@@ -14749,7 +14749,7 @@
 23	𗟻	𗟻	AUX	_	_	22	aux	_	Gloss=make; marker of causative construction|LTranslit=phi¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0357
+# sent_id = avatamsaka_sutra_0363
 # text_lzh = 當於眾生海，消竭煩惱海。令修諸行海，疾入大智海。
 # text_en = In the ocean of beings, you will dry up the ocean of afflictions and will enable them to cultivate the ocean of practices and swiftly enter the ocean of great wisdom.
 # text = 𗏡𗫔𘎳𗗚𘕿，𗉛𗷫𗗚𗷣𗁐。𗱕𘝦𗗚𗹢𗭍，𘜶𘄡𗗚𘃽𗟻。
@@ -14778,7 +14778,7 @@
 23	𗟻	𗟻	AUX	_	_	22	aux	_	Gloss=make; marker of causative construction|LTranslit=phi¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0358
+# sent_id = avatamsaka_sutra_0364
 # text_lzh = 汝當增智海，汝當修行海。諸佛大願海，汝當咸滿足。
 # text_en = You will increase the ocean of wisdom, you will cultivate the ocean of practices, and you will completely fulfill the ocean of all buddhas’ great vows.
 # text = 𗍳𗗙𘄡𗗚𘎲，𗍳𗏡𘝦𗗚𗹢。𗍳𗏡𗱕𗢳𗗙，𘜶𘓞𗗚𘏋𗣷。
@@ -14807,7 +14807,7 @@
 23	𗣷	𗣷	VERB	_	_	5	conj	_	Gloss=full, packed, sufficient|LTranslit=lhə?|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0359
+# sent_id = avatamsaka_sutra_0365
 # text_lzh = 汝當入剎海，汝當觀眾海。汝當以智力，普飲諸法海。
 # text_en = You will enter the ocean of kṣetras, you will contemplate the ocean of congregations, and you will use the power of wisdom to drink the entire ocean of all dharmas.
 # text = 𗍳𗏡𗂧𗗚𘃽，𗍳𗏡𗫔𗗚𘝯。𗍳𗏡𘄡𗪺𘂎，𗱕𗹙𗗚𗄊𗋁。
@@ -14836,7 +14836,7 @@
 23	𗋁	𗋁	VERB	_	_	5	conj	_	Gloss=drink|LTranslit=de²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0360
+# sent_id = avatamsaka_sutra_0366
 # text_lzh = 當覲諸佛雲，當起供養雲。當聽妙法雲，當興此願雲。
 # text_en = You will seek audiences with the cloud of all buddhas, will raise up clouds of offerings to them, will listen to their clouds of sublime Dharma, and will make a cloud of vows such as these.
 # text = 𗏡𗱕𗢳𗋑𘝯，𗏡𗴿𗒀𗋑𗄈。𗏡𗤓𗹙𗋑𗨉，𗏡𘌽𘓞𗋑𗄈。
@@ -14865,7 +14865,7 @@
 23	𗄈	𗄈	VERB	_	_	5	conj	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0361
+# sent_id = avatamsaka_sutra_0367
 # text_lzh = 普遊三有室，普壞眾惑室。普入如來室，當行如是道。
 # text_en = Roaming everywhere in the house of the three realms of existence, everywhere demolishing the house of the many afflictions, and everywhere entering the house of the Tathāgatas— You will practice a path such as this.
 # text = 𘕕𘟣𗫌𗄊𘕧，𗫔𗆼𗨉𗄊𗹪。𗌮𗆐𗫌𗄊𘃽，𗏡𘌽𗍊𗵘𗭍。
@@ -14894,7 +14894,7 @@
 23	𗭍	𗭍	VERB	_	_	5	conj	_	Gloss=go, send|LTranslit=dźeh¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0362
+# sent_id = avatamsaka_sutra_0368
 # text_lzh = 普入三昧門，普遊解脫門。普住神通門，周行於法界。
 # text_en = You will everywhere enter the gateways of samādhi, will everywhere roam in the gates of liberation, will everywhere abide in the gates of the spiritual superknowledges, and will travel everywhere throughout the Dharma realm.
 # text = 𘋅𗁲𘗠𗄊𘃽，𗧐𗇘𘗠𗄊𘕂。𗾈𗿣𘗠𗄊𗫻，𗹙𗐯𘗠𗄊𘕂。
@@ -14922,7 +14922,7 @@
 22	𘕂	𘕂	VERB	_	_	4	conj	_	Gloss=go, parade|LTranslit=dźe¹|SpaceAfter=No
 23	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0363
+# sent_id = avatamsaka_sutra_0369
 # text_lzh = 普現眾生前，普對諸佛前。譬如日月光，當成如是力。
 # text_en = You will everywhere appear before beings and will everywhere appear before all buddhas like the light of the sun and the moon. You will develop powers such as these.
 # text = 𗫔𘎳𗙼𗄊𗜓，𗱕𗢳𗙼𗄊𗜓。𘊛𗍊𗾔𗼑𘉍，𗏡𘌽𗍊𗪺𗵆。
@@ -14951,7 +14951,7 @@
 23	𗵆	𗵆	VERB	_	_	5	conj	_	Gloss=accomplish|LTranslit=śeṃ¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0364
+# sent_id = avatamsaka_sutra_0370
 # text_lzh = 所行無動亂，所行無染著。如鳥行虛空，當成此妙用。
 # text_en = In all that you practice, you will remain unwavering and undistracted, and in all that you practice, you will be as free of defiling attachments as a bird as it flies across the sky.
 # text = 𘕂𗯩𗚛𘛒𗤋，𘕂𗯩𗝡𗂆𗤋。𘎃𗍊𗲠𘇂𘕂，𗏡𘌽𗤓𘉐𗵆。
@@ -14980,7 +14980,7 @@
 23	𗵆	𗵆	VERB	_	_	0	root	_	Gloss=accomplish|LTranslit=śeṃ¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0365
+# sent_id = avatamsaka_sutra_0371
 # text_lzh = 譬如因陀網，剎網如是住。汝當悉往詣，如風無所礙。
 # text_en = You will develop marvelous functions such as these. Just as is so within the net of Indra, so too will you dwell in the network of kṣetras. You will go forth to visit them all, being as unimpeded in your travels as the wind.
 # text = 𘊛𗍊𘃻𗁬𗙲，𗂧𗙲𘌽𗍊𗫻。𗍳𗏡𗄊𗳺𗶷，𘚶𗍊𗦁𗦇𗤋。
@@ -15008,7 +15008,7 @@
 22	𗤋	𗤋	ADV	_	Polarity=Neg	20	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 23	。	。	PUNCT	_	_	10	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0366
+# sent_id = avatamsaka_sutra_0372
 # text_lzh = 汝當入法界，遍往諸世界。普見三世佛，心生大歡喜。
 # text_en = You will enter the Dharma realm and go everywhere throughout all worlds, everywhere seeing the buddhas of the three periods of time, doing so with a mind filled with great joy.
 # text = 𗍳𗏡𗹙𗐯𘃽，𗱕𗯨𗐯𗄊𗶷。𘕕𘗽𗢳𗄊𘟀，𗤶𘜶𘚻𘅎𗄈。
@@ -15037,7 +15037,7 @@
 23	𗄈	𗄈	VERB	_	_	11	parataxis	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0367
+# sent_id = avatamsaka_sutra_0373
 # text_lzh = 汝於諸法門，已得及當得。應生大喜躍，無貪亦無厭。
 # text_en = With regard to all the Dharma gateways you have already acquired or shall acquire in the future, you should bring forth great exultant joyfulness, while staying free of either covetousness or weariness.
 # text = 𗍳𗱕𗹙𘗠𘕿，𗪘𘜘𗅉𗏡𘜘。𘜶𘚻𘅎𗄈𗦇，𗅴𗤋𘀀𘂆𗤋。
@@ -15066,7 +15066,7 @@
 23	𗤋	𗤋	ADV	_	Polarity=Neg	21	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	16	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0368
+# sent_id = avatamsaka_sutra_0374
 # text_lzh = 汝是功德器，能隨諸佛教。能修菩薩行，得見此奇特。
 # text_en = You are a vessel filled with meritorious qualities who is able to follow the teachings of all buddhas and is able to cultivate the bodhisattva practices. Hence you see these extraordinary phenomena.
 # text = 𗍳𗣼𘉐𘛇𘟂，𗱕𗢳𗹙𗖵𗩱。𘋢𗥤𘝦𗹢𗩱，𘌽𘈃𘍳𘟀𘜘。
@@ -15095,7 +15095,7 @@
 23	𘜘	𘜘	VERB	_	_	16	conj	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0369
+# sent_id = avatamsaka_sutra_0375
 # text_lzh = 如是諸佛子，億劫難可遇。況見其功德，所修諸妙道！
 # text_en = Sons of the Buddha such as these would be rarely met even in a koṭī of kalpas. How much rarer it is to see their meritorious qualities and the marvelous paths that they cultivate.
 # text = 𘌽𗍊𗱕𗢳𘈷，𗦲𗑱𘄏𗄛𗣓。𗋕𘙇𗹢𗱕𗵘，𗣼𘉐𘟀𗰓𗩱。
@@ -15124,7 +15124,7 @@
 23	𗩱	𗩱	AUX	_	_	21	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
 24	。	。	PUNCT	_	_	10	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0370
+# sent_id = avatamsaka_sutra_0376
 # text_lzh = 汝生於人中，大獲諸善利。得見文殊等，無量諸功德。
 # text_en = You have been born within the human realm where you have reaped a vast harvest of excellent benefits. You have succeeded in seeing Mañjuśrī and the others as well as their countless meritorious qualities.
 # text = 𗍳𘓐𘂤𗋚𘎳，𗱕𘜶𗩴𘞙𗟧。𗟦𘞐𘆄𗗙𘟀，𘖑𗆄𗱕𗣼𘉐。
@@ -15152,7 +15152,7 @@
 22	𘉐	𘉐	NOUN	_	_	13	appos	_	Gloss=contribution|LTranslit=yuo¹|SpaceAfter=No
 23	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0371
+# sent_id = avatamsaka_sutra_0377
 # text_lzh = 已離諸惡道，已出諸難處。已超眾苦患，善哉勿懈怠。
 # text_en = You have already escaped the wretched rebirth destinies, have already escaped the places beset by the difficulties, and have already gone beyond the many sufferings and troubles.
 # text = 𗱕𘊄𗵘𗋚𗈜，𗱕𗧹𘋩𗋚𗣈。𗫔𘍔𗥓𗋚𗰛，𗹫𗣀𘅇𗆒𗖼。
@@ -15181,7 +15181,7 @@
 23	𗖼	𗖼	ADJ	_	_	5	parataxis	_	Gloss=idle, remiss|LTranslit=lleh¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0372
+# sent_id = avatamsaka_sutra_0378
 # text_lzh = 已離凡夫地，已住菩薩地。當滿智慧地，速入如來地。
 # text_en = This is so very good indeed! You must not indulge any indolence. You have already left the grounds of the common person, and have already come to dwell on the bodhisattva grounds.
 # text = 𗚉𗪙𗼻𗋚𗈜，𘋢𗥤𗼻𗭊𗫻。𗏡𘄡𘟛𗼻𘏋，𘜤𗌮𗆐𗼻𘃽。
@@ -15210,7 +15210,7 @@
 23	𘃽	𘃽	VERB	_	_	17	parataxis	_	Gloss=enter|LTranslit=wo̱²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0373
+# sent_id = avatamsaka_sutra_0379
 # text_lzh = 菩薩行如海，佛智同虛空。汝願亦復然，應生大欣慶。
 # text_en = You will fulfill the practice of the wisdom grounds and soon enter the ground of the Tathāgata. The bodhisattva practices are like an ocean, the buddhas’ wisdom is like empty space, and so too are your vows.
 # text = 𘋢𗥤𘝦𗗚𗍊，𗢳𘄡𘉏𗲠𗯮。𗍳𘓞𘂆𘌽𗍊，𘜶𘚻𘅎𗄈𗦇。
@@ -15239,7 +15239,7 @@
 23	𗦇	𗦇	AUX	_	_	22	aux	_	Gloss=must|LTranslit=lli̱w²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0374
+# sent_id = avatamsaka_sutra_0380
 # text_lzh = 諸根不懈倦，志願恒決定。親近善知識，不久悉成滿。
 # text_en = You should rejoice greatly in this. Your faculties are such that you do not grow lax or weary and your resolve is always decisive. Draw near to the good spiritual guides and before long you will achieve complete success.
 # text = 𗱕𗺉𗅋𗆒𗖼，𘋼𗧠𗏹𘙌𗅆。𗩴𗄻𗹬𗦍𗶚，𗅋𗈲𗄊𗵆𘏋。
@@ -15268,7 +15268,7 @@
 23	𘏋	𘏋	VERB	_	_	0	root	_	Gloss=full, filled, packed|LTranslit=sə̱¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0375
+# sent_id = avatamsaka_sutra_0381
 # text_lzh = 菩薩種種行，皆為調眾生。普行諸法門，慎勿生疑惑。
 # text_en = The bodhisattvas’ many different practices are all done for the sake of training beings. Completely practice all the Dharma gateways and take care not to doubt them.
 # text = 𘋢𗥤𘋠𘋠𘝦，𗄊𗫔𘎳𗌻𘔼。𗱕𗹙𘗠𗄊𗭍，𗆼𘝌𗤶𘅇𗛈。
@@ -15297,7 +15297,7 @@
 23	𗛈	𗛈	VERB	_	_	0	root	_	Gloss=rise, drive|LTranslit=świ¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0376
+# sent_id = avatamsaka_sutra_0382
 # text_lzh = 汝具難思福，及以真實信。是故於今日，得見諸佛子。
 # text_en = You possess an inconceivable stock of merit as well as genuine faith. It is due to this that now, today, you have been able to see these sons of the Buddha.
 # text = 𗍳𗅢𗣓𗼕𗣼，𗅉𘞌𗒘𘓟𗿷。𘌽𘔼𘘦𗟱𗾞，𗱕𗢳𘈷𗐵𘉞。
@@ -15326,7 +15326,7 @@
 23	𘉞	𘉞	AUX	_	Person=2	22	aux	_	Gloss=auxilary word, second person indicator|LTranslit=na²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0377
+# sent_id = avatamsaka_sutra_0383
 # text_lzh = 汝見諸佛子，悉獲廣大利。一一諸大願，一切咸信受。
 # text_en = You have seen all these sons of the Buddha and have acquired vast benefit from all of them. Each and every one of their great vows are such that you accept them with faith.
 # text = 𗱕𗢳𘈷𘟀𗅉，𗾟𘜶𘞙𗵗𘉞。𘃞𘃞𗱕𘜶𘓞，𗄑𗄑𗄊𘓟𗒐。
@@ -15355,7 +15355,7 @@
 23	𗒐	𗒐	VERB	_	_	10	conj	_	Gloss=receive, accept|LTranslit=ġhwae̱¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0378
+# sent_id = avatamsaka_sutra_0384
 # text_lzh = 汝於三有中，能修菩薩行。是故諸佛子，示汝解脫門。
 # text_en = You are one who is able to cultivate the bodhisattva practices throughout the three realms of existence. Therefore those sons of the Buddha revealed to you their gateways to liberation.
 # text = 𗍳𗋕𘕕𘟣𘂤，𘋢𗥤𘝦𗹢𗩱。𘌽𘔼𗱕𗢳𘈷，𗍳𗗙𗧐𗇘𗖢。
@@ -15384,7 +15384,7 @@
 23	𗖢	𗖢	VERB	_	_	0	root	_	Gloss=indicate, instruct|LTranslit=nne̱²|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0379
+# sent_id = avatamsaka_sutra_0385
 # text_lzh = 非是法器人，與佛子同住。設經無量劫，莫知其境界。
 # text_en = Though those who are not vessels of the Dharma might dwell together with the sons of the Buddha, even if they did so for countless kalpas, none of them could ever know their spheres of experience.
 # text = 𗹙𘛇𘓐𗅔𗌭，𗢳𘈷𗑠𗦬𗫻。𘖑𗆄𗑱𗀅𘂆，𗋕𘃺𗐯𘖑𗄻。
@@ -15413,7 +15413,7 @@
 23	𗄻	𗄻	VERB	_	_	0	root	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0380
+# sent_id = avatamsaka_sutra_0386
 # text_lzh = 汝見諸菩薩，得聞如是法。世間甚難有，應生大喜慶。
 # text_en = You have seen the bodhisattvas and have been able to hear dharmas such as these that are found in the world only extremely rarely. In this, you should greatly rejoice.
 # text = 𗍳𗱕𘋢𗥤𘟀，𘌽𗍊𗹙𗓁𘜘。𗯨𘂤𗩾𘓊𘟣，𘜶𘚻𘅎𗄈𗦇。
@@ -15442,7 +15442,7 @@
 23	𗦇	𗦇	AUX	_	_	22	aux	_	Gloss=must|LTranslit=lli̱w²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0381
+# sent_id = avatamsaka_sutra_0387
 # text_lzh = 諸佛護念汝，菩薩攝受汝。能順其教行，善哉住壽命。
 # text_en = All buddhas are protectively mindful of you, and the bodhisattvas gather you in and accept you. You are one who is able to practice in accord with their teachings. This is good indeed! May you live a long life.
 # text = 𗱕𗢳𗍳𗗙𗓑，𘋢𗥤𗍳𗗙𗪲。𘘝𗖵𗡶𘃡𗩱，𗹫𗣀𘗽𗤷𗫻。
@@ -15471,7 +15471,7 @@
 23	𗫻	𗫻	VERB	_	_	16	conj	_	Gloss=live, stay, exist, to be found|LTranslit=ndźe¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0382
+# sent_id = avatamsaka_sutra_0388
 # text_lzh = 已生菩薩家，已具菩薩德。已長如來種，當昇灌頂位。
 # text_en = You have already been born into the family of the bodhisattvas, have already acquired the virtues of the bodhisattvas, and you have already grown in the lineage of the Tathāgata, and are bound to ascend to the crown-anointing consecration stage.
 # text = 𘋢𗥤𗫌𗋚𘎳，𘋢𗥤𗣼𗋚𘓳。𗌮𗆐𘞗𗈪𘞵，𗏡𗵣𗃊𗎭𗨙。
@@ -15500,7 +15500,7 @@
 23	𗨙	𗨙	VERB	_	_	11	parataxis	_	Gloss=bear, suffer; to receive|LTranslit=lheh²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0383
+# sent_id = avatamsaka_sutra_0389
 # text_lzh = 不久汝當得，與諸佛子等。見苦惱眾生，悉置安隱處。
 # text_en = Before long, you are bound to succeed in becoming the same as the other sons of the Buddha. Whenever you see beings afflicted by sufferings, you shall establish them all in a peaceful and secure place.
 # text = 𗍳𗱕𗢳𘈷𗑠，𗅋𗈲𗄊𗳦𘜘。𘍔𗉛𗫔𘎳𘟀，𘗲𗵐𗯩𗫻𗟻。
@@ -15529,7 +15529,7 @@
 23	𗟻	𗟻	AUX	_	_	22	aux	_	Gloss=make; marker of causative construction|LTranslit=phi¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0384
+# sent_id = avatamsaka_sutra_0390
 # text_lzh = 如下如是種，必獲如是果。我今慶慰汝，汝應大欣悅。
 # text_en = It is just as when one plants a seed of this particular sort, one is then certain to harvest a fruit of this very same sort. I now congratulate you and offer you my comforting assurance.
 # text = 𘌽𗍊𘌛𗕼𗌭，𘙌𗅆𘌽𗫴𘜘。𗧓𗫈𗍳𗗙𘅝，𗍳𘜶𘚻𘅎𗦇。
@@ -15558,7 +15558,7 @@
 23	𗦇	𗦇	AUX	_	_	22	aux	_	Gloss=must|LTranslit=lli̱w²|SpaceAfter=No
 24	。	。	PUNCT	_	_	4	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0385
+# sent_id = avatamsaka_sutra_0391
 # text_lzh = 無量諸菩薩，無量劫行道。未能成此行，信樂堅進力。
 # text_en = You should therefore feel greatly joyous happiness. Countless bodhisattvas have practiced the path for countless kalpas and yet have still been unable to develop these practices, Through the power of faith-filled aspiration and solid vigor.
 # text = 𘖑𗆄𗱕𘋢𗥤，𘖑𗆄𗑱𗵘𗭍。𘌽𘝦𗵆𘖑𗩱，𗍳𘓟𘟠𗬢𗸁。
@@ -15587,7 +15587,7 @@
 23	𗸁	𗸁	ADV	_	_	21	advmod	_	Gloss=firm|LTranslit=lwo̱²|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0386
+# sent_id = avatamsaka_sutra_0392
 # text_lzh = 今汝皆獲得，善財成此行。若有敬慕心，亦當如是學。
 # text_en = All of which you have now already acquired. Sudhana has succeeded in these practices. Whoever feels respect and admiration for this should also pursue training such as this.
 # text = 𗸐𗱠𗪺𗵗𘉞，𗩴𘔮𘌽𘝦𗵆。𘓟𘟠𗤶𗋐𗇋，𗋕𘂆𘌽𗫦𗦇。
@@ -15616,7 +15616,7 @@
 23	𗦇	𗦇	AUX	_	_	22	aux	_	Gloss=must|LTranslit=lli̱w²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0387
+# sent_id = avatamsaka_sutra_0393
 # text_lzh = 一切功德行，皆從願欲生。善財已了知，常樂勤修習。
 # text_en = All the meritorious qualities and practices arise from vows and aspirations. Sudhana has already completely understood this. Hence he always aspires to diligently cultivate them.
 # text = 𗣼𘉐𘝦𗄑𗄑，𗄊𘓞𗧠𗖵𗄈。𗩴𘔮𗄊𗄻𗥤，𗏹𗸐𗹢𘞂𘟠。
@@ -15645,7 +15645,7 @@
 23	𘟠	𘟠	VERB	_	_	17	conj	_	Gloss=love, like|LTranslit=dzu̱¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0388
+# sent_id = avatamsaka_sutra_0394
 # text_lzh = 如龍布密雲，必當霔大雨。菩薩起願智，決定修諸行。
 # text_en = Just as when the dragons spread forth dense clouds, it is then certain that a great rain will pour down, so too, when the bodhisattva brings forth vows and wisdom, he will definitely pursue the cultivation of the practices.
 # text = 𘊛𗵃𗓦𗋑𗜓，𘙌𗅆𘜶𗼮𗼮。𘋢𗥤𘓞𘄡𗄈，𘙌𗅆𗱕𘝦𗹢。
@@ -15674,7 +15674,7 @@
 23	𗹢	𗹢	VERB	_	_	5	parataxis	_	Gloss=build|LTranslit=doh²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0389
+# sent_id = avatamsaka_sutra_0395
 # text_lzh = 若有善知識，示汝普賢行。汝當好承事，慎勿生疑惑。
 # text_en = If there are any good spiritual guides who show you the practices of Samantabhadra, You should serve them well and take care not to doubt them.
 # text = 𗱕𗩴𗄻𗹬𘆄，𗍳𗫡𗾈𘝦𗖢。𗍳𘅃𘅃𘒇𗷾，𗆼𘗲𘅇𗛈𘉞。
@@ -15703,7 +15703,7 @@
 23	𘉞	𘉞	AUX	_	Person=2	22	aux	_	Gloss=auxilary word, second person indicator|LTranslit=na²|SpaceAfter=No
 24	。	。	PUNCT	_	_	17	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0390
+# sent_id = avatamsaka_sutra_0396
 # text_lzh = 汝於無量劫，為欲妄捨身。今為求菩提，此捨方為善。
 # text_en = For countless kalpas, because of sensual desires, you have relinquished bodies in vain. Now, if you were to do so for the sake of the quest for bodhi, this relinquishing would then be good.
 # text = 𗍳𘖑𗆄𗑱𘕿，𗧠𘔼𗅩𘛽𗫩。𗫈𘏞𘛛𗴿𘔼，𘝵𘛽𗫩𗒘𗨻。
@@ -15731,7 +15731,7 @@
 22	𗨻	𗨻	AUX	_	_	21	cop	_	Gloss=do|LTranslit=vwi̱²|SpaceAfter=No
 23	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0391
+# sent_id = avatamsaka_sutra_0397
 # text_lzh = 汝於無量劫，具受生死苦。不曾事諸佛，未聞如是行。
 # text_en = Throughout countless past kalpas, you have fully endured the sufferings of births and deaths without ever having served the buddhas and without ever even hearing of practices such as these.
 # text = 𗍳𘖑𗆄𗑱𘕿，𗢠𘎳𗄊𘍔𗨙。𗱕𗢳𘒇𗷝𗬬，𘌽𗍊𘝦𗷝𗓁。
@@ -15760,7 +15760,7 @@
 23	𗓁	𗓁	VERB	_	_	11	parataxis	_	Gloss=listen, hear|LTranslit=mi¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0392
+# sent_id = avatamsaka_sutra_0398
 # text_lzh = 汝今得人身，值佛善知識。聽受菩提行，云何不歡喜！
 # text_en = Now that you have acquired this human body, have met the Buddha and the good spiritual guides, and have heard the practices leading to bodhi, how could you not be filled with joyous delight?
 # text = 𗍳𗫈𘓐𘛽𘜘，𗢳𗩴𗄻𗹬𗄛。𘏞𘛛𘝦𗨉𗨙，𘝶𗦜𗅋𘚻𘅎。
@@ -15788,7 +15788,7 @@
 22	𘅎	𘅎	ADJ	_	_	5	parataxis	_	Gloss=happy, delighted|LTranslit=lleṃh²|SpaceAfter=No
 23	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0393
+# sent_id = avatamsaka_sutra_0399
 # text_lzh = 雖遇佛興世，亦值善知識。其心不清淨，不聞如是法。
 # text_en = Even if one met a buddha appearing in the world and also met good spiritual guides, still, if one’s mind was impure, one would not get to hear dharmas such as these.
 # text = 𗢳𗯨𗧊𘙌𗄛，𗅉𗩴𗄻𗹬𗄛。𗤶𗉣𗅋𘄎𗑗，𘌽𗍊𗹙𗅋𗓁。
@@ -15817,7 +15817,7 @@
 23	𗓁	𗓁	VERB	_	_	0	root	_	Gloss=listen, hear|LTranslit=mi¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0394
+# sent_id = avatamsaka_sutra_0400
 # text_lzh = 若於善知識，信樂心尊重。離疑不疲厭，乃聞如是法。
 # text_en = If, toward the good spiritual guide, one were to produce faith, aspiration, resolve, and reverence while abandoning doubts and remaining free of weariness, only then one might be able to hear Dharma such as this.
 # text = 𗓱𗩴𗄻𗹬𘋩，𘓟𘟠𗤶𗖻𗴢。𗆼𗈜𗅋𘀀𗌭，𘘦𘌽𗍊𗹙𗓁。
@@ -15846,7 +15846,7 @@
 23	𗓁	𗓁	VERB	_	_	0	root	_	Gloss=listen, hear|LTranslit=mi¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0395
+# sent_id = avatamsaka_sutra_0401
 # text_lzh = 若有聞此法，而興誓願心。當知如是人，已獲廣大利。
 # text_en = If there is anyone who hears this Dharma and then produces a mind of resolute vows, one should realize that a person such as this has already reaped vast benefit.
 # text = 𗓱𘌽𗹙𗓁𘅍，𗡔𘓞𗤶𗰱𗄈。𘌽𗍊𗱕𘓐𘆄，𗾟𘜶𘞙𗐗𘜘。
@@ -15875,7 +15875,7 @@
 23	𘜘	𘜘	VERB	_	_	0	root	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0396
+# sent_id = avatamsaka_sutra_0402
 # text_lzh = 如是心清淨，常得近諸佛。亦近諸菩薩，決定成菩提。
 # text_en = If one’s resolve is purified in this way, he will always be able to draw near to the buddhas, will also draw near to the bodhisattvas, and will definitely succeed in realizing bodhi.
 # text = 𘌽𗍊𗤶𘄎𗑗，𗏹𗱕𗢳𗦍𘜘。𗅉𗱕𘋢𗥤𗦍，𘙌𗅆𘏞𘛛𗵆。
@@ -15903,7 +15903,7 @@
 22	𗵆	𗵆	VERB	_	_	11	parataxis	_	Gloss=accomplish|LTranslit=śeṃ¹|SpaceAfter=No
 23	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0397
+# sent_id = avatamsaka_sutra_0403
 # text_lzh = 若入此法門，則具諸功德。永離眾惡趣，不受一切苦。
 # text_en = If one enters this gateway of the Dharma, then he will acquire all the meritorious qualities, will forever leave behind the many wretched destinies, and will no longer undergo any of those sufferings.
 # text = 𘌽𗹙𘗠𘃽𘔼，𘘦𗱕𗣼𘉐𗿷。𗫔𘊄𗷖𘘂𗈜，𘍔𗄑𗄑𗅋𗨙。
@@ -15932,7 +15932,7 @@
 23	𗨙	𗨙	VERB	_	_	17	parataxis	_	Gloss=bear, suffer; to receive|LTranslit=lheh²|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0398
+# sent_id = avatamsaka_sutra_0404
 # text_lzh = 不久捨此身，往生佛國土。常見十方佛，及以諸菩薩。
 # text_en = Before long, you will relinquish this body and go forth to rebirth in a buddha land where you will always see the buddhas of the ten directions as well as all the bodhisattvas.
 # text = 𗅋𗈲𘌽𘛽𗫩，𗢳𗂧𘍞𘎳𗶷。𗏹𗰭𗏣𗢳𘟀，𗅉𗱕𘋢𗥤𘟀。
@@ -15961,7 +15961,7 @@
 23	𘟀	𘟀	VERB	_	_	17	conj	_	Gloss=see|LTranslit=le²|SpaceAfter=No
 24	。	。	PUNCT	_	_	5	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0399
+# sent_id = avatamsaka_sutra_0405
 # text_lzh = 往因今淨解，及事善友力。增長諸功德，如水生蓮華。
 # text_en = Due to past causes by which your resolve is now purified and also due to the power of having served the good spiritual guides, you grow in all the meritorious qualities just as a lotus flower grows forth from its waters.
 # text = 𗖏𗦫𗫈𗈪𗥤，𗩴𗑟𘒇𗪺𗖵。𗱕𗣼𘉐𘎲𘃸，𗋽𘂤𗤻𗧊𗍊。
@@ -15990,7 +15990,7 @@
 23	𗍊	𗍊	SCONJ	_	_	22	mark	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 24	。	。	PUNCT	_	_	17	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0400
+# sent_id = avatamsaka_sutra_0406
 # text_lzh = 樂事善知識，勤供一切佛。專心聽聞法，常行勿懈倦。
 # text_en = Delight in serving the good spiritual guides, be diligent in making offerings to all buddhas, single-mindedly listen to the Dharma, always practice, and never let yourself grow lax or weary.
 # text = 𗩴𗄻𗹬𘒇𘟠，𗱕𗢳𗗙𗴿𗒀。𗤶𗨳𗹙𗨉𗸬，𗏹𗭍𘅇𗆒𗖼。
@@ -16019,7 +16019,7 @@
 23	𗖼	𗖼	ADJ	_	_	20	conj	_	Gloss=idle, remiss|LTranslit=lleh¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0401
+# sent_id = avatamsaka_sutra_0407
 # text_lzh = 汝是真法器，當具一切法。當修一切道，當滿一切願。
 # text_en = You have become a true vessel of the Dharma. You will become completely possessed of all dharmas, will cultivate all the paths, and will fulfill all the vows.
 # text = 𗍳𗹙𘛇𗒘𘟂，𗏡𗹙𗄑𗄑𘓳。𗏡𗵘𗄑𗄑𗹢，𗏡𘓞𗄑𗄑𘏋。
@@ -16048,7 +16048,7 @@
 23	𘏋	𘏋	VERB	_	_	17	parataxis	_	Gloss=full, filled, packed|LTranslit=sə̱¹|SpaceAfter=No
 24	。	。	PUNCT	_	_	3	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0402
+# sent_id = avatamsaka_sutra_0408
 # text_lzh = 汝以信解心，而來禮敬我。不久當普入，一切諸佛會。
 # text_en = It is with a mind of resolute faith that you have come here to pay your respects to me. Before long, you will everywhere enter the congregations of all buddhas.
 # text = 𗍳𘓟𗥤𗤶𘂎，𗧓𘋩𗴿𗒀𗆐。𗅋𗈲𗢳𗄑𗄑，𗫔𗥩𘂤𗄊𘃽。
@@ -16077,7 +16077,7 @@
 23	𘃽	𘃽	VERB	_	_	0	root	_	Gloss=enter|LTranslit=wo̱²|SpaceAfter=No
 24	。	。	PUNCT	_	_	23	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0403
+# sent_id = avatamsaka_sutra_0409
 # text_lzh = 善哉真佛子，恭敬一切佛。不久具諸行，到佛功德岸。
 # text_en = It is good indeed, you true son of the Buddha. You who revere all the buddhas are bound before long to fully possess all the practices and achieve perfection in the Buddha’s meritorious qualities.
 # text = 𗹫𗣀𗢳𘈷𗒘，𗱕𗢳𗗙𗼋𗧋。𗅋𗈲𗱕𘝦𘓳，𗢳𗣼𘉐𘋟𗫡。
@@ -16106,7 +16106,7 @@
 23	𗫡	𗫡	VERB	_	_	17	parataxis	_	Gloss=arrive|LTranslit=nə²|SpaceAfter=No
 24	。	。	PUNCT	_	_	11	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0404
+# sent_id = avatamsaka_sutra_0410
 # text_lzh = 汝當往大智，文殊師利所。彼當令汝得，普賢深妙行。
 # text_en = You should go forth to the abode of the greatly wise Mañjuśrī. He will enable you to acquire the profound and sublime practices of Samantabhadra.
 # text = 𗍳𗟦𘞐𗖊𘄊，𘜶𘄡𘋩𗶷𗦇。𗍳𗗙𗫡𗾈𘝦，𗑷𗄊𘜘𗟻𘉞。
@@ -16132,7 +16132,7 @@
 20	𘉞	𘉞	AUX	_	Person=2	18	aux	_	Gloss=auxilary word, second person indicator|LTranslit=na²|SpaceAfter=No
 21	。	。	PUNCT	_	_	7	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0405
+# sent_id = avatamsaka_sutra_0411
 # text_lzh = 爾時，彌勒菩薩摩訶薩在眾會前，稱讚善財大功德藏。
 # text_en = Then, Maitreya Bodhisattva-mahāsattva in front of that congregation praising Sudhana’s immense treasury of meritorious qualities,
 # text = 𗉘𘝨𗓁𗓁𘏞𗢈𗓚𘄽𗢈𗫔𗥩𗙼𗙷𗩴𘔮𗗙𘜶𗣼𘉐𗔇𗡙𗜓。
@@ -16156,7 +16156,7 @@
 18	𗜓	𗜓	VERB	_	_	0	root	_	Gloss=appear, show|LTranslit=śa²|SpaceAfter=No
 19	。	。	PUNCT	_	_	18	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0406
+# sent_id = avatamsaka_sutra_0412
 # text_lzh = 善財聞已，歡喜踴躍，身毛皆豎，悲泣哽噎；起立合掌，恭敬瞻仰，遶無量匝。
 # text_en = Having heard, Sudhana felt joyous exultation and the hairs of his body all stood on end. Weeping and choked up, he then stood up with his palms pressed together respectfully, and gazed up in admiration at Maitreya Bodhisattva as he circumambulated him countless times.
 # text = 𗩴𘔮𗓁𗅉𘚻𘅎𘙇𘇤𘛽𗁲𗄊𗜔𗥸𗙡𗕹𘝮𗙏𗱩𗋚𘋮𘃎𘜼𗼋𗧋𗴢𗦾𘖑𗆄𘜔𗤋𗢶𗨨。
@@ -16194,7 +16194,7 @@
 32	𗨨	𗨨	VERB	_	_	0	root	_	Gloss=circle|LTranslit=ro̱r²|SpaceAfter=No
 33	。	。	PUNCT	_	_	32	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0407
+# sent_id = avatamsaka_sutra_0413
 # text_lzh = 以文殊師利心念力故，眾華、瓔珞、種種妙寶不覺忽然自盈其手；善財歡喜，即以奉散彌勒菩薩摩訶薩上。
 # text_en = Then, through the mental powers of Mañjuśrī and without Sudhana even being aware of it, many kinds of flowers, necklaces, and various marvelous jewels suddenly and spontaneously filled his hands. Overjoyed, Sudhana straightaway lifted them up as offerings and showered them over Maitreya Bodhisattva-mahāsattva
 # text = 𗟦𘞐𗖊𘄊𗗙𗤶𗆫𗪺𘔼𗌭𗫔𗤻𗡦𗙲𘋠𘋠𗤓𘏨𗋕𗡶𗁅𗅁𗱢𘎎𗩴𘔮𘚻𘅎𗉮𘃛𘌽𗳒𗓁𗓁𘏞𗢈𗓚𘄽𗢈𗀔𗋚𗕼。
@@ -16235,7 +16235,7 @@
 35	𗕼	𗕼	VERB	_	_	0	root	_	Gloss=spread, pour, throw; to attack|LTranslit=lu²|SpaceAfter=No
 36	。	。	PUNCT	_	_	35	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0408
+# sent_id = avatamsaka_sutra_0414
 # text_lzh = 時，彌勒菩薩摩善財頂，為說頌言：
 # text_en = Whereupon Maitreya Bodhisattva-mahāsattva rubbed the crown of Sudhana’s head and spoke this verse:
 # text = 𗿳𗓁𗓁𘋢𗥤𗩴𘔮𗗙𗵣𗃃𗖍𘒣𘙇𘎪。
@@ -16254,7 +16254,7 @@
 13	𘎪	𘎪	VERB	_	_	0	root	_	Gloss=speak, talk, say|LTranslit=ntshe¹|SpaceAfter=No
 14	。	。	PUNCT	_	_	13	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0409
+# sent_id = avatamsaka_sutra_0415
 # text_lzh = 善哉善哉真佛子！普策諸根無懈倦。不久當具諸功德，猶如文殊及與我。
 # text_en = It is so good indeed, so very good indeed, you true son of the Buddha. You goaded all your faculties and stayed free of laxness or weariness. Before long you will acquire all the meritorious qualities by which you will become like Mañjuśrī and myself.
 # text = 𗹫𗣀𗹫𗣀𗢳𘈷𗒘，𗱕𗺉𗰱𗄈𗆒𗖼𗤋。𗅋𗈲𗱕𗣼𘉐𘓳𗦇，𗧓𗍊𗅉𗟦𘞐𗋚𗍊。
@@ -16290,7 +16290,7 @@
 30	𗍊	𗍊	ADP	_	_	29	fixed	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 31	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0410
+# sent_id = avatamsaka_sutra_0416
 # text_lzh = 時，善財童子以頌答曰：
 # text_en = Then the youth Sudhana then replied with these verses:
 # text = 𗿳𗩴𘔮𘁛𘞁𗖍𘂎𗊬𘒣。
@@ -16305,7 +16305,7 @@
 9	𘒣	𘒣	NOUN	_	_	8	obj	_	Gloss=speech, word|LTranslit=da̱h²|SpaceAfter=No
 10	。	。	PUNCT	_	_	8	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0411
+# sent_id = avatamsaka_sutra_0417
 # text_lzh = 我念善知識，億劫難值遇。今得咸親近，而來詣尊所。
 # text_en = I am mindful that the good spiritual guides are only rarely met even in a koṭī of kalpas. Now, I have succeeded in drawing near to them all and have come here to pay my respects to the Venerable One.
 # text = 𗧓𗩴𗄻𗹬𗆫，𗦲𗑱𘄏𗄛𗣓。𗫈𗄊𗦍𗶚𗟧，𗖻𘋩𘙇𗆐𗧓。
@@ -16334,7 +16334,7 @@
 23	𗧓	𗧓	AUX	_	Person=1	22	aux	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
 24	。	。	PUNCT	_	_	22	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0412
+# sent_id = avatamsaka_sutra_0418
 # text_lzh = 我以文殊故，見諸難見者。彼大功德尊，願速還瞻覲。
 # text_en = It is because of Mañjuśrī that I have seen all of these who are so rarely seen. May I swiftly return to gaze up at and have audiences with that venerable one of such great meritorious qualities.
 # text = 𗧓𗟦𘞐𘔼𗌭，𗱕𘟀𗣓𗐵𗧓。𗋕𘜶𗣼𗖻𗗙，𗉮𘃛𘊐𗐵𗧓。
@@ -16362,7 +16362,7 @@
 22	𗧓	𗧓	AUX	_	Person=1	21	aux	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
 23	。	。	PUNCT	_	_	9	punct	_	Orig=_
 
-# sent_id = avatamsaka_sutra_0413
+# sent_id = avatamsaka_sutra_0419
 # text_lzh = 大方廣佛華嚴經卷第七十七
 # text_en = The Great Vaipulya Sutra of Higher Flower Ornament, Fascicle 77
 # text = 𘜶𗣼𗾟𗢳𗤻𗵽𗖰𗚩𘐳𗒹𗰗𗒹𗡪。
