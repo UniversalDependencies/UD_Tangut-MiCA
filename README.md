@@ -4,9 +4,9 @@ The Tangut Treebank (MiCA) is an annotated treebank of Tangut texts, developed b
 
 # Introduction
 
-This treebank is based on the Tangut versions of the *Lotus Sutra* (法華經) and the *Avataṃsaka Sūtra* (華嚴經), include both prose and verse. Texts are transcribed from published images of manuscripts and annotated according to Universal Dependencies v2.
+This treebank is based on the Tangut versions of the *Lotus Sutra* (法華經) and the *Avataṃsaka Sūtra* (華嚴經). Texts are transcribed from published images of manuscripts and annotated.
 
-Original Tangut manuscripts generally contain no punctuation between words or sentences. For UD annotation, punctuation is added. Word segmentation follows lexical and syntactic criteria. The treebank provides lemmas, universal part-of-speech tags, morphological features, dependency relations, and lexical glosses and transliterations in `MISC`.
+Tangut manuscripts generally contain no punctuation between words or sentences. For UD annotation, word segmentation and punctuation are added. The treebank provides lemmas, universal part-of-speech tags, morphological features, dependency relations, and lexical glosses and transliterations in `MISC`.
 
 The current release contains one file:
 
@@ -14,7 +14,7 @@ The current release contains one file:
     - Chapter 25 of the *Lotus Sutra* (法華經・觀世音菩薩普門品), based on the manuscript transcription published by Chen Bingying (1985).
     - Volume 77 of the *Avataṃsaka Sūtra* (華嚴經), based on the manuscript transcription published by Arakawa Shintarō (2011).
 
-The release contains approximately 14,000 tokens in 503 sentences. All annotated data are currently included in the test set. The two source texts can be distinguished by the prefixes `lotus_sutra_` and `avatamsaka_sutra_` in the sentence identifiers. 
+The release contains approximately 14,000 tokens in 503 sentences. All annotated data are included in the test set. The two source texts can be distinguished by the prefixes `lotus_sutra_` and `avatamsaka_sutra_`. 
 
 # Acknowledgments
 
@@ -28,7 +28,7 @@ Lexical glosses refer in part to [TangutTranslator](https://github.com/C27Ezx/Ta
 
 ## References
 
-* Wenjie Hua, Chia-Wei Lin, Yuxi Zheng, Yue Ji, Longyu Zhang, Zhengshi Jiang, and Amir Zeldes. "[UD-Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA)." 2026.
+* Hua, Wenjie, Chia-Wei Lin, Yuxi Zheng, Yue Ji, Longyu Zhang, Zhengshi Jiang, and Amir Zeldes. "[UD-Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA)." (2026).
 
 
 # Changelog
