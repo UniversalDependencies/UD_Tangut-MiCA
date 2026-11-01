@@ -1,6 +1,6 @@
 # Summary
 
-Tangut Treebank (𗼇𘝞𘕰𗾊, MiCA) is an annotated treebank of Tangut texts, developed by the Mi (𗼇) Corpus Annotation Group.
+MiCA (𗼇𘝞𘕰𗾊) is an annotated Tangut treebank, developed by the Mi (𗼇) Corpus Annotation Group.
 
 # Introduction
 
@@ -11,8 +11,8 @@ Tangut manuscripts generally contain no punctuation between words or sentences. 
 The current release contains one file:
 
 * `txg_mica-ud-test.conllu`
-    - Chapter 25 of the *Lotus Sūtra* (法華經), based on the manuscript images published by Chen Bingying (1985).
-    - Volume 77 of the *Avataṃsaka Sūtra* (華嚴經), based on the manuscript images published by Arakawa Shintarō (2011).
+    - Chapter 25 of the [*Lotus Sūtra*](https://en.wikipedia.org/wiki/Lotus_Sutra) (法華經), based on the manuscript images published by Chen Bingying (1985).
+    - Volume 77 of the [*Avataṃsaka Sūtra*](https://en.wikipedia.org/wiki/Buddh%C4%81vata%E1%B9%83saka_S%C5%ABtra) (華嚴經), based on the manuscript images published by Arakawa Shintarō (2011).
 
 The two source texts can be distinguished by the prefixes `lotus_sutra_` and `avatamsaka_sutra_`. 
 
@@ -30,7 +30,7 @@ Lexical glosses refer in part to [TangutTranslator](https://github.com/C27Ezx/Ta
 
 * Chen, Bingying (陈炳应). 1985. “An Annotated Translation of the Illustrated Tangut *Guanyin Sutra*” (图解本西夏文〈观音经〉译释). *Dunhuang Research* (敦煌研究), no. 3, pp. 49–58.
 * Arakawa, Shintaro (荒川慎太郎). 2011. “[An Annotated Japanese Translation of the Tangut Version of *Avataṃsaka Sūtra*, Vol. 77 in Princeton University Collection](https://tufs.repo.nii.ac.jp/record/2077/files/jaas081006_ful.pdf)” (プリンストン大学所蔵西夏文華厳経巻七十七訳注). *Journal of Asian and African Studies* (アジア・アフリカ言語文化研究), vol. 81, pp. 147–305.
-* Hua, Wenjie; Lin, Chia-Wei; Zheng, Yuxi; Ji, Yue; Zhang, Longyu; Jiang, Zhengshi; Zeldes, Amir. 2026. “[UD-Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA).” Universal Dependencies treebank, GitHub repository.
+* Hua, Wenjie, Chia-Wei Lin, Yuxi Zheng, Yue Ji, Longyu Zhang, Zhengshi Jiang, and Amir Zeldes. 2026. "[UD-Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA)." Universal Dependencies treebank, GitHub repository.
 
 
 # Changelog
