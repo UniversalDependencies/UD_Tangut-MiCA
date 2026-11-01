@@ -1,6 +1,6 @@
 # Summary
 
-The Tangut Treebank (MiCA) is an annotated treebank of Tangut texts, developed by the Mi Corpus Annotation Group.
+Tangut Treebank (MiCA) is an annotated treebank of Tangut texts, developed by the Mirywər (𗼇𘝞) Corpus Annotation Group.
 
 # Introduction
 
