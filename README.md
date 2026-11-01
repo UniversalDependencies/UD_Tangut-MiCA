@@ -1,10 +1,10 @@
 # Summary
 
-Tangut Treebank (MiCA) is an annotated treebank of Tangut texts, developed by the Mirywər (𗼇𘝞) Corpus Annotation Group.
+Tangut Treebank (𗼇𘝞𘕰𗾊, MiCA) is an annotated treebank of Tangut texts, developed by the Mi (𗼇) Corpus Annotation Group.
 
 # Introduction
 
-This treebank is based on the Tangut versions of the *Lotus Sutra* (法華經) and the *Avataṃsaka Sūtra* (華嚴經). Texts are transcribed from published images of manuscripts and annotated.
+This treebank is based on the Tangut versions of chapters from two sūtras. Texts are transcribed from published images of manuscripts and annotated.
 
 Tangut manuscripts generally contain no punctuation between words or sentences. For UD annotation, word segmentation and punctuation are added. The treebank provides lemmas, universal part-of-speech tags, morphological features, dependency relations, and lexical glosses and transliterations in `MISC`.
 
