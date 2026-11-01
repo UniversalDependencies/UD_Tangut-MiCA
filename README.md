@@ -11,10 +11,10 @@ Tangut manuscripts generally contain no punctuation between words or sentences. 
 The current release contains one file:
 
 * `txg_mica-ud-test.conllu`
-    - Chapter 25 of the *Lotus Sutra* (法華經・觀世音菩薩普門品), based on the manuscript transcription published by Chen Bingying (1985).
-    - Volume 77 of the *Avataṃsaka Sūtra* (華嚴經), based on the manuscript transcription published by Arakawa Shintarō (2011).
+    - Chapter 25 of the *Lotus Sūtra* (法華經), based on the manuscript images published by Chen Bingying (1985).
+    - Volume 77 of the *Avataṃsaka Sūtra* (華嚴經), based on the manuscript images published by Arakawa Shintarō (2011).
 
-The release contains approximately 14,000 tokens in 503 sentences. All annotated data are included in the test set. The two source texts can be distinguished by the prefixes `lotus_sutra_` and `avatamsaka_sutra_`. 
+The two source texts can be distinguished by the prefixes `lotus_sutra_` and `avatamsaka_sutra_`. 
 
 # Acknowledgments
 
@@ -28,7 +28,9 @@ Lexical glosses refer in part to [TangutTranslator](https://github.com/C27Ezx/Ta
 
 ## References
 
-* Hua, Wenjie, Chia-Wei Lin, Yuxi Zheng, Yue Ji, Longyu Zhang, Zhengshi Jiang, and Amir Zeldes. "[UD-Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA)." (2026).
+* Chen, Bingying (陈炳应). 1985. “An Annotated Translation of the Illustrated Tangut *Guanyin Sutra*” (图解本西夏文〈观音经〉译释). *Dunhuang Research* (敦煌研究), no. 3, pp. 49–58.
+* Arakawa, Shintaro (荒川慎太郎). 2011. “[An Annotated Japanese Translation of the Tangut Version of *Avataṃsaka Sūtra*, Vol. 77 in Princeton University Collection](https://tufs.repo.nii.ac.jp/record/2077/files/jaas081006_ful.pdf)” (プリンストン大学所蔵西夏文華厳経巻七十七訳注). *Journal of Asian and African Studies* (アジア・アフリカ言語文化研究), vol. 81, pp. 147–305.
+* Hua, Wenjie; Lin, Chia-Wei; Zheng, Yuxi; Ji, Yue; Zhang, Longyu; Jiang, Zhengshi; Zeldes, Amir. 2026. “[UD-Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA).” Universal Dependencies treebank, GitHub repository.
 
 
 # Changelog
