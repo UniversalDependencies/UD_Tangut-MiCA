@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>503</sentences><tokens>13868</tokens><words>13868</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>503</sentences><tokens>13868</tokens><words>13868</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="874" /><!-- 。, 𗄑, ，, 𗗙, 𗥤, 𘋢, 𗦇, 𗱕, 𗹙, 𗄈, 𗩴, 𗫻, 𗄊, 𗍊, 𗄻 -->
+  <forms unique="873" /><!-- 。, 𗄑, ，, 𗗙, 𗥤, 𘋢, 𗦇, 𗱕, 𗹙, 𗄈, 𗩴, 𗫻, 𗄊, 𗍊, 𗄻 -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="15">
+    <tag name="ADJ">918</tag><!-- 𗩴, 𘜶, 𗫔, 𗑗, 𗣼, 𗤓, 𘄎, 𘋠, 𗕿, 𗾈 -->
+    <tag name="ADP">983</tag><!-- 𗗙, 𗍊, 𗖵, 𘂤, 𘕿, 𗅁, 𘂎, 𘋩, 𗳒, 𗋚 -->
+    <tag name="ADV">971</tag><!-- 𗄊, 𗏡, 𘙇, 𘙌, 𗌭, 𗓱, 𘝵, 𗤋, 𗡶, 𗏹 -->
+    <tag name="AUX">565</tag><!-- 𗦇, 𗩱, 𘟂, 𗟻, 𘉞, 𗟭, 𗧓, 𗧠, 𗏺, 𗭊 -->
+    <tag name="CCONJ">53</tag><!-- 𗅉, 𘓁 -->
+    <tag name="DET">959</tag><!-- 𗄑, 𗱕, 𘖑, 𗤋, 𗋕, 𘌽, 𗉘, 𗅋, 𘈒, 𗳌 -->
+    <tag name="INTJ">5</tag><!-- 𗹫 -->
+    <tag name="NOUN">4343</tag><!-- 𘋢, 𗹙, 𗢳, 𘏚, 𗆄, 𘎳, 𗤶, 𗇋, 𗹬, 𗄻 -->
+    <tag name="NUM">216</tag><!-- 𗈪, 𘕕, 𗡞, 𗦲, 𗰗, 𘊝, 𗍫, 𗥃, 𗰭, 𘈩 -->
+    <tag name="PART">297</tag><!-- 𗅋, 𘃞, 𗤋, 𘅇, 𘖑, 𗣀, 𗦜, 𗈪 -->
+    <tag name="PRON">302</tag><!-- 𘌽, 𗍳, 𗧓, 𘆄, 𗳱, 𗄑, 𗋕, 𗄊, 𗑷, 𘉑 -->
+    <tag name="PROPN">344</tag><!-- 𗙏, 𘝯, 𗯨, 𗩴, 𘔮, 𗉣, 𗅋, 𗋃, 𗓁𗓁, 𗟦𘞐 -->
+    <tag name="PUNCT">1083</tag><!-- 。, ， -->
+    <tag name="SCONJ">124</tag><!-- 𘔼, 𗍊, 𗳒, 𗖵, 𗭪, 𘂎, 𘘦, 𗐱, 𘗐, 𗅉 -->
+    <tag name="VERB">2705</tag><!-- 𗥤, 𗄈, 𗫻, 𘎪, 𗹢, 𘃽, 𗄻, 𗜓, 𗈜, 𘃡 -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="18">
+    <feat name="ExtPos" value="ADP" upos="ADP">30</feat><!-- 𗋚, 𗖵, 𘝦 -->
+    <feat name="ExtPos" value="ADV" upos="ADV,NOUN">16</feat><!-- 𘝶, 𗑷, 𗄑, 𗅉, 𗉮, 𘎤, 𘙇 -->
+    <feat name="ExtPos" value="CCONJ" upos="CCONJ">4</feat><!-- 𘓁, 𗅉 -->
+    <feat name="ExtPos" value="DET" upos="DET">252</feat><!-- 𗄑, 𗱕 -->
+    <feat name="ExtPos" value="PRON" upos="PRON">10</feat><!-- 𗄑, 𗑷, 𘃜 -->
+    <feat name="ExtPos" value="SCONJ" upos="SCONJ">2</feat><!-- 𘘦, 𘝦 -->
+    <feat name="Number" value="Plur" upos="AUX">2</feat><!-- 𗐱 -->
+    <feat name="Person" value="1" upos="AUX">19</feat><!-- 𗧓 -->
+    <feat name="Person" value="2" upos="AUX">29</feat><!-- 𘉞, 𗐱 -->
+    <feat name="Polarity" value="Neg" upos="ADV,AUX,PART,VERB">248</feat><!-- 𗅋, 𗤋, 𘖑, 𘅇, 𗷝, 𗅔 -->
+    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">143</feat><!-- 𘌽, 𗉘, 𗳌, 𗳺, 𗋕 -->
+    <feat name="PronType" value="Ind" upos="ADV,DET,PRON">92</feat><!-- 𗋕, 𘆄, 𘉑, 𘈒, 𘃜, 𘋠, 𗮅, 𗯩, 𗿷 -->
+    <feat name="PronType" value="Int" upos="DET">2</feat><!-- 𘕣 -->
+    <feat name="PronType" value="Neg" upos="DET">167</feat><!-- 𘖑, 𗤋, 𗅋, 𗅔 -->
+    <feat name="PronType" value="Prs" upos="PRON">140</feat><!-- 𗍳, 𗧓, 𗳱, 𘑶, 𘝵, 𘀍 -->
+    <feat name="PronType" value="Tot" upos="ADV,DET,PRON">733</feat><!-- 𗄑, 𗱕, 𗄊, 𗑷 -->
+    <feat name="Reflex" value="Yes" upos="PRON">3</feat><!-- 𘝵 -->
+    <feat name="Typo" value="Yes" upos="AUX,NOUN,PART">7</feat><!-- 𗎭, 𗙏, 𗤳, 𗨉, 𗱕, 𘂎, 𘍔 -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="31">
+    <dep name="acl">628</dep>
+    <dep name="advcl">458</dep>
+    <dep name="advmod">1090</dep>
+    <dep name="amod">723</dep>
+    <dep name="appos">16</dep>
+    <dep name="aux">470</dep>
+    <dep name="case">954</dep>
+    <dep name="cc">50</dep>
+    <dep name="ccomp">64</dep>
+    <dep name="compound">1271</dep>
+    <dep name="conj">1035</dep>
+    <dep name="cop">95</dep>
+    <dep name="csubj">11</dep>
+    <dep name="det">707</dep>
+    <dep name="discourse">10</dep>
+    <dep name="discourse:sp">106</dep>
+    <dep name="fixed">313</dep>
+    <dep name="flat">178</dep>
+    <dep name="iobj">46</dep>
+    <dep name="mark">123</dep>
+    <dep name="nmod">1286</dep>
+    <dep name="nsubj">412</dep>
+    <dep name="nsubj:pass">3</dep>
+    <dep name="nummod">203</dep>
+    <dep name="obj">1125</dep>
+    <dep name="obl">664</dep>
+    <dep name="parataxis">101</dep>
+    <dep name="punct">1083</dep>
+    <dep name="root">503</dep>
+    <dep name="vocative">51</dep>
+    <dep name="xcomp">89</dep>
+  </deps>
+</treebank>
